@@ -17,7 +17,7 @@ author_profile: true
 
 2021
 ------
-IEEE.TED'21 Sadman Sakib, Aleksandar Milenković, Biswajit Ray, “Flash-DNA: Identifying NAND Falsh Memory Origins Using Intrinsic Array Properties,” IEEE Transactions on Electron Devices, Vol. TBD, No: TBD, June 17, 2021, pp. 1-7, doi: 10.1109/TED.2021.3087454.
+IEEE.TED'21 
 
 ACM.TECS'21 Prawar Poudel, Biswajit Ray, Aleksandar Milenković, "Microcontroller Fingerprinting Using Partially Erased NOR Flash Memory Cells," ACM Transactions on Embedded Computing Systems, Vol. 20, No: 3, Article 26, March 2021, doi: 10.1145/3448271.
 
