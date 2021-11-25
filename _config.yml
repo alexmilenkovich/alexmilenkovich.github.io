@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Aleksandar Milenkovic webpage"
+title                    : "Dr. Aleksandar Milenković"
 title_separator          : "-"
 name                     : &name "Dr. Aleksandar Milenkovic"
 description              : &description "Professor of Electrical and Computer Engineering"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aleksandar Milenkovic"
+  name             : "Aleksandar Milenković"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Huntsville, AL"
