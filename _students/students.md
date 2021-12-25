@@ -1,20 +1,20 @@
+
 ---
 title: "Students"
 permalink: /students/
 author_profile: true
+redirect_from:
+ - /students/
+ - /students.html
 ---
-## Current Students
 
-**Girdharilal Pandey**, M.S. Student
-
-**Ethan O'Quin**, Undergraduate researcher
-
-**Kevin King**, Undergraduate researcher
+**Girdharilal Pandey**, MS Student
 
 
-## Graduated PhD and Masters Students
+**Ethan O'Quin**
 
-**Ranjan Hebbar** (PhD, Summer 2021; first job: VmWare, Palo Alto, CA)
+
+**Ranjan Hebbar** (PhD, Summer 2021; first job: VmWare, Palo Alto,CA)
 
 *   Dissertation: [PMU-Events-Driven DVFS Techniques for Improving Energy-Efficiency in Modern Processors](http://www.ece.uah.edu/~milenka/docs/ranjan.hebbar.dissertation.pdf)
 
@@ -24,7 +24,6 @@ author_profile: true
 **Igor Semenov** (M.S., Summer 2020; first job: Cepton, San Jose, CA)
 
 *   Thesis: [An Implementation of ChaCha20 Stream Cypher in All-Programmable SoCs](http://www.ece.uah.edu/~milenka/docs/igor.semenov.thesis.pdf)
-*   Artifacts: [Github FpgaCha](https://github.com/Goshik92/FpgaCha)
 
 **Mounika Ponugoti** (PhD, Summer 2019; first job: Qualcomm, San Diego, CA)
 
@@ -46,11 +45,11 @@ author_profile: true
 
 *   Dissertation: [A Framework for Optimizating Data Transfers Between Edge Devices and the Cloud Using Compression Utilities](http://www.ece.uah.edu/~milenka/docs/armen.dzhagaryan.dissertation.pdf) 
 
-**Amrish K. Tewar** (M.S., Spring 2015; first job: MathWorks, Natick, MA)
+**Amrish K. Tewar** (MS, Spring 2015; first job: MathWorks, Natick, MA)
 
 *   Thesis: [Experimental Evaluation of Techniques for Capturing and Compressing Hardware Traces in Multicores](http://www.ece.uah.edu/~milenka/docs/amrish.k.tewar.thesis.pdf)
 
-**Albert Myers** (M.S., Spring 2014; first job: AMRDEC, Huntsville AL)
+**Albert Myers** (MS, Spring 2014; first job: AMRDEC, Huntsville AL)
 
 *   Thesis: [A Binary Instrumentation Tool Suite for Capturing and Compressing Traces for Multithreaded Software](http://www.ece.uah.edu/~milenka/docs/MyersAlbert.thesis.pdf)
 
@@ -58,7 +57,7 @@ author_profile: true
 
 *   Disseration: Energy-efficient Distributed Wearable Physiological Monitoring: Framework and Implementations
 
-**Armen Dzhagaryan** (M.S., Spring 2013, first job: Gleason Research Associates, Huntsville, AL)
+**Armen Dzhagaryan** (MS, Spring 2013, first job: Gleason Research Associates, Huntsville, AL)
 
 *   Thesis: [Performance and Energy Efficiency of Common Compression/Decompression Utilities: An Experimental Study in Mobile and Workstation Computer Platforms](http://www.ece.uah.edu/~milenka/docs/armend.thesis.pdf)
 
@@ -87,8 +86,6 @@ author_profile: true
 **Milena Milenkovic** (PhD, Spring 2005; first job: IBM, Austin, TX)
 
 *   Dissertation: [Architectures for Run-time Verification of Code Integrity](http://www.ece.uah.edu/~milenka/docs/mm_dissertation.pdf)
-
-## Graduated Undergraduate Researchers
 
 **Jacob Walsh**
 
