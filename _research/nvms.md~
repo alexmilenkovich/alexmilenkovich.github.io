@@ -38,5 +38,5 @@ Physical-Unclonable Functions to prevent counterfeits \[[IEEE.TED'20a](https://i
 watermarking techniques to prevent counterfeits \[[ACM.DAC'20](../publications/files/ppbram_dac20.pdf)\] \[[IEEE.TED'20b](https://ieeexplore.ieee.org/document/9174844)\], 
 and new energy-efficient memory operations in microcontrollers \[[IEEE.ISQED'20](../publications/files/ppam_isqed20.pdf)\].
 
-![flash memory cell](images/flash_cell.png "flash memory cell")
+![flash memory cell](../images/flash_cell.png "flash memory cell")
 

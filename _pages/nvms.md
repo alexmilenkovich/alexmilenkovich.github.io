@@ -2,6 +2,7 @@
 title: "NVMs"
 permalink: /research/nvms
 author_profile: true
+output: html_document
 ---
 
 Non-volatile memory (NVM) is a semiconductor technology that allows computing devices 
