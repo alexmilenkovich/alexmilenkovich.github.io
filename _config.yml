@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aleksandar Milenković"
-  avatar           : "profile.png"
+  avatar           :  AleksandarMilenkovic.jpg #"profile.png"
   bio              : "Professor of Electrical and Computer Engineering, The University of Alabama in Huntsville"
   location         : "Huntsville, AL, U.S.A"
   employer         : #""

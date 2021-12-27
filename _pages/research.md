@@ -24,11 +24,11 @@ Alabama)](http://lacasa.uah.edu). I also co-lead the [mHealth laboratory](http:/
 ## Selected papers
 
 *   Physical Properties of Flash Memories for Security:   
-    \[[ACM.TECS'21](https://dl.acm.org/doi/10.1145/3448271?cid=81100564460)\]\[[ACM/IEEE.DAC'20](../publications/files/ppbram_dac20.pdf)\] \[[IEEE.TED'20](https://ieeexplore.ieee.org/document/8993414)\] \[[IEEE.TC'19](https://ieeexplore.ieee.org/document/8443106)\] \[[IEEE.TED'18](https://ieeexplore.ieee.org/document/8283603)\]
+    \[[ACM.TECS'21](https://dl.acm.org/doi/10.1145/3448271?cid=81100564460)\] \[[ACM/IEEE.DAC'20](../publications/files/ppbram_dac20.pdf)\] \[[IEEE.TED'20](https://ieeexplore.ieee.org/document/8993414)\] \[[IEEE.TC'19](https://ieeexplore.ieee.org/document/8443106)\] \[[IEEE.TED'18](https://ieeexplore.ieee.org/document/8283603)\]
 *   Event-driven DVFS governors in modern processors:  
     \[[ACM.ICPE'21]()\] \[[ACM.ICPE'19](../publications/files/rram_icpe19.pdf)\] \[[ACM.SE'14](../publications/files/aadam_acmse14.pdf)\]
 *   mTrace: Hardware Support for Tracing in Multicores:     
-    \[[ACM.TECS'19](https://dl.acm.org/doi/10.1145/3322642)\]\[[IEEE.ICCD'16](../publications/files/mpam_iccd16.pdf)\] \[[ACM.CASES'16](../publications/files/05_3_Milenkovic_CASES16.pdf)\] \[[Elsevier.JSA'15](http://www.sciencedirect.com/science/article/pii/S1383762115000752)\]
+    \[[ACM.TECS'19](https://dl.acm.org/doi/10.1145/3322642)\] \[[IEEE.ICCD'16](../publications/files/mpam_iccd16.pdf)\] \[[ACM.CASES'16](../publications/files/05_3_Milenkovic_CASES16.pdf)\] \[[Elsevier.JSA'15](http://www.sciencedirect.com/science/article/pii/S1383762115000752)\]
 *   mHealth:  
     \[IEEE.EMBC'16\] \[[MDPI.Information'16](http://www.mdpi.com/2078-2489/7/3/47/html)\] \[[IEEE.HealthCom'15a](../publications/files/aadam_HealthCom15_sbutton.pdf)\] \[[IEEE.HealthCom'15b](../docs/aadam_HealthCom15_compr.pdf)\] \[[IEEE.BSN'13a](../docs/bsn13a_mWheelness.pdf)\] \[[IEEE.BSN'13b](../docs/bsn13b_sTUG.pdf)\] \[[IEEE.EMBC'13](../docs/embc13_imWell.pdf)\]
 *   Energy-efficient data compression in mobile, cloud, and IoT platforms:   
@@ -44,7 +44,7 @@ Alabama)](http://lacasa.uah.edu). I also co-lead the [mHealth laboratory](http:/
 *   Architectural Analysis (reverse eng.)]:  
     \[[IEEE.ISPASS'09](../publications/files/vuam_ispass09.pdf)\] \[[Wiley.SPE'04](../publications/files/am_spe04.pdf)\] \[[WDDD'02](../publications/files/milenkovic_WDDD02.pdf)\]
 *   Memory hierarchy (caches, latency tolerating techniques): 
-    \[[ACM.SE'04.r](../publications/files/milenkovic_acmse04r.pdf)\] \[[IEEE.SSST'03](../publications/files/am-ssst03.pdf)\] \[[Elsevier.MICPRO'01](../publications/files/am_micpro01a.pdf)\]\[[IEEE.CONC'00](../publications/files/milenkovic_conc00.pdf)\] \[[ACM.SE'04.g](../publications/files/gurumani_acmse04.pdf)\]
+    \[[ACM.SE'04.r](../publications/files/milenkovic_acmse04r.pdf)\] \[[IEEE.SSST'03](../publications/files/am-ssst03.pdf)\] \[[Elsevier.MICPRO'01](../publications/files/am_micpro01a.pdf)\] \[[IEEE.CONC'00](../publications/files/milenkovic_conc00.pdf)\] \[[ACM.SE'04.g](../publications/files/gurumani_acmse04.pdf)\]
 *   Wireless Body Area Networks for Health Monitoring:   
     \[[Springer.JMS'11](http://www.springerlink.com/content/7552m1663166j576/)\] \[[Elsevier.COMPCOMM'06](../publications/files/milenkovic_compcomm06.pdf)\] \[[JMM'06](../publications/files/coamej_jmm06.pdf)\] \[[JNER'05](../publications/files/ejam_jner05.pdf)\] (applications & system architecture);   
     \[[ACM.SE'05](../publications/files/otto-acmse05.pdf)\] \[[IEEE.EMBS'05b](../publications/files/ejam_embs05b.pdf)\] \[[IEEE.EMBS'04](../publications/files/ejam_embs04.pdf)\] (sensors, hardware);   
@@ -65,11 +65,11 @@ We introduced cache injection and this work has been referenced by a number of U
 Our analysis of cache replacement policies has also been referenced by a number of U.S. patents 
 ([Click here to see the list](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=%28OREF%2Fal-zoubi+AND+OREF%2Fcache+AND+OREF%2Freplacement%29+OR+%28OREF%2Fal-zoubi+AND+OREF%2Fcache+AND+OREF%2Freplacement%29&d=PTXT)).  
 We also introduced a framework and developed microbenchmarks for the first successful reverse engineering of branch predictor units 
-in modern high-end microprocessors ([Click here for the microbenchmarks](http://lacasa.uah.edu/portal/index.php/software-data/15-microbenchmarks-for-determining-branch-predictor-organization)). 
+in modern high-end microprocessors ([Click here for the microbenchmarks](http://lacasa.uah.edu/index.php/software-data/microbenchmarks-for-determining-branch-predictor-organization)). 
 We are also interested in trace compression techniques 
 (we invented and patented stream-based trace compression), 
-and offer to the research community [instruction and data address traces for SPEC CPU2K benchmarks](http://lacasa.uah.edu/portal/index.php/software-data/14-stream-based-trace-compression) 
-as well as Pin-based [mTrace](http://lacasa.uah.edu/portal/index.php/software-data/32-mtrace-tools-and-traces) tools and data. 
+and offer to the research community [instruction and data address traces for SPEC CPU2K benchmarks](http://lacasa.uah.edu/index.php/software-data/stream-based-trace-compression) 
+as well as Pin-based [mTrace](http://lacasa.uah.edu/index.php/software-data/mtrace-tools-and-traces) tools and data. 
 We developed several highly effective techniques for on-the-fly capturing and filtering of control-flow and data-flow hardware traces in unicore and multicore processors. 
 These technqiues have been referenced in a number of U.S. patents 
 ([Click here to see the list](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28%28%28%28OREF%2Fmilenkovic+AND+OREF%2Ftrace%29+OR+%28OREF%2Fmilenkovic+AND+OREF%2Ftrace%29%29+OR+%28OREF%2Fuzelac+AND+OREF%2Ftrace%29%29+OR+%28FREF%2Fuzelac+AND+OREF%2Ftrace%29%29&Refine=Refine+Search&Query=+%28OREF%2Fmilenkovic+AND+OREF%2Ftrace%29+OR+%28OREF%2Fmilenkovic+AND+OREF%2Ftrace%29+OR+%28OREF%2Fuzelac+AND+OREF%2Ftrace%29+OR+%28FREF%2Fuzelac+AND+OREF%2Ftrace%29+OR+%28OREF%2Fponugoti+AND+OREF%2Ftracing%29+OR+%28FREF%2Fponugoti+AND+FREF%2Ftracing%29)).
