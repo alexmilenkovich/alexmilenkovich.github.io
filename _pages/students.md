@@ -92,20 +92,20 @@ author_profile: true
 
 **Jacob Walsh** (B.Sc., 2015)
 
-**Ryan Lindquist** (Auburn University student)
+**Ryan Lindquist** (B.Sc., 2016; summer undergraduate researcher; Auburn University student)
 
 **Sunny Patel** (B.Sc., 2014; 2014 Outstanding Undergraduate Student of ECE and COE; first job: Intergraph, Huntsville, AL)
 
-**Wil Gilmore** (B.Sc., 2013, first job: Lockheed Martin, Huntsville, AL)
+**Wil Gilmore** (B.Sc., 2013; first job: Lockheed Martin, Huntsville, AL)
 
-**Armen Dzhagaryan** (B.Sc., 2011, first job: Adtran, Huntsville, AL)
+**Armen Dzhagaryan** (B.Sc., 2011; first job: Adtran, Huntsville, AL)
 
-**Fasil Mulat** (B.Sc., 2011, first job: graduate student at Auburn University)
+**Fasil Mulat** (B.Sc., 2011; first job: graduate student at Auburn University)
 
 **Nason Tackett** (B.Sc., 2011; won the best Senior Design award; first job: Quantum Technologies Inc, Huntsville, AL)
 
-**Jim Marks** (B.Sc., Summer'06 undergraduate researcher; won UAH SURF award; first job: Raytheon, Huntsville, AL)
+**Jim Marks** (B.Sc., 2007; SURF 2006 - summer undergraduate research award; first job: Raytheon, Huntsville, AL)
 
-**Elise Haley** (B.Sc., Summer'06 undergraduate researcher; won CoE SURF award; first job: Boeing, Huntsville, AL)
+**Elise Haley** (B.Sc., 2007; SURF 2006 - summer undergraduate research award; first job: Boeing, Huntsville, AL)
 
-**David Wachira** (B.Sc., Summer'05 undergraduate researcher; won CoE SURF award; first job: Adtran, Huntsville, AL)
+**David Wachira** (B.Sc., 2006; SURF 2005 - summer undergraduate research award; first job: Adtran, Huntsville, AL)

@@ -2,6 +2,7 @@
 title: "Research"
 permalink: /research/
 author_profile: true
+output: html_document
 ---
 
 
@@ -10,9 +11,9 @@ I currently lead the [LaCASA laboratory (Laboratory for Advanced Computer Archi
 Alabama)](http://lacasa.uah.edu). I also co-lead the [mHealth laboratory](http://portal.mhealth.uah.edu). 
 
 
-## Research Areas
+## Research areas
 
-* [NVMs (Non-Volatile Memories)](nvms.md)
+* [NVMs - Non-Volatile Memories](nvms.md)
 * [mTrace](mtrace.md)
 * [mHealth](mhealth.md)
 * [WBANs for Health Monitoring](wban.md)
