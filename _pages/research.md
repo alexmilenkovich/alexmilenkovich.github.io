@@ -18,9 +18,9 @@ Alabama)](http://lacasa.uah.edu). I also co-lead the [mHealth laboratory](http:/
 * [mHealth](mhealth.md)
 * [WBANs for Health Monitoring](wban.md)
 * [Secure Embedded Processors](securecpu.md)
-* [Architectural Support for Hardware Integrity](ashi.md)
+* [Architectural Support for Software Integrity](as4si.md)
 * [Trace Compression](traceswc.md)
-* [Architectural Analysis](branchpred.md)
+* [Branch Predictor Reverse Engineering](branchpred.md)
 
 ## Selected papers
 
