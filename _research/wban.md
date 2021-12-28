@@ -1,8 +1,9 @@
 ---
 title: "WBANs"
 permalink: /research/wban
-author_profile: true
-output: html_document
+collection: research
+excerpt: "<img src='../images/wban.png' alt=''>"
+order_number: 40
 ---
 
 Recent technological advances in sensors, low-power microelectronics and miniaturization, 

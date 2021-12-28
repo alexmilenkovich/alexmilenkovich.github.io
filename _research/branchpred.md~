@@ -1,8 +1,9 @@
 ---
 title: "Reverse Engineering of Branch Predictors"
 permalink: /research/bpred
-author_profile: true
-output: html_document
+collection: research
+excerpt: "<img src='../images/BP_PentiumM.png' alt=''>"
+order_number: 80
 ---
 
 In order to achieve optimum performance of a given application on a given computer platform, 
@@ -37,7 +38,7 @@ These findings have been validated using a functional PIN model.
 The details can be found in our [ISPASS'09](../publications/files/vuam_ispass09.pdf) paper.
 
 
-Relevant publications: \[[ISPASS'09](../publications/files/vuam_ispass09.pdf)\]
+Selected publications: \[[ISPASS'09](../publications/files/vuam_ispass09.pdf)\]
 \[[SPE'04](../publications/files/am_spe04.pdf)\]
 \[[WDDD'02](../publications/files/milenkovic_WDDD02.pdf)\]
 

@@ -1,9 +1,11 @@
 ---
 title: "mTrace"
 permalink: /research/mtrace
-author_profile: true
-output: html_document
+collection: research
+excerpt: "<img src='../images/tmbp.png' alt=''>"
+order_number: 20
 ---
+
 
 Ideally, firmware and software developers of embedded systems would like to be able to answer the simple question 
 “What is my system doing?” at any point in the development cycle. 

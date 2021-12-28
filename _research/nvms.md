@@ -1,8 +1,9 @@
 ---
 title: "NVMs"
 permalink: /research/nvms
-author_profile: true
-output: html_document
+collection: research
+excerpt: "<img src='../images/flash_cell.png' alt=''>"
+order_number: 10
 ---
 
 Non-volatile memory (NVM) is a semiconductor technology that allows computing devices 
@@ -40,4 +41,3 @@ watermarking techniques to prevent counterfeits \[[ACM.DAC'20](../publications/f
 and new energy-efficient memory operations in microcontrollers \[[IEEE.ISQED'20](../publications/files/ppam_isqed20.pdf)\].
 
 ![flash memory cell](../images/flash_cell.png "flash memory cell")
-

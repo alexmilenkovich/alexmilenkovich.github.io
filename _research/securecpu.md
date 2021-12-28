@@ -3,6 +3,9 @@ title: "Secure Embedded Processors"
 permalink: /research/securecpu
 author_profile: true
 output: html_document
+collection: research
+excerpt: "<img src='../images/secure_nios2.png' alt=''>"
+order_number: 50
 ---
 
 Modern society relies on embedded systems to perform an increasing multitude of tasks: 

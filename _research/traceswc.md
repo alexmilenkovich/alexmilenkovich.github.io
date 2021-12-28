@@ -1,8 +1,9 @@
 ---
 title: "Software Trace Compression Techniques"
 permalink: /research/traceswc
-author_profile: true
-output: html_document
+collection: research
+excerpt: "<img src='../images/sbc.png' alt=''>"
+order_number: 70
 ---
 
 To offer a faithful representation of a specific workload, traces must be very large, 

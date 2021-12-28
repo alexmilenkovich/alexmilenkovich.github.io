@@ -1,8 +1,9 @@
 ---
 title: "mHealth"
 permalink: /research/mhealth
-author_profile: true
-output: html_document
+collection: research
+excerpt: "<img src='../images/mHealth_hd.jpg' alt=''>"
+order_number: 30
 ---
 Healthcare systems are facing the imminent crisis caused by current economic, social, and demographic trends. 
 According to the U.S. Census Bureau, the total healthcare expenditures reached

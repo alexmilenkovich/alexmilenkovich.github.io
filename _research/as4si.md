@@ -1,8 +1,9 @@
 ---
 title: "Architectural Support for Ensuring Software Integrity"
 permalink: /research/as4si
-author_profile: true
-output: html_document
+collection: research
+excerpt: "<img src='../images/arch4swintegrity_wm.png' alt=''>"
+order_number: 60
 ---
 
 Current economic and technology trends result in an increased reliance of modern society on 

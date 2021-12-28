@@ -9,6 +9,18 @@ My research interests span the areas of computer architecture, embedded systems,
 I currently lead the [LaCASA laboratory (Laboratory for Advanced Computer Architectures and Systems at
 Alabama)](http://lacasa.uah.edu). I also co-lead the [mHealth laboratory](http://portal.mhealth.uah.edu). 
 
+## Research projects 
+
+<nbsp>
+
+{% include base_path %}
+
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
 
 ## Selected papers
 
