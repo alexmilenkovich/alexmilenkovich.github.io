@@ -8,21 +8,21 @@ order_number: 10
 
 Non-volatile memory (NVM) is a semiconductor technology that allows computing devices 
 to retain data and programs stored without a continuous power supply. 
-Different types of NVM chips have been introduced, from early EEPROM memories, 
-via contemporary NAND and NOR flash memories, 
-to emerging 3D XPoint, Ferroelectric RAM (FeRAM), Magnetoresistive RAM (MRAM), and Resistive RAM (RRAM). 
-They differ in their key characteristics, such as, capacity, form-factor, speed, 
-interfaces, energy consumption, retention, endurance, and operating conditions. 
-They also differ in cost and target applications. 
-The most common types of NVMs are NOR flash memories used in embedded computer systems and IoT devices and 
-NAND flash memories used as the basic building block of solid-state storage devices (SSDs), 
-USB drives, memory cards, smartphones, automobiles, medical devices, and other devices. 
-The emerging types of NVMs (FeRAM, MRAM RRAM) promise better retention, endurance, and speed, 
-but they are currently lagging behind the established flash memories in cost and capacity. 
 NVMs are one of the fastest growing portions of semiconductor industry, 
 driven by ever-increasing amounts of generated data - 
 the amount of data created daily is forecast to reach 466 ZettaBytes (10^18 bytes) in 2025, 
 an almost tenfold increase over 59 ZettaBytes created daily in 2020.
+Different types of NVM chips have been introduced, from early EEPROM memories, 
+via contemporary NAND and NOR flash memories, 
+to emerging 3D XPoint, Ferroelectric RAM (FeRAM), Magnetoresistive RAM (MRAM), and Resistive RAM (RRAM).
+They differ in their key characteristics, such as, capacity, form-factor, speed, 
+interfaces, energy consumption, retention, endurance, and operating conditions. 
+They also differ in cost and target applications. 
+The most common types of NVMs are NOR flash memories used in embedded computer systems and IoT devices and 
+NAND flash memories used as the basic building blocks of solid-state storage devices (SSDs), 
+USB drives, memory cards, smartphones, automotive electronics, medical devices, and other devices. 
+The emerging types of NVMs (FeRAM, MRAM RRAM) promise better retention, endurance, and speed, 
+but they are currently lagging behind the established flash memories in cost and capacity. 
 
 We pursue several projects focusing on state-of-the-art and emerging non-volatile memories 
 in collaboration with Dr. Ray who leads the Hardware Reliability and Security Lab. 

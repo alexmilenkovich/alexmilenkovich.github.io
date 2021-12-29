@@ -1,0 +1,34 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+output: html_document
+---
+
+## UAH active courses
+
+I have developed and taught the following graduate and undergraduate computer engineering
+courses. The courseware is available through the Canvas learning management
+system.  
+
+
+* CPE 323 - Introduction to Embedded Computer Systems (Fall, Spring)
+
+* CPE 423/523 - Hardware/Software Co-design (Fall, once every 2 years)
+
+* CPE 619 - Modeling and Analysis of Computer and Communication Systems (Fall, once every 2 years)
+
+* CPE 631 - Advanced Computer Systems Architecture (Spring)
+
+
+## Links to old course web pages
+
+*   [Introduction to Embedded Computer Systems (CPE 323), Spring 2010](http://www.ece.uah.edu/~milenka/cpe323-10S)
+*   [Advanced Computer Systems Architecture (CPE 631), Spring 2010](http://www.ece.uah.edu/~milenka/cpe631-10S)
+*   [Modeling and Analysis of Computer and Communication Systems (CPE 619), Fall 2009](http://www.ece.uah.edu/~milenka/cpe619-09F)
+*   [VLSI Design I (CPE/EE 427, CPE 527), Fall 2007](http://www.ece.uah.edu/~milenka//cpe527-07F)
+*   [Advanced VLSI Design (CPE 626), Fall 2004](http://www.ece.uah.edu/~milenka/cpe626-04F/index.htm)
+*   [Advanced Logic Design (CPE/EE 422/522), Summer 2003](http://www.ece.uah.edu/~milenka/cpeee_422522_03S/index.htm)
+
+ 
