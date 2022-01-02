@@ -50,7 +50,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **22\. \[ACM.TECS'13\]** Vladimir Uzelac, Aleksandar Milenković, "[Hardware-Based Load Value Trace Filtering for On-the-Fly Debugging](https://doi.org/10.1145/2465787.2465799)," _ACM Transactions on Embedded Computing Systems_, Vol. 12, No: 2s, May 2013, doi: [10.1145/2465787.2465799](https://doi.org/10.1145/2465787.2465799).  
 \[[pdf](files/vuam_tecs11.pdf)\]
 
-**21\. \[Springer.JMS'11\]** Emil Jovanov, Aleksandar Milenković, "[Body Area Networks for Ubiquitous Healthcare Applications: Opportunities and Challenges](http://www.springerlink.com/content/7552m1663166j576/)," _Journal of Medical Systems_ , Vol. 5, No. 5, October 2011, pp. 1245-1254. doi: 10.1007/s10916-011-9661-x.
+**21\. \[Springer.JMS'11\]** Emil Jovanov, Aleksandar Milenković, "[Body Area Networks for Ubiquitous Healthcare Applications: Opportunities and Challenges](http://www.springerlink.com/content/7552m1663166j576/)," _Journal of Medical Systems_ , Vol. 5, No. 5, October 2011, pp. 1245-1254. doi: [10.1007/s10916-011-9661-x](https://doi.org/10.1007/s10916-011-9661-x).
 
 **20\. \[IEEE.TC'11\]** Aleksandar Milenković, Vladimir Uzelac, Milena Milenković, Martin Burtscher, "[Caches and Predictors for Real-time, Unobtrusive, and Cost-Effective Program Tracing in Embedded Systems](https://doi.org/10.1109/TC.2010.146)," _IEEE Transactions on Computers_, Vol. 60, No. 7, July 2011, pp. 992-1005. doi: [10.1109/TC.2010.146](https://doi.org/10.1109/TC.2010.146).      
 \[[pdf](files/milenkovic_TC10.pdf)\]
@@ -70,13 +70,13 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **15. \[Rinton.JMM’06\]** Chris Otto, Aleksandar Milenković, Corey Sanders, Emil Jovanov, "System Architecture of a Wireless Body Area Sensor Network for Ubiquitous Health Monitoring," _Journal of Mobile Multimedia_, Vol. 1, No. 4, 2006, pp. 307-326.  
 \[[pdf](files/coamej_jmm06.pdf)\]
 
-**14\. \[Elsevier.COMPCOMM’06\]** Aleksandar Milenkovic, Chris Otto, Emil Jovanov, "[Wireless Sensor Networks for Personal Health Monitoring: Issues and an Implementation](https://doi.org/10.1016/j.comcom.2006.02.011)," _Computer Communications_ (Special issue: Wireless Sensor Networks: Performance, Reliability, Security, and Beyond), Vol. 29, No. 13-14, Elsevier, 2006, pp. 2521-2533. doi:[10.1016/j.comcom.2006.02.011](https://doi.org/10.1016/j.comcom.2006.02.011)  
+**14\. \[Elsevier.COMPCOMM’06\]** Aleksandar Milenkovic, Chris Otto, Emil Jovanov, "[Wireless Sensor Networks for Personal Health Monitoring: Issues and an Implementation](https://doi.org/10.1016/j.comcom.2006.02.011)," _Computer Communications_ (Special issue: Wireless Sensor Networks: Performance, Reliability, Security, and Beyond), Vol. 29, No. 13-14, Elsevier, 2006, pp. 2521-2533. doi: [10.1016/j.comcom.2006.02.011](https://doi.org/10.1016/j.comcom.2006.02.011)  
 \[[pdf](files/milenkovic_compcomm06.pdf)\]
 
 **13\. \[IOS.JEC’06\]** Aleksandar Milenkovic, Milena Milenkovic, Emil Jovanov, "An Efficient Runtime Instruction Block Verification for Secure Embedded Systems," _Journal of Embedded Computing_, Vol. 2, No. 1, IOS Press, Amsterdam, The Netherlands, September 2006, pp. 57-76.  
 \[[pdf](files/milenkovic_jec06.pdf)\]
 
-**12\. \[IEEE.TE’05\]** Jovan Djordjevic, Bosko Nikolic, Aleksandar Milenkovic, "Flexible Web-based Educational System for Teaching Computer Architecture and Organization," _IEEE Transactions on Education_, Vol. 48, No. 2, 2005, pp 264-273.  
+**12\. \[IEEE.TE’05\]** Jovan Djordjevic, Bosko Nikolic, Aleksandar Milenkovic, "Flexible Web-based Educational System for Teaching Computer Architecture and Organization," _IEEE Transactions on Education_, Vol. 48, No. 2, 2005, pp 264-273. doi: [ 10.1109/TE.2004.842918](https://doi.org/10.1109/TE.2004.842918)   
 \[[pdf](files/am_te05.pdf)\]
 
 **11. \[ACM.CAN’05\]** Milena Milenkovic, Aleksandar Milenkovic, Emil Jovanov, "Using Instruction Block Signatures to Counter Code Injection Attacks," _Computer Architecture News_, Vol. 33, No. 1, March 2005, pp. 108-117.  
@@ -85,10 +85,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **10\. \[BioMED.JNER’05\]** Emil Jovanov, Aleksandar Milenkovic, Chris Otto, Piet C. de Groen, "[A wireless body area network of intelligent motion sensors for computer assisted physical rehabilitation](http://www.jneuroengrehab.com/content/2/1/6)," _Journal of NeuroEngineering and Rehabilitation_, 2:6, March 1, 2005. doi: [10.1186/1743-0003-2-6](https://doi.org/10.1186/1743-0003-2-6).  
 \[[pdf](files/ejam_jner05.pdf)\]
 
-**9\. \[Wiley.SPE’04\]** Milena Milenkovic, Aleksandar Milenkovic, Jeffrey Kulick, "Microbenchmarks for determining branch predictor organization," _Software Practice & Experience_, Vol. 34, No. 4, April 2004, pp. 465-487.  
+**9\. \[Wiley.SPE’04\]** Milena Milenkovic, Aleksandar Milenkovic, Jeffrey Kulick, "Microbenchmarks for determining branch predictor organization," _Software Practice & Experience_, Vol. 34, No. 4, April 2004, pp. 465-487. doi: [10.1002/spe.572](https://doi.org/10.1002/spe.572)   
 \[[pdf](files/am_spe04.pdf)\] \[[ps.gz](files/milenkovic_spe02.ps.gz)\] \[[Click here for more information](http://lacasa.uah.edu/index.php/software-data/microbenchmarks-for-determining-branch-predictor-organization)\]
 
-**8\. \[IEEE.CAL’03\]** Aleksandar Milenkovic, Milena Milenkovic, "Stream-Based Trace Compression," [_Computer Architecture Letters_](https://doi.ieeecomputersociety.org/10.1109/L-CA.2003.7), Vol. 2, Sep. 2003.  
+**8\. \[IEEE.CAL’03\]** Aleksandar Milenkovic, Milena Milenkovic, "Stream-Based Trace Compression," [_Computer Architecture Letters_](https://doi.ieeecomputersociety.org/10.1109/L-CA.2003.7), Vol. 2, Sep. 2003. doi: [10.1109/L-CA.2003.7](https://doi.ieeecomputersociety.org/10.1109/L-CA.2003.7)  
 \[[pdf](files/milenkovic_cal03.pdf)\] \[[ps.gz](files/milenkovic_cal03.ps.gz)\]
 
 **7\. \[Elsevier.MICPRO’02\]** Aleksandar Milenkovic, Veljko M. Milutinovic, "A Performance Evaluation of Cache Injection in Bus-based Shared Memory Multiprocessors," _Microprocessors and Microsystems_, Vol. 26, No. 2, March 2002, pp. 51-61. doi: [10.1016/S0141-9331(01)00146-6](https://doi.org/10.1016/S0141-9331(01)00146-6)  

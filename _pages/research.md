@@ -13,15 +13,15 @@ Alabama)](http://lacasa.uah.edu). I also co-lead the [mHealth laboratory](http:/
 ## Selected papers
 
 *   Physical Properties of Flash Memories for Security:   
-    \[[ACM.TECS'21](https://dl.acm.org/doi/10.1145/3448271?cid=81100564460)\] \[[ACM/IEEE.DAC'20](../publications/files/ppbram_dac20.pdf)\] \[[IEEE.TED'20](https://ieeexplore.ieee.org/document/8993414)\] \[[IEEE.TC'19](https://ieeexplore.ieee.org/document/8443106)\] \[[IEEE.TED'18](https://ieeexplore.ieee.org/document/8283603)\]
-*   Event-driven DVFS governors in modern processors:  
-    \[[ACM.ICPE'21]()\] \[[ACM.ICPE'19](../publications/files/rram_icpe19.pdf)\] \[[ACM.SE'14](../publications/files/aadam_acmse14.pdf)\]
+    \[[IEEE.TED'21](https://doi.org/10.1109/TED.2021.3087454)] \[[ACM.TECS'21](https://dl.acm.org/doi/10.1145/3448271?cid=81100564460)\] \[[ACM/IEEE.DAC'20](../publications/files/ppbram_dac20.pdf)\] \[[IEEE.TED'20a](https://doi.org/10.1109/TED.2020.3015451)\] \[[IEEE.TED'20b](https://doi.org/10.1109/TED.2020.2968272)\] \[[IEEE.TC'19](https://ieeexplore.ieee.org/document/8443106)\] \[[IEEE.TED'18](https://ieeexplore.ieee.org/document/8283603)\]
+*   Energy-efficiency in modern processors:  
+    \[[ACM.ICPE'21](https://doi.org/10.1145/3447545.3451192)\] \[[ACM.ICPE'19](../publications/files/rram_icpe19.pdf)\] \[[ACM.SE'14](../publications/files/aadam_acmse14.pdf)\]
 *   mTrace: Hardware Support for Tracing in Multicores:     
     \[[ACM.TECS'19](https://dl.acm.org/doi/10.1145/3322642)\] \[[IEEE.ICCD'16](../publications/files/mpam_iccd16.pdf)\] \[[ACM.CASES'16](../publications/files/05_3_Milenkovic_CASES16.pdf)\] \[[Elsevier.JSA'15](http://www.sciencedirect.com/science/article/pii/S1383762115000752)\]
 *   mHealth:  
-    \[IEEE.EMBC'16\] \[[MDPI.Information'16](http://www.mdpi.com/2078-2489/7/3/47/html)\] \[[IEEE.HealthCom'15a](../publications/files/aadam_HealthCom15_sbutton.pdf)\] \[[IEEE.HealthCom'15b](../docs/aadam_HealthCom15_compr.pdf)\] \[[IEEE.BSN'13a](../docs/bsn13a_mWheelness.pdf)\] \[[IEEE.BSN'13b](../docs/bsn13b_sTUG.pdf)\] \[[IEEE.EMBC'13](../docs/embc13_imWell.pdf)\]
+    \[[MDPI.Information'16](http://www.mdpi.com/2078-2489/7/3/47/html)\] \[[IEEE.HealthCom'15a](../publications/files/aadam_HealthCom15_sbutton.pdf)\] \[[IEEE.HealthCom'15b](../docs/aadam_HealthCom15_compr.pdf)\] \[[ACM.XRDS'13](https://doi.org/10.1145/2539269)\] \[[IEEE.BSN'13a](../docs/bsn13a_mWheelness.pdf)\] \[[IEEE.BSN'13b](../docs/bsn13b_sTUG.pdf)\] \[[IEEE.EMBC'13](../docs/embc13_imWell.pdf)\]
 *   Energy-efficient data compression in mobile, cloud, and IoT platforms:   
-    \[[Elsevier.MEAS'16](http://www.sciencedirect.com/science/article/pii/S0263224116304407)\] \[[IEEE.ICCCN'16](../publications/files/aadam_icccn16.pdf)\] \[[IEEE.ICCCN'15](../publications/files/aadam_icccn15.pdf)\] **(best paper nominee)**  \[[IEEE.MASCOTS'13](../publications/files/aadam_mascots13.pdf)\]  \[[ACM.SE'13](../publications/files/acmse13_mPowerPro.pdf)\]  \[[IEEE.ISPASS'13](../publications/files/aadammb_ispass13p.pdf)\]
+    \[[Elsevier.MEAS'16](http://www.sciencedirect.com/science/article/pii/S0263224116304407)\] \[[IEEE.ICCCN'16](../publications/files/aadam_icccn16.pdf)\] \[[IEEE.ICCCN'15](../publications/files/aadam_icccn15.pdf)\] **(best paper nominee)**  \[[IEEE.MASCOTS'13](../publications/files/aadam_mascots13.pdf)\]  \[[ACM.SE'13](../publications/files/acmse13_mPowerPro.pdf)\] \[[IEEE.ISPASS'13](../publications/files/aadammb_ispass13p.pdf)\]
 *   Hardware Support for Debugging:  
     \[[IEEE.TC'14](../publications/files/milenkovic_tc14.pdf)\] \[[ACM.TECS'13](../publications/files/vuam_tecs13.pdf)\] \[[IEEE.TC'11](../publications/files/milenkovic_TC10.pdf)\] \[[ACM.CASES'10b](../publications/files/vuam_cases10b.pdf)\] (**best paper award**) \[[ACM.CASES'10a](../publications/files/vuam_cases10a.pdf)\] \[[IEEE.ICCD'09](../publications/files/am_iccd09.pdf)\] \[[ACM.DAC'09](../publications/files/vuam_dac09.pdf)\] \[[IEEE.DCC'07](../publications/files/milenkovic_dcc07.pdf)\]
 *   Secure Embedded Processor:  
