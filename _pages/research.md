@@ -19,7 +19,7 @@ Alabama)](http://lacasa.uah.edu). I also co-lead the [mHealth laboratory](http:/
 *   mTrace: Hardware Support for Tracing in Multicores:     
     \[[ACM.TECS'19](https://dl.acm.org/doi/10.1145/3322642)\] \[[IEEE.ICCD'16](../publications/files/mpam_iccd16.pdf)\] \[[ACM.CASES'16](../publications/files/05_3_Milenkovic_CASES16.pdf)\] \[[Elsevier.JSA'15](http://www.sciencedirect.com/science/article/pii/S1383762115000752)\]
 *   mHealth:  
-    \[[MDPI.Information'16](http://www.mdpi.com/2078-2489/7/3/47/html)\] \[[IEEE.HealthCom'15a](../publications/files/aadam_HealthCom15_sbutton.pdf)\] \[[IEEE.HealthCom'15b](../docs/aadam_HealthCom15_compr.pdf)\] \[[ACM.XRDS'13](https://doi.org/10.1145/2539269)\] \[[IEEE.BSN'13a](../docs/bsn13a_mWheelness.pdf)\] \[[IEEE.BSN'13b](../docs/bsn13b_sTUG.pdf)\] \[[IEEE.EMBC'13](../docs/embc13_imWell.pdf)\]
+    \[[MDPI.Information'16](http://www.mdpi.com/2078-2489/7/3/47/html)\] \[[IEEE.HealthCom'15a](../publications/files/aadam_HealthCom15_sbutton.pdf)\] \[[IEEE.HealthCom'15b](../publications/files/aadam_HealthCom15_compr.pdf)\] \[[ACM.XRDS'13](https://doi.org/10.1145/2539269)\] \[[IEEE.BSN'13a](../publications/files/bsn13a_mWheelness.pdf)\] \[[IEEE.BSN'13b](../publications/files/bsn13b_sTUG.pdf)\] \[[IEEE.EMBC'13](../publications/files/embc13_imWell.pdf)\]
 *   Energy-efficient data compression in mobile, cloud, and IoT platforms:   
     \[[Elsevier.MEAS'16](http://www.sciencedirect.com/science/article/pii/S0263224116304407)\] \[[IEEE.ICCCN'16](../publications/files/aadam_icccn16.pdf)\] \[[IEEE.ICCCN'15](../publications/files/aadam_icccn15.pdf)\] **(best paper nominee)**  \[[IEEE.MASCOTS'13](../publications/files/aadam_mascots13.pdf)\]  \[[ACM.SE'13](../publications/files/acmse13_mPowerPro.pdf)\] \[[IEEE.ISPASS'13](../publications/files/aadammb_ispass13p.pdf)\]
 *   Hardware Support for Debugging:  
@@ -35,7 +35,7 @@ Alabama)](http://lacasa.uah.edu). I also co-lead the [mHealth laboratory](http:/
 *   Memory hierarchy (caches, latency tolerating techniques): 
     \[[ACM.SE'04.r](../publications/files/milenkovic_acmse04r.pdf)\] \[[IEEE.SSST'03](../publications/files/am-ssst03.pdf)\] \[[Elsevier.MICPRO'01](../publications/files/am_micpro01a.pdf)\] \[[IEEE.CONC'00](../publications/files/milenkovic_conc00.pdf)\] \[[ACM.SE'04.g](../publications/files/gurumani_acmse04.pdf)\]
 *   Wireless Body Area Networks for Health Monitoring:   
-    \[[Springer.JMS'11](http://www.springerlink.com/content/7552m1663166j576/)\] \[[Elsevier.COMPCOMM'06](../publications/files/milenkovic_compcomm06.pdf)\] \[[JMM'06](../publications/files/coamej_jmm06.pdf)\] \[[JNER'05](../publications/files/ejam_jner05.pdf)\] (applications & system architecture);   
+    \[[Springer.JMS'11](http://dx.doi.org/10.1007/s10916-011-9661-x)\] \[[Elsevier.COMPCOMM'06](../publications/files/milenkovic_compcomm06.pdf)\] \[[JMM'06](../publications/files/coamej_jmm06.pdf)\] \[[JNER'05](../publications/files/ejam_jner05.pdf)\] (applications & system architecture);   
     \[[ACM.SE'05](../publications/files/otto-acmse05.pdf)\] \[[IEEE.EMBS'05b](../publications/files/ejam_embs05b.pdf)\] \[[IEEE.EMBS'04](../publications/files/ejam_embs04.pdf)\] (sensors, hardware);   
     \[[IEEE.SSST’11](../publications/files/ntam_ssst11.pdf)\] \[[IEEE.SSST'05a](../publications/files/dc_ssst05_synch.pdf)\] (time synchronization);   
     \[[IEEE.EMSB'05a](../publications/files/milenkovic_ssst05rtp.pdf)\] (security&interoperability);   
@@ -85,7 +85,7 @@ A number of U.S. patents references that paper as well ([Click here for a subset
 *   [Dr. Martin Burtscher](http://www.cs.txstate.edu/~mb92/), Texas State University
 *   [Dr. Emil Jovanov](http://ece.uah.edu/~jovanov), The University of Alabama in Huntsville
 *   Dr. Milena Milenkovic, Sonos
-*   [Dr. Dejan Raskovic](http://www.faculty.uaf.edu/ffdr/), University of Alaska, Fairbanks
+*   Dr. Dejan Raskovic, University of Alaska, Fairbanks
 
 ## Research projects 
 
