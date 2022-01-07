@@ -10,7 +10,7 @@ output: html_document
 *   [mTrace: tools and traces](http://lacasa.uah.edu/index.php/software-data/mtrace-tools-and-traces)   
 *   [Microbenchmarks for determining branch predictor organization](http://lacasa.uah.edu/index.php/software-data/microbenchmarks-for-determining-branch-predictor-organization)   
 *   [SBC trace compressor and SBC SPEC CPU2000 traces](http://lacasa.uah.edu/index.php/software-data/stream-based-trace-compression)   
-*   [Performance evaluation of cache replacement policies]()
+*   [Performance evaluation of cache replacement policies](http://lacasa.uah.edu/index.php/software-data/performance-analysis-of-cache-replacement-policies)
 *   [FPGACha: IP core for ChaCha20](https://github.com/Goshik92/FpgaCha)  
 
 
@@ -18,7 +18,7 @@ output: html_document
 
 ### Benchmarks  
 *   [SPEC CPU @ LaCASA lab](http://lacasa.uah.edu/index.php/tools-tutorials/spec-cpu-lacasa-lab) 
-*   [Parsec 3.0 benchmark suite @ LaCASA lab](http://lacasa.uah.edu/index.php/tools-tutorials/parsec-3-0-benchmark-suite-lacasa)   
+*   [Parsec 3.0 benchmark suite @ LaCASA lab](http://lacasa.uah.edu/index.php/tools-tutorials/getting-started-with-parsec-3-0-lacasa)   
 
 ### Performance evaluation
 *   [Measuring program execution time](http://lacasa.uah.edu/index.php/tools-tutorials/measuring-program-execution-time) 

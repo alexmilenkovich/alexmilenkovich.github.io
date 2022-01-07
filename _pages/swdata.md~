@@ -33,7 +33,7 @@ output: html_document
 
 
 ### Misc
-*   [Xen Hypervisor Setup on Odroid XU4](http://lacasa.uah.edu/index.php/tools-tutorials/simplescalar-tool-set)  
+*   [Xen Hypervisor Setup on Odroid XU4](http://lacasa.uah.edu/index.php/tools-tutorials/xen-hypervisor-setup-on-odroid-xu4)  
 *   [Tools for static analysis of Windows executables](http://lacasa.uah.edu/index.php/tools-tutorials/tools-for-static-analysis-of-windows-executables)  
 *   [Designing a simple CPU in 60 minutes](http://lacasa.uah.edu/index.php/tools-tutorials/designing-a-simple-system-on-a-chip-in-under-60-minutes-with-the-mu0-microprocessor-and-xilinix-tools)  
 
