@@ -14,9 +14,10 @@ main:
             
   - title: "News"
     url: /news/
+
+  - title: "Software&Data"
+    url: /swdata/
     
   - title: "Misc"
     url: /misc/
 
-  - title: "Blog Posts"
-    url: /year-archive/
