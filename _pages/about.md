@@ -17,7 +17,7 @@ Huntsville](https://www.uah.edu).
 I received my Ph.D., M.S., and Dipl. Ing. degrees from the University of Belgrade, Serbia in 1999, 1997, and 1994, respectively.
 I joined UAH in 2001. Before that, I held academic positions at [the Dublin
 City University](https://dcu.ie) in Dublin, Ireland (2000-2001) and at [the School of
-Electrical Engineering](https://etf.bg.ac.rs), The Univeristy of Belgrade (1994-2000). 
+Electrical Engineering](https://www.etf.bg.ac.rs), The Univeristy of Belgrade (1994-2000). 
 
 My research interests span the areas of computer architecture, energy-efficient computing, 
 embedded systems, wireless sensor networks, and hardware design. 
