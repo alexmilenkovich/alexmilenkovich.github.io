@@ -36,9 +36,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **27\. \[IEEE.TED'18\]**  Biswajit Ray, Aleksandar Milenković, "[True Random Number Generation Using Read Noise of Flash Memory Cells](http://ieeexplore.ieee.org/document/8283603/)," _IEEE Transactions on Electron Devices_, Vol. 65, Issue 3, March 2018,  pp. 963-969, doi: [10.1109/TED.2018.2792436](https://doi.org/10.1109/TED.2018.2792436).   
 \[[pdf](files/RayMilenkovic_TED18.pdf)\]
 
-**26\. \[Elsevier.Measurement'16\]**  Armen Dzhagaryan, Aleksandar Milenković, Emil Jovanov, Mladen Milosevic, "[An Environment for automated measurement of energy consumed by mobile and embedded computing devices](http://www.sciencedirect.com/science/article/pii/S0263224116304407)," _Measurement_, Vol. 94, December 2016,  pp. 103-118, doi: [10.1016/j.measurement.2016.07.073](doi:10.1016/j.measurement.2016.07.073).
+**26\. \[Elsevier.Measurement'16\]**  Armen Dzhagaryan, Aleksandar Milenković, Emil Jovanov, Mladen Milosevic, "[An Environment for automated measurement of energy consumed by mobile and embedded computing devices](http://www.sciencedirect.com/science/article/pii/S0263224116304407)," _Measurement_, Vol. 94, December 2016,  pp. 103-118, doi: [10.1016/j.measurement.2016.07.073](https://doi.org/10.1016/j.measurement.2016.07.073).  
 
-**25\. \[MDPI.Information'16\]** Priyanka Madhushri, Armen Dzhagaryan, Emil Jovanov, Aleksandar Milenković, "[An mHealth Tool Suite for Mobility Assessment,](http://www.mdpi.com/2078-2489/7/3/47/html)," _Information_, Vol. 7, No. 3, July 2016,  doi: [10.3390/info7030047](https://doi.org/10.3390/info7030047).   
+**25\. \[MDPI.Information'16\]** Priyanka Madhushri, Armen Dzhagaryan, Emil Jovanov, Aleksandar Milenković, "[An mHealth Tool Suite for Mobility Assessment](http://www.mdpi.com/2078-2489/7/3/47/html)," _Information_, Vol. 7, No. 3, July 2016,  doi: [10.3390/info7030047](https://doi.org/10.3390/info7030047).   
 \[[pdf](files/information-07-00047.pdf)\]
 
 **24\. \[Elsevier.JSA'15\]** Amrish K. Tewar, Albert R. Myers, Aleksandar Milenković, "[mcfTRaptor: Toward unobtrusive on-the-fly control-flow tracing in multicores](http://www.sciencedirect.com/science/article/pii/S1383762115000752)," _Journal of Systems Architecture_, Vol. 61, No. 10, November 2015, pp. 601-614, doi: [10.1016/j.sysarc.2015.07.005](https://doi.org/10.1016/j.sysarc.2015.07.005).   
@@ -94,7 +94,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **7\. \[Elsevier.MICPRO’02\]** Aleksandar Milenkovic, Veljko M. Milutinovic, "A Performance Evaluation of Cache Injection in Bus-based Shared Memory Multiprocessors," _Microprocessors and Microsystems_, Vol. 26, No. 2, March 2002, pp. 51-61. doi: [10.1016/S0141-9331(01)00146-6](https://doi.org/10.1016/S0141-9331(01)00146-6)  
 \[[pdf\]](files/am_micpro01a.pdf) \[[ps.gz](files/am_micpro01.ps.gz)\]
 
-**6\. \[IEEE.CONC’00\]** Aleksandar Milenkovic, "Achieving High Performance in Bus-Based Shared Memory Multiprocessors," [_IEEE Concurrency_](http://www.computer.org/concurrency/pd2000/p3toc.htm), Vol. 8, No. 3, July-September 2000, pp. 36-44.  
+**6\. \[IEEE.CONC’00\]** Aleksandar Milenkovic, "Achieving High Performance in Bus-Based Shared Memory Multiprocessors," _IEEE Concurrency_, Vol. 8, No. 3, July-September 2000, pp. 36-44. doi: [10.1109/4434.865891](https://doi.org/10.1109/4434.865891)   
 \[[pdf](files/milenkovic_conc00.pdf)\]
 
 **5\. \[IEEE.MICRO’00\]** Jovan Djordjevic, Aleksandar Milenkovic, and Nenad Grbanovic, "An Integrated Environment for Teaching Computer Architecture," _IEEE Micro_, Vol. 20, No. 3, 2000, pp. 66-74. doi: [10.1109/40.846311](https://doi.org/10.1109/40.846311)  
