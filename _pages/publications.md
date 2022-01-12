@@ -18,36 +18,36 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 [Journals](#journals) | [Conferences](#conferences) | [Book Chapters](#chapters) | [Books](#books) | [Other](#other) | [Dissertation](#dissertation)
 
 ## Journals
-**34\. \[IEEE.TED'21\]**  Sadman Sakib,  Aleksandar Milenković, Biswajit Ray, "[Flash-DNA: Identifying NAND Falsh Memory Origins Using Intrinsic Array Properties](https://ieeexplore.ieee.org/document/9459421)," _IEEE Transactions on Electron Devices_, Vol. 68, No: 8, August, 2021, pp. 1-7, doi: [10.1109/TED.2021.3087454](https://doi.org/10.1109/TED.2021.3087454). 
+**34\. \[IEEE.TED'21\]**  Sadman Sakib,  Aleksandar Milenković, Biswajit Ray, "[Flash-DNA: Identifying NAND Falsh Memory Origins Using Intrinsic Array Properties](https://ieeexplore.ieee.org/document/9459421)," _IEEE Transactions on Electron Devices_, Vol. 68, No: 8, August, 2021, pp. 1-7. doi: [10.1109/TED.2021.3087454](https://doi.org/10.1109/TED.2021.3087454). 
 
-**33\. \[ACM.TECS'21\]**  Prawar Poudel, Biswajit Ray, Aleksandar Milenković, "[Microcontroller Fingerprinting Using Partially Erased NOR Flash Memory Cells](https://dl.acm.org/doi/10.1145/3448271?cid=81100564460)," _ACM Transactions on Embedded Computing Systems_, Vol. 20, No: 3, Article 26, March 2021, doi: [10.1145/3448271](https://doi.org/10.1145/3448271).
+**33\. \[ACM.TECS'21\]**  Prawar Poudel, Biswajit Ray, Aleksandar Milenković, "[Microcontroller Fingerprinting Using Partially Erased NOR Flash Memory Cells](https://dl.acm.org/doi/10.1145/3448271?cid=81100564460)," _ACM Transactions on Embedded Computing Systems_, Vol. 20, No: 3, Article 26, March 2021. doi: [10.1145/3448271](https://doi.org/10.1145/3448271).
 
-**32\. \[IEEE.TED'20b\]**  Sadman Sakib, Aleksandar Milenković, Biswajit Ray, "[Flash Watermark: An Anticounterfeiting Technique for NAND Flash Memories](https://ieeexplore.ieee.org/document/9174844)," _IEEE Transactions on Electron Devices_, Vol. 67, Issue: 3, pp. 937-943, August 2020, doi: [10.1109/TED.2020.3015451](https://doi.org/10.1109/TED.2020.3015451).
+**32\. \[IEEE.TED'20b\]**  Sadman Sakib, Aleksandar Milenković, Biswajit Ray, "[Flash Watermark: An Anticounterfeiting Technique for NAND Flash Memories](https://ieeexplore.ieee.org/document/9174844)," _IEEE Transactions on Electron Devices_, Vol. 67, Issue: 3, pp. 937-943, August 2020. doi: [10.1109/TED.2020.3015451](https://doi.org/10.1109/TED.2020.3015451).
 
-**31\. \[IEEE.TED'20a\]**  Sadman Sakib, Aleksandar Milenković, Md Tauhidur Rahman, Biswajit Ray, "[An Aging-Resistant NAND Flash Memory Physical Unclonable Function](https://ieeexplore.ieee.org/document/8993414)," _IEEE Transactions on Electron Devices_, Vol. 67, Issue: 3, pp. 937-943, February 2020, doi: [10.1109/TED.2020.2968272](https://ieeexplore.ieee.org/document/8993414).
+**31\. \[IEEE.TED'20a\]**  Sadman Sakib, Aleksandar Milenković, Md Tauhidur Rahman, Biswajit Ray, "[An Aging-Resistant NAND Flash Memory Physical Unclonable Function](https://ieeexplore.ieee.org/document/8993414)," _IEEE Transactions on Electron Devices_, Vol. 67, Issue: 3, pp. 937-943, February 2020. doi: [10.1109/TED.2020.2968272](https://ieeexplore.ieee.org/document/8993414).
 
-**30\. \[IEEE.MVT'19\]**  David Coe, Jeff Kulick, Aleksandar Milenković, Letha Etzkorn, "[Virtualized In-Situ Software Update Verification: Verification of Over-the-Air Automotive Software Updates](https://ieeexplore.ieee.org/document/8941114)," _IEEE Vehicular Technology Magazine_, Vol. 15, Issue: 1, March 2020, pp. 84-90, doi: [10.1109/MVT.2019.2954302](https://ieeexplore.ieee.org/document/8941114).
+**30\. \[IEEE.MVT'19\]**  David Coe, Jeff Kulick, Aleksandar Milenković, Letha Etzkorn, "[Virtualized In-Situ Software Update Verification: Verification of Over-the-Air Automotive Software Updates](https://ieeexplore.ieee.org/document/8941114)," _IEEE Vehicular Technology Magazine_, Vol. 15, Issue: 1, March 2020, pp. 84-90. doi: [10.1109/MVT.2019.2954302](https://ieeexplore.ieee.org/document/8941114).
 
-**29\. \[ACM.TECS'19\]**  Mounika Ponugoti, Aleksandar Milenković, "[Enabling On-the-Fly Hardware Tracing of Data Reads in Multicores](https://dl.acm.org/doi/10.1145/3322642?cid=81100564460)" _ACM Transactions on Embedded Computing Systems_, Vol. 18, Issue 4, No. 34, pp. 1-27, June 2019, doi: [10.1145/3322642](https://doi.org/10.1145/3322642).
+**29\. \[ACM.TECS'19\]**  Mounika Ponugoti, Aleksandar Milenković, "[Enabling On-the-Fly Hardware Tracing of Data Reads in Multicores](https://dl.acm.org/doi/10.1145/3322642?cid=81100564460)" _ACM Transactions on Embedded Computing Systems_, Vol. 18, Issue 4, No. 34, pp. 1-27, June 2019. doi: [10.1145/3322642](https://doi.org/10.1145/3322642).
 
-**28\. \[IEEE.TC'19\]**  Prawar Poudel, Biswajit Ray, Aleksandar Milenković, "[Microcontroller TRNGs Using Perturbed States of NOR Flash Memory Cells](https://ieeexplore.ieee.org/document/8443106)," _IEEE Transactions on Computers_, Vol. 68, No. 2, Feb. 2019, pp. 307-313, doi: [10.1109/TC.2018.2866459](https://doi.org/10.1109/TC.2018.2866459).   
+**28\. \[IEEE.TC'19\]**  Prawar Poudel, Biswajit Ray, Aleksandar Milenković, "[Microcontroller TRNGs Using Perturbed States of NOR Flash Memory Cells](https://ieeexplore.ieee.org/document/8443106)," _IEEE Transactions on Computers_, Vol. 68, No. 2, Feb. 2019, pp. 307-313. doi: [10.1109/TC.2018.2866459](https://doi.org/10.1109/TC.2018.2866459).   
 \[[pdf](files/ppam_tc19.pdf)\]
 
-**27\. \[IEEE.TED'18\]**  Biswajit Ray, Aleksandar Milenković, "[True Random Number Generation Using Read Noise of Flash Memory Cells](http://ieeexplore.ieee.org/document/8283603/)," _IEEE Transactions on Electron Devices_, Vol. 65, Issue 3, March 2018,  pp. 963-969, doi: [10.1109/TED.2018.2792436](https://doi.org/10.1109/TED.2018.2792436).   
+**27\. \[IEEE.TED'18\]**  Biswajit Ray, Aleksandar Milenković, "[True Random Number Generation Using Read Noise of Flash Memory Cells](http://ieeexplore.ieee.org/document/8283603/)," _IEEE Transactions on Electron Devices_, Vol. 65, Issue 3, March 2018,  pp. 963-969. doi: [10.1109/TED.2018.2792436](https://doi.org/10.1109/TED.2018.2792436).   
 \[[pdf](files/RayMilenkovic_TED18.pdf)\]
 
-**26\. \[Elsevier.Measurement'16\]**  Armen Dzhagaryan, Aleksandar Milenković, Emil Jovanov, Mladen Milosevic, "[An Environment for automated measurement of energy consumed by mobile and embedded computing devices](http://www.sciencedirect.com/science/article/pii/S0263224116304407)," _Measurement_, Vol. 94, December 2016,  pp. 103-118, doi: [10.1016/j.measurement.2016.07.073](https://doi.org/10.1016/j.measurement.2016.07.073).  
+**26\. \[Elsevier.Measurement'16\]**  Armen Dzhagaryan, Aleksandar Milenković, Emil Jovanov, Mladen Milosevic, "[An Environment for automated measurement of energy consumed by mobile and embedded computing devices](http://www.sciencedirect.com/science/article/pii/S0263224116304407)," _Measurement_, Vol. 94, December 2016,  pp. 103-118. doi: [10.1016/j.measurement.2016.07.073](https://doi.org/10.1016/j.measurement.2016.07.073).  
 
-**25\. \[MDPI.Information'16\]** Priyanka Madhushri, Armen Dzhagaryan, Emil Jovanov, Aleksandar Milenković, "[An mHealth Tool Suite for Mobility Assessment](http://www.mdpi.com/2078-2489/7/3/47/html)," _Information_, Vol. 7, No. 3, July 2016,  doi: [10.3390/info7030047](https://doi.org/10.3390/info7030047).   
+**25\. \[MDPI.Information'16\]** Priyanka Madhushri, Armen Dzhagaryan, Emil Jovanov, Aleksandar Milenković, "[An mHealth Tool Suite for Mobility Assessment](http://www.mdpi.com/2078-2489/7/3/47/html)," _Information_, Vol. 7, No. 3, July 2016.  doi: [10.3390/info7030047](https://doi.org/10.3390/info7030047).   
 \[[pdf](files/information-07-00047.pdf)\]
 
-**24\. \[Elsevier.JSA'15\]** Amrish K. Tewar, Albert R. Myers, Aleksandar Milenković, "[mcfTRaptor: Toward unobtrusive on-the-fly control-flow tracing in multicores](http://www.sciencedirect.com/science/article/pii/S1383762115000752)," _Journal of Systems Architecture_, Vol. 61, No. 10, November 2015, pp. 601-614, doi: [10.1016/j.sysarc.2015.07.005](https://doi.org/10.1016/j.sysarc.2015.07.005).   
+**24\. \[Elsevier.JSA'15\]** Amrish K. Tewar, Albert R. Myers, Aleksandar Milenković, "[mcfTRaptor: Toward unobtrusive on-the-fly control-flow tracing in multicores](http://www.sciencedirect.com/science/article/pii/S1383762115000752)," _Journal of Systems Architecture_, Vol. 61, No. 10, November 2015, pp. 601-614. doi: [10.1016/j.sysarc.2015.07.005](https://doi.org/10.1016/j.sysarc.2015.07.005).   
 \[[pdf](files/aktam_jsa15.pdf)\]
 
-**23\. \[IEEE.TC'14\]** Vladimir Uzelac, Aleksandar Milenković, Milena Milenković, Martin Burtscher, "[Using Branch Predictors and Variable Encoding for On-the-fly Program Tracing](https://doi.org/10.1109/TC.2012.267)," _IEEE Transactions on Computers_, Vol. 63, No. 4, April 2014, pp. 1008-1020, doi: [10.1109/TC.2012.267](https://doi.org/10.1109/TC.2012.267).   
+**23\. \[IEEE.TC'14\]** Vladimir Uzelac, Aleksandar Milenković, Milena Milenković, Martin Burtscher, "[Using Branch Predictors and Variable Encoding for On-the-fly Program Tracing](https://doi.org/10.1109/TC.2012.267)," _IEEE Transactions on Computers_, Vol. 63, No. 4, April 2014, pp. 1008-1020. doi: [10.1109/TC.2012.267](https://doi.org/10.1109/TC.2012.267).   
 \[[pdf](files/milenkovic_tc14.pdf)\]
 
-**22\. \[ACM.TECS'13\]** Vladimir Uzelac, Aleksandar Milenković, "[Hardware-Based Load Value Trace Filtering for On-the-Fly Debugging](https://doi.org/10.1145/2465787.2465799)," _ACM Transactions on Embedded Computing Systems_, Vol. 12, No: 2s, May 2013, doi: [10.1145/2465787.2465799](https://doi.org/10.1145/2465787.2465799).  
+**22\. \[ACM.TECS'13\]** Vladimir Uzelac, Aleksandar Milenković, "[Hardware-Based Load Value Trace Filtering for On-the-Fly Debugging](https://doi.org/10.1145/2465787.2465799)," _ACM Transactions on Embedded Computing Systems_, Vol. 12, No: 2s, May 2013. doi: [10.1145/2465787.2465799](https://doi.org/10.1145/2465787.2465799).  
 \[[pdf](files/vuam_tecs11.pdf)\]
 
 **21\. \[Springer.JMS'11\]** Emil Jovanov, Aleksandar Milenković, "[Body Area Networks for Ubiquitous Healthcare Applications: Opportunities and Challenges](http://www.springerlink.com/content/7552m1663166j576/)," _Journal of Medical Systems_ , Vol. 5, No. 5, October 2011, pp. 1245-1254. doi: [10.1007/s10916-011-9661-x](https://doi.org/10.1007/s10916-011-9661-x).
@@ -55,7 +55,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **20\. \[IEEE.TC'11\]** Aleksandar Milenković, Vladimir Uzelac, Milena Milenković, Martin Burtscher, "[Caches and Predictors for Real-time, Unobtrusive, and Cost-Effective Program Tracing in Embedded Systems](https://doi.org/10.1109/TC.2010.146)," _IEEE Transactions on Computers_, Vol. 60, No. 7, July 2011, pp. 992-1005. doi: [10.1109/TC.2010.146](https://doi.org/10.1109/TC.2010.146).      
 \[[pdf](files/milenkovic_TC10.pdf)\]
 
-**19\. \[IEEE.TCAS-I'10\]** Ashkan Ashrafi, Reza Adhami, Aleksandar Milenković, "[A Direct Digital Frequency Synthesizer Based on the Quasi Linear Interpolation Method](https://doi.org/10.1109/TCSI.2009.2027645)," _IEEE Transactions on Circuits and Systems I_, Vol. 57, No. 4, April 2010, pp. 863-872, doi: [10.1109/TCSI.2009.2027645](https://doi.org/10.1109/TCSI.2009.2027645).  
+**19\. \[IEEE.TCAS-I'10\]** Ashkan Ashrafi, Reza Adhami, Aleksandar Milenković, "[A Direct Digital Frequency Synthesizer Based on the Quasi Linear Interpolation Method](https://doi.org/10.1109/TCSI.2009.2027645)," _IEEE Transactions on Circuits and Systems I_, Vol. 57, No. 4, April 2010, pp. 863-872. doi: [10.1109/TCSI.2009.2027645](https://doi.org/10.1109/TCSI.2009.2027645).  
 \[[pdf](files/ashrafi_TCAS-I10.pdf)\]
 
 **18\. \[Elsevier.MICPRO’09\]** Austin Rogers, Aleksandar Milenković, "[Security extensions for integrity and confidentiality in embedded processors](http://dx.doi.org/10.1016/j.micpro.2009.06.002)," _Microprocessors and Microsystems_, Vol. 33, Issues 5-6,  August 2009, pp. 398-414. doi: [10.1016/j.micpro.2009.06.002](https://www.sciencedirect.com/science/article/pii/S0141933109000623?via%3Dihub).   
@@ -85,19 +85,19 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **10\. \[BioMED.JNER’05\]** Emil Jovanov, Aleksandar Milenkovic, Chris Otto, Piet C. de Groen, "[A wireless body area network of intelligent motion sensors for computer assisted physical rehabilitation](http://www.jneuroengrehab.com/content/2/1/6)," _Journal of NeuroEngineering and Rehabilitation_, 2:6, March 1, 2005. doi: [10.1186/1743-0003-2-6](https://doi.org/10.1186/1743-0003-2-6).  
 \[[pdf](files/ejam_jner05.pdf)\]
 
-**9\. \[Wiley.SPE’04\]** Milena Milenkovic, Aleksandar Milenkovic, Jeffrey Kulick, "Microbenchmarks for determining branch predictor organization," _Software Practice & Experience_, Vol. 34, No. 4, April 2004, pp. 465-487. doi: [10.1002/spe.572](https://doi.org/10.1002/spe.572)   
+**9\. \[Wiley.SPE’04\]** Milena Milenkovic, Aleksandar Milenkovic, Jeffrey Kulick, "Microbenchmarks for determining branch predictor organization," _Software Practice & Experience_, Vol. 34, No. 4, April 2004, pp. 465-487. doi: [10.1002/spe.572](https://doi.org/10.1002/spe.572).   
 \[[pdf](files/am_spe04.pdf)\] \[[ps.gz](files/milenkovic_spe02.ps.gz)\] \[[Click here for more information](http://lacasa.uah.edu/index.php/software-data/microbenchmarks-for-determining-branch-predictor-organization)\]
 
-**8\. \[IEEE.CAL’03\]** Aleksandar Milenkovic, Milena Milenkovic, "Stream-Based Trace Compression," [_Computer Architecture Letters_](https://doi.ieeecomputersociety.org/10.1109/L-CA.2003.7), Vol. 2, Sep. 2003. doi: [10.1109/L-CA.2003.7](https://doi.ieeecomputersociety.org/10.1109/L-CA.2003.7)  
+**8\. \[IEEE.CAL’03\]** Aleksandar Milenkovic, Milena Milenkovic, "Stream-Based Trace Compression," [_Computer Architecture Letters_](https://doi.ieeecomputersociety.org/10.1109/L-CA.2003.7), Vol. 2, Sep. 2003. doi: [10.1109/L-CA.2003.7](https://doi.ieeecomputersociety.org/10.1109/L-CA.2003.7).  
 \[[pdf](files/milenkovic_cal03.pdf)\] \[[ps.gz](files/milenkovic_cal03.ps.gz)\]
 
-**7\. \[Elsevier.MICPRO’02\]** Aleksandar Milenkovic, Veljko M. Milutinovic, "A Performance Evaluation of Cache Injection in Bus-based Shared Memory Multiprocessors," _Microprocessors and Microsystems_, Vol. 26, No. 2, March 2002, pp. 51-61. doi: [10.1016/S0141-9331(01)00146-6](https://doi.org/10.1016/S0141-9331(01)00146-6)  
+**7\. \[Elsevier.MICPRO’02\]** Aleksandar Milenkovic, Veljko M. Milutinovic, "A Performance Evaluation of Cache Injection in Bus-based Shared Memory Multiprocessors," _Microprocessors and Microsystems_, Vol. 26, No. 2, March 2002, pp. 51-61. doi: [10.1016/S0141-9331(01)00146-6](https://doi.org/10.1016/S0141-9331(01)00146-6).  
 \[[pdf\]](files/am_micpro01a.pdf) \[[ps.gz](files/am_micpro01.ps.gz)\]
 
-**6\. \[IEEE.CONC’00\]** Aleksandar Milenkovic, "Achieving High Performance in Bus-Based Shared Memory Multiprocessors," _IEEE Concurrency_, Vol. 8, No. 3, July-September 2000, pp. 36-44. doi: [10.1109/4434.865891](https://doi.org/10.1109/4434.865891)   
+**6\. \[IEEE.CONC’00\]** Aleksandar Milenkovic, "Achieving High Performance in Bus-Based Shared Memory Multiprocessors," _IEEE Concurrency_, Vol. 8, No. 3, July-September 2000, pp. 36-44. doi: [10.1109/4434.865891](https://doi.org/10.1109/4434.865891).   
 \[[pdf](files/milenkovic_conc00.pdf)\]
 
-**5\. \[IEEE.MICRO’00\]** Jovan Djordjevic, Aleksandar Milenkovic, and Nenad Grbanovic, "An Integrated Environment for Teaching Computer Architecture," _IEEE Micro_, Vol. 20, No. 3, 2000, pp. 66-74. doi: [10.1109/40.846311](https://doi.org/10.1109/40.846311)  
+**5\. \[IEEE.MICRO’00\]** Jovan Djordjevic, Aleksandar Milenkovic, and Nenad Grbanovic, "An Integrated Environment for Teaching Computer Architecture," _IEEE Micro_, Vol. 20, No. 3, 2000, pp. 66-74. doi: [10.1109/40.846311](https://doi.org/10.1109/40.846311).  
 \[[pdf](files/jdjam_micro00.pdf)\] \[[ps.gz](files/jdjam_micro00.ps.gz)\]
 
 **4\. \[Elsevier.MEJ’98\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "A quantitative analysis of wiring lengths in 2D and 3D VLSI," _Microelectronics Journal_, vol. 29, no. 6, 1998, pp. 313-322.  
@@ -117,10 +117,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **76\. \[IEEE.SE'21\]** Ranjan Hebbar, Aleksandar Milenkovic, "[A Preliminary Scalability Analysis of SPEC CPU2017 Benchmarks](https://doi.org/10.1109/SoutheastCon45413.2021.9401917)," in the _Proceedings of the IEEE Southeast Con 2021_, Virtual Event, March 11-14, 2021, 8 pages. doi: [10.1109/SoutheastCon45413.2021.9401917](https://doi.org/10.1109/SoutheastCon45413.2021.9401917).
 
-**75\. \[IEEE/ACM.DAC'20\]** Prawar Poudel, Biswajit Ray, and Aleksandar Milenkovic, "Flashmark: Watermarking of NOR Flash Memories for Counterfeit Detection," to appear in the _Proceedings of the 58th Design Automation Conference (DAC 2020)_, San Francisco, CA, July 19-23, 2020, 6 pages. doi:  [10.1109/DAC18072.2020.9218521](https://doi.org/10.1109/DAC18072.2020.9218521) (double blind review, acceptance rate: 23%).  
+**75\. \[IEEE/ACM.DAC'20\]** Prawar Poudel, Biswajit Ray, and Aleksandar Milenkovic, "Flashmark: Watermarking of NOR Flash Memories for Counterfeit Detection," to appear in the _Proceedings of the 58th Design Automation Conference (DAC 2020)_, San Francisco, CA, July 19-23, 2020, 6 pages. doi:  [10.1109/DAC18072.2020.9218521](https://doi.org/10.1109/DAC18072.2020.9218521).    (double blind review, acceptance rate: 23%)     
 \[[pdf](files/ppbram_dac20.pdf)\]
 
-**74\. \[Springer.NCS'20\]** Jason Winningham, David Coe, Jeffrey Kulick, Aleksandar Milenkovic, and Leth Etzkorn "A Single-Board Computing Constellation Supporting Integration of Hands-on Cybersecurity Laboratories into Operating Systems Courses," in the _Proceedings of the National Cyber Summit (NCS) - Research Track 2020_, pp. 78-91, Springer Nature Switzerland, doi: [10.1007/978-3-030-58703-1\_5](https://link.springer.com/chapter/10.1007%2F978-3-030-58703-1_5).
+**74\. \[Springer.NCS'20\]** Jason Winningham, David Coe, Jeffrey Kulick, Aleksandar Milenkovic, and Leth Etzkorn "A Single-Board Computing Constellation Supporting Integration of Hands-on Cybersecurity Laboratories into Operating Systems Courses," in the _Proceedings of the National Cyber Summit (NCS) - Research Track 2020_, pp. 78-91, Springer Nature Switzerland. doi: [10.1007/978-3-030-58703-1\_5](https://link.springer.com/chapter/10.1007%2F978-3-030-58703-1_5).
 
 **73\. \[IEEE.ISQED'20\]** Prawar Poudel and Aleksandar Milenkovic, "Saving Time and Energy Using Partial Flash Memory Operations in Low-Power Microcontrollers," in the _Proceedings of the 21st International Symposium on Quality Electronic Design (ISQED 2020)_, Santa Clara, CA, March 25-26, 2020, pp. 183-189. doi: [10.1109/ISQED48828.2020.9137034](https://doi.org/10.1109/ISQED48828.2020.9137034).  
 \[[pdf](files/ppam_isqed20.pdf)\]
@@ -142,32 +142,35 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **67\. \[IEEE.PIMRC’17\]** Armen Dzhagaryan and Aleksandar Milenkovic, "A Framework for Optimizing File Transfers Between Mobile Devices and the Cloud," in the _Proceedings of the IEEE International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC'17)_, Montreal, Canada, October, 2017, 7 pages. doi: [10.1109/PIMRC.2017.8292494](https://ieeexplore.ieee.org/document/8292494).  
 \[[pdf](files/adam_pimrc17.pdf)\]
 
-**66\. \[IEEE.EMBC’17\]** Priyanka Madhushri, Emil Jovanov, Aleksandar Milenkovic, Yuri Shtessel, "A Model Based Analaysis of Optimality of Sit-to-Stand Transition," in the _Proceedings of the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’17)_, Seogwipo, South Korea, July, 2017, doi: [10.1109/EMBC.2017.8037339](https://doi.org/10.1109/EMBC.2017.8037339).  
+**66\. \[IEEE.EMBC’17\]** Priyanka Madhushri, Emil Jovanov, Aleksandar Milenkovic, Yuri Shtessel, "A Model Based Analaysis of Optimality of Sit-to-Stand Transition," in the _Proceedings of the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’17)_, Seogwipo, South Korea, July, 2017. doi: [10.1109/EMBC.2017.8037339](https://doi.org/10.1109/EMBC.2017.8037339).  
 \[[pdf](files/pm_embc17.pdf)\]
 
-**65\. \[ACM.SE’17\]** Ryan Cowart, David Coe, Jeffrey Kulick, and Aleksandar Milenkovic, “An Implementation and Experimental Evaluation of Hardware Accelerated Ciphers in All Programmable SoCs,” in the _Proceedings of ACM Southeast Conference_, Kennesaw, Georgia USA, April 2017, 8 pages. doi:[10.1145/3077286.307729](http://dx.doi.org/10.1145/3077286.307729).    
+**65\. \[ACM.SE’17\]** Ryan Cowart, David Coe, Jeffrey Kulick, and Aleksandar Milenkovic, “An Implementation and Experimental Evaluation of Hardware Accelerated Ciphers in All Programmable SoCs,” in the _Proceedings of ACM Southeast Conference_, Kennesaw, Georgia USA, April 2017, 8 pages. doi: [10.1145/3077286.307729](http://dx.doi.org/10.1145/3077286.307729).    
 \[[pdf](files/rc_acmse17.pdf)\]
 
 **64\. \[EAI.FABULOUS’16\]** Valetine Nwachukwu, Emil Jovanov, and Aleksandar Milenkovic, “An Implementation of an IoT Server for Home Health Monitoring Applications,” in the _Proceedings of the 2nd EAI International Conference on Future Access Enablers of Ubiquitous and Intelligent Infrastructures (FABULOUS'16)_, Belgrade, Serbia, October 2016.
 
-**63\. \[IEEE.ICCD’16\]** Mounika Ponugoti, Aleksandar Milenković, "Exploiting Cache Coherence for Effective On-the-Fly Data Tracing in Multicores," in the _Proceedings of the 2016 IEEE 34th International Conference on Computer Design (ICCD’16)_, October 2-5, Scottsdale, AZ, USA, pp. 312-319. doi: [10.1109/ICCD.2016.7753295](https://doi.org/10.1109/ICCD.2016.7753295) (double blind review, 77 out of 276, ~28% acceptace rate).     
+**63\. \[IEEE.ICCD’16\]** Mounika Ponugoti, Aleksandar Milenković, "Exploiting Cache Coherence for Effective On-the-Fly Data Tracing in Multicores," in the _Proceedings of the 2016 IEEE 34th International Conference on Computer Design (ICCD’16)_, October 2-5, Scottsdale, AZ, USA, pp. 312-319. doi: [10.1109/ICCD.2016.7753295](https://doi.org/10.1109/ICCD.2016.7753295).     
+(double blind review, 77 out of 276, ~28% acceptace rate)     
 \[[pdf](files/mpam_iccd16.pdf)\]
   
-**62\. \[ACM.CASES’16\]** Mounika Ponugoti, Amrish K. Tewar, Aleksandar Milenković, "On-the-Fly Load Data Value Tracing in Multicores," in the _Proceedings of the International Conference on Compilers, Architectures and Synthesis of Embedded Systems (CASES’16)_, October 2-7, Pittsburgh, PA, USA, pp. 1-10.  
-doi: [10.1145/2968455.2968507](https://doi.org/10.1145/2968455.2968507). (double blind review, 18 accepted out of 63 submitted)  
+**62\. \[ACM.CASES’16\]** Mounika Ponugoti, Amrish K. Tewar, Aleksandar Milenković, "On-the-Fly Load Data Value Tracing in Multicores," in the _Proceedings of the International Conference on Compilers, Architectures and Synthesis of Embedded Systems (CASES’16)_, October 2-7, Pittsburgh, PA, USA, pp. 1-10.
+doi: [10.1145/2968455.2968507](https://doi.org/10.1145/2968455.2968507).   
+(double blind review, 18 accepted out of 63 submitted)  
 \[[pdf](files/mpam_cases16.pdf)\]
 
-**61\. \[IEEE.EMBC’16\]** Priyanka Madhushri, Armen Dzhagaryan, Emil Jovanov,  Aleksandar Milenkovic, "A Smartphone Application Suite for Assessing Mobility," in the _Proceedings of the 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’16)_, August 16-20, Orlando, FL, USA.  
-doi: [10.1109/EMBC.2016.7591389](https://doi.org/10.1109/EMBC.2016.7591389).
+**61\. \[IEEE.EMBC’16\]** Priyanka Madhushri, Armen Dzhagaryan, Emil Jovanov,  Aleksandar Milenkovic, "A Smartphone Application Suite for Assessing Mobility," in the _Proceedings of the 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’16)_, August 16-20, Orlando, FL, USA. doi: [10.1109/EMBC.2016.7591389](https://doi.org/10.1109/EMBC.2016.7591389).   
 \[[pdf](files/pm_embc16.pdf)\]
 
 **60\. \[IEEE.ICCCN’16\]** Armen Dzhagaryan, Aleksandar Milenković, "Models for Evaluating Effective Throughputs for File Transfers in Mobile Computing," in the _Proceedings of the IEEE 25th International Conference on Computer Communications and Networks (ICCCN 2016)_, pp. 1-9, August 01-04, 2016, Waikoloa, Hawaii, USA. 
-doi: [10.1109/ICCCN.2016.7568547](http://dx.doi.org/10.1109/ICCCN.2016.7568547) (acceptance rate: ~30%).      
+doi: [10.1109/ICCCN.2016.7568547](http://dx.doi.org/10.1109/ICCCN.2016.7568547)   
+(acceptance rate: ~30%)        
 \[[pdf](files/aadam_icccn16.pdf)\]
 
 **59\. \[INSTICC.PECCS’16b\]** Armen Dzhagaryan, Aleksandar Milenkovic, "Analytical Models for Evaluating Effectiveness of Compressed File Transfers in Mobile Computing," in the _Proceedings of the 6th International Joint Conference on Pervasive and Embedded Computing and Communications Systems ([PECCS'16](http://www.peccs.org/TechnicalProgram/View/sessions.aspx))_, July 25-27, 2016, Lisbon, Portugal, pp. 40-51.   
 
-**58\. \[INSTICC.PECCS’16a\]** Armen Dzhagaryan, Aleksandar Milenković, "An Environment for Automated Measuring of Energy Consumed by Android Mobile Devices," in the _Proceedings of the 6th International Joint Conference on Pervasive and Embedded Computing and Communications Systems ([PECCS'16](http://www.peccs.org/TechnicalProgram/View/sessions.aspx))_, July 25-27, 2016, Lisbon, Portugal, pp. 28-39. (**best student paper award**).  
+**58\. \[INSTICC.PECCS’16a\]** Armen Dzhagaryan, Aleksandar Milenković, "An Environment for Automated Measuring of Energy Consumed by Android Mobile Devices," in the _Proceedings of the 6th International Joint Conference on Pervasive and Embedded Computing and Communications Systems ([PECCS'16](http://www.peccs.org/TechnicalProgram/View/sessions.aspx))_, July 25-27, 2016, Lisbon, Portugal, pp. 28-39.   
+(**best student paper award**).  
   
 **57\. \[ACM.CISRC'16\]** Reece Johnston, Sun-il Kim, David Coe, Leth Etzkorn, Jeffrey Kulick, Aleksandar Milenkovic, "Xen Network Flow Analysis for Intrusion Detection," in the _Proceedings of the 11th Annual Cyber and Information Security Research Conference (CISRC'16)_, April 5-7, 2016, Oak Ridge, TN. doi: [10.1145/2897795.2897802](http://dx.doi.org/10.1145/2897795.2897802).   
 \[[pdf](files/reecej_csirc.pdf)\]
@@ -179,14 +182,15 @@ doi: [10.1109/HealthCom.2015.7454588](https://doi.org/10.1109/HealthCom.2015.745
 **55\. \[IEEE.HealthCom’15a\]** Armen Dzhagaryan, Aleksandar Milenkovic, Emil Jovanov, Mladen Milosevic, "Smart Button: A Wearable System for Assessing Mobility in Elderly," in the _Proceedings of the 17th International Conference on E-health, Networking, Application & Services (HealthCom'15)_, pp. 416-421, October 14-17, 2015, Boston, MA. doi: [10.1109/HealthCom.2015.7454536](https://doi.org/10.1109/HealthCom.2015.7454536).  
 \[[pdf](files/aadam_HealthCom15_sbutton.pdf)\]
 
-**54\. \[IEEE.ICCCN’15\]** Armen Dzhagaryan, Aleksandar Milenković, Martin Burtscher, "Quantifying Benefits of Lossless Compression Utilities on Modern Smartphones," in the _Proceedings of the IEEE 24th International Conference on Computer Communications and Networks (ICCCN 2015)_, pp. 1-9, August 03-06, 2015, Las Vegas, NV.  
-(88 out of 352, ~25% acceptance rate) (**best paper nominee**). doi: [10.1109/ICCCN.2015.7288455](http://dx.doi.org/10.1109/ICCCN.2015.7288455)  
+**54\. \[IEEE.ICCCN’15\]** Armen Dzhagaryan, Aleksandar Milenković, Martin Burtscher, "Quantifying Benefits of Lossless Compression Utilities on Modern Smartphones," in the _Proceedings of the IEEE 24th International Conference on Computer Communications and Networks (ICCCN 2015)_, pp. 1-9, August 03-06, 2015, Las Vegas, NV. doi: [10.1109/ICCCN.2015.7288455](http://dx.doi.org/10.1109/ICCCN.2015.7288455).   
+(88 out of 352, ~25% acceptance rate) (best paper nominee)     
 \[[pdf](files/aadam_icccn15.pdf)\]
 
 **53\. \[ACM.SE’14\]** Armen Dzhagaryan, Aleksandar Milenković, "Impact of Thread and Frequency Scaling on Performance and Energy in Modern Multicores: A Measurement-based Study, " in the _Proceedings of the 52nd Annual ACM Southeast Conference (ACMSE’14)_, pp. 1- 6, March 28-29, Kennesaw, GA.  doi: [10.1145/2638404.2638473](https://doi.org/10.1145/2638404.2638473).  
 \[[pdf](files/aadam_acmse14.pdf)\]
 
-**52\. \[IEEE.MASCOTS’13\]** Aleksandar Milenković, Armen Dzhagaryan, Martin Burtscher, "Performance and Energy Consumption of Lossless Compression/Decompression Utilities on Mobile Computing Platforms," in the _Proceedings of the IEEE 21st International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS 2013)_, pp. 254-263, August 14-16, 2013, San Francisco, CA. doi: [10.1109/MASCOTS.2013.33](https://doi.org/10.1109/MASCOTS.2013.33) (44 out of 163, ~27% acceptance rate).   
+**52\. \[IEEE.MASCOTS’13\]** Aleksandar Milenković, Armen Dzhagaryan, Martin Burtscher, "Performance and Energy Consumption of Lossless Compression/Decompression Utilities on Mobile Computing Platforms," in the _Proceedings of the IEEE 21st International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS 2013)_, pp. 254-263, August 14-16, 2013, San Francisco, CA. doi: [10.1109/MASCOTS.2013.33](https://doi.org/10.1109/MASCOTS.2013.33).  
+(44 out of 163, ~27% acceptance rate)   
 \[[pdf](files/aadam_mascots13.pdf)\]
 
 **51\. \[IEEE.EMBC’13\]** Emil Jovanov, Mladen Milosevic, Aleksandar Milenković, "Mobile System for Assessment of Physiological Response to Posture Transitions," in the _Proceedings of the 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’13)_, pp. 7205-7208, July 3-7, Osaka, Japan. doi: [10.1109/EMBC.2013.6611220](https://doi.org/10.1109/EMBC.2013.6611220)  
@@ -198,34 +202,41 @@ doi: [10.1109/HealthCom.2015.7454588](https://doi.org/10.1109/HealthCom.2015.745
 **49\. \[IEEE.BSN’13a\]** Aleksandar Milenković, Mladen Milosevic, Emil Jovanov, "Smartphones for Smart Wheelchairs," in the _Proceedings of the 10th Annual Body Sensor Networks Conference 2013 (BSN’13)_, May 6-9, Boston, MA, pp. 404-409. doi: [10.1109/BSN.2013.6575460](https://doi.org/10.1109/BSN.2013.6575460).  
 \[[pdf](files/bsn13a_mWheelness.pdf)\]
 
-**48\. \[IEEE.ISPASS’13\]** Armen Dzhagaryan, Aleksandar Milenković, Martin Burtscher, "Energy Efficiency of Lossless Data Compression on a Mobile Device: An Experimental Evaluation," in the _Proceedings of the 2013 International Symposium on Performance Analysis of Systems and Software (ISPASS’13)_, April 19-12, Austin, TX, pp. 126-127. doi: [10.1109/ISPASS.2013.6557156](https://doi.org/10.1109/ISPASS.2013.6557156). (poster paper)  
+**48\. \[IEEE.ISPASS’13\]** Armen Dzhagaryan, Aleksandar Milenković, Martin Burtscher, "Energy Efficiency of Lossless Data Compression on a Mobile Device: An Experimental Evaluation," in the _Proceedings of the 2013 International Symposium on Performance Analysis of Systems and Software (ISPASS’13)_, April 19-12, Austin, TX, pp. 126-127. doi: [10.1109/ISPASS.2013.6557156](https://doi.org/10.1109/ISPASS.2013.6557156).   
+(poster paper)  
 \[[pdf](files/aadammb_ispass13p.pdf)\]
 
 **47\. \[ACM.SE’13\]** Mladen Milosevic, Armen Dzhagaryan, Emil Jovanov, Aleksandar Milenković, "An Environment for Automated Power Measurements on Mobile Computing Platforms," in the _Proceedings of the ACM Southeast Conference (ACMSE’13)_, April 04-06, Savannah, GA, pp. ??-??.   
 \[[pdf](files/mmaad_acmse13.pdf)\]
 
-**46\. \[IEEE.bioCAS’11\]** Mladen Milosevic, Emil Jovanov, Aleksandar Milenković "Rapid Processor Customization for Design Optimization: a Case Study of ECG R-Peak Detection," in the _Proceedings of the 2011 Annual IEEE Biomedical Circuits and Systems (BioCAS) Conference_, November 14-16, San Diego, CA, pp. 209-212. doi: [10.1109/BioCAS.2011.6107764](https://doi.org/10.1109/BioCAS.2011.6107764). (31o+72p/199; ~56% acceptance rate)   
+**46\. \[IEEE.bioCAS’11\]** Mladen Milosevic, Emil Jovanov, Aleksandar Milenković "Rapid Processor Customization for Design Optimization: a Case Study of ECG R-Peak Detection," in the _Proceedings of the 2011 Annual IEEE Biomedical Circuits and Systems (BioCAS) Conference_, November 14-16, San Diego, CA, pp. 209-212. doi: [10.1109/BioCAS.2011.6107764](https://doi.org/10.1109/BioCAS.2011.6107764).  
+(31o+72p/199; ~56% acceptance rate)   
 \[[pdf](files/mmam_bioCAS11.pdf)\]
 
 **45\. \[IEEE.SSST’11\]** Nason Tackett, Emil Jovanov, Aleksandar Milenković, "An Implementation of time synchronization in a low-power wireless sensor networks," in the _Proceedings of 43rd IEEE Southeastern Symposium on System Theory (SSST’11)_, March 14-16, Auburn, AL, pp. 61-66.  
 \[[pdf](files/ntam_ssst11.pdf)\]  
 
-**44\. \[IEEE.CASES’10b\]** Vladimir Uzelac, Aleksandar Milenković, "Hardware-Based Data Value and Address Trace Filtering Techniques," in the _Proceedings of the International Conference on Compilers, Architectures and Synthesis of Embedded Systems (CASES’10)_, pp. 117-126, October 24-29, Scottsdale, AZ, pp. 117-126. doi: [10.1145/1878921.1878940](https://doi.org/10.1145/1878921.1878940). (double blind review) (**best paper award**)  
+**44\. \[IEEE.CASES’10b\]** Vladimir Uzelac, Aleksandar Milenković, "Hardware-Based Data Value and Address Trace Filtering Techniques," in the _Proceedings of the International Conference on Compilers, Architectures and Synthesis of Embedded Systems (CASES’10)_, pp. 117-126, October 24-29, Scottsdale, AZ, pp. 117-126. doi: [10.1145/1878921.1878940](https://doi.org/10.1145/1878921.1878940).   
+(double blind review) (best paper award)  
 \[[pdf](files/vuam_cases10b.pdf)\]
 
-**43\. \[IEEE.CASES’10a\]** Vladimir Uzelac, Aleksandar Milenković, Milena Milenković, Martin Burtscher, "Real-time Unobtrusive Program ExecutionTrace Compression Using Branch Predictor Events," in the _Proceedings of the International Conference on Compilers, Architectures and Synthesis of Embedded Systems (CASES’10)_, October 24-29, Scottsdale, AZ, pp. 97-106. (double blind review)  
+**43\. \[IEEE.CASES’10a\]** Vladimir Uzelac, Aleksandar Milenković, Milena Milenković, Martin Burtscher, "Real-time Unobtrusive Program ExecutionTrace Compression Using Branch Predictor Events," in the _Proceedings of the International Conference on Compilers, Architectures and Synthesis of Embedded Systems (CASES’10)_, October 24-29, Scottsdale, AZ, pp. 97-106.   
+(double blind review)  
 \[[pdf](files/vuam_cases10a.pdf)\]
   
-**42\. \[IEEE.ICCD’09\]** Vladimir Uzelac, Aleksandar Milenković, Milena Milenković, Martin Burtscher, "Real-time, Unobtrusive, and Efficient Program Execution Tracing with Stream Caches and Last Stream Predictors," in the _Proceedings of the 27th IEEE International Conference on Computer Design (ICCD’09)_, October 4-7, Lake Tahoe, CA, pp. 173-178. (70 out of 200, ~35% acceptance rate, double blind review)  
+**42\. \[IEEE.ICCD’09\]** Vladimir Uzelac, Aleksandar Milenković, Milena Milenković, Martin Burtscher, "Real-time, Unobtrusive, and Efficient Program Execution Tracing with Stream Caches and Last Stream Predictors," in the _Proceedings of the 27th IEEE International Conference on Computer Design (ICCD’09)_, October 4-7, Lake Tahoe, CA, pp. 173-178.   
+(70 out of 200, ~35% acceptance rate, double blind review)  
 \[[pdf](files/am_iccd09.pdf)\]
 
-**41\. \[ACM.DAC’09\]** Vladimir Uzelac, Aleksandar Milenković, "A Real-Time Program Trace Compressor Utilizing Double Move-to-Front Method," in the _Proceedings of the 46th Design Automation Conference (DAC’09)_, July 26-31, San Francisco, CA, pp. 738 - 743. doi: [10.1145/1629911.1630102](https://doi.org/10.1145/1629911.1630102). (148 out of 682, ~21% acceptance rate, double blind review)  
+**41\. \[ACM.DAC’09\]** Vladimir Uzelac, Aleksandar Milenković, "A Real-Time Program Trace Compressor Utilizing Double Move-to-Front Method," in the _Proceedings of the 46th Design Automation Conference (DAC’09)_, July 26-31, San Francisco, CA, pp. 738 - 743. doi: [10.1145/1629911.1630102](https://doi.org/10.1145/1629911.1630102).   
+(148 out of 682, ~21% acceptance rate, double blind review)  
 \[[pdf](files/vuam_dac09.pdf)\]
 
 **40\. \[CSREA.ERSA’09\]** Austin Rogers, Aleksandar Milenković, "An Implementation of Security Extensions for Data Integrity and Confidentiality in Soft Core Processors," in the _Proceedings of the Engineering of Reconfigurable Systems and Algorithms - ERSA'09_, July 13-16, Las Vegas, NV.  
 \[[pdf](files/ajram_ersa09.pdf)\]
 
-**39\. \[IEEE.ISPASS’09\]** Vladimir Uzelac, Aleksandar Milenković, "Experiment Flows and Microbenchmarks for Reverse Engineering of Branch Predictor Structures," in the _Proceedings of the 2009 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS’09)_, April, 2009, Boston, MA, pp. 207-217. (~25% acceptance rate, double blind review)  
+**39\. \[IEEE.ISPASS’09\]** Vladimir Uzelac, Aleksandar Milenković, "Experiment Flows and Microbenchmarks for Reverse Engineering of Branch Predictor Structures," in the _Proceedings of the 2009 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS’09)_, April, 2009, Boston, MA, pp. 207-217.   
+(~25% acceptance rate, double blind review)  
 \[[pdf](files/vuam_ispass09.pdf)\]
 
 **38\. \[IEEE.SSST’09\]** Dejan Raskovic, Venkatramana Revuri, David Giessel, Aleksandar Milenković, "Embedded Web Server for Wireless Sensor Networks," in the _Proceedings of the 41st IEEE Southeastern Symposium on System Theory (SSST'09)_, Tullahoma, TN, USA, March 15-17, 2009, pp. 154-158.
@@ -237,7 +248,8 @@ doi: [10.1109/HealthCom.2015.7454588](https://doi.org/10.1109/HealthCom.2015.745
 **36\. \[IEEE.SSST’08a\]** Joel L. Wilder, Aleksandar Milenković, Emil Jovanov, "Smart Wireless Vehicle Detection System," in the _Proceedings of the 40th IEEE Southeastern Symposium on System Theory (SSST'08)_, New Orleans, LA, March 2008, pp. 159-163.  
 \[[pdf](files/jwam_ssst08a.pdf)\]
 
-**35\. \[IEEE.ICCD’07\]** Austin Rogers, Milena Milenković, Aleksandar Milenković, "A A Low Overhead Hardware Technique forSoftware Integrity and Confidentiality," in the _Proceedings of the 2007 IEEE International Conference on Computer Design (ICCD'07)_, Olympic Valley, CA, October 7-10, 2007, pp. 113-120. (~30% acceptance rate)  
+**35\. \[IEEE.ICCD’07\]** Austin Rogers, Milena Milenković, Aleksandar Milenković, "A A Low Overhead Hardware Technique forSoftware Integrity and Confidentiality," in the _Proceedings of the 2007 IEEE International Conference on Computer Design (ICCD'07)_, Olympic Valley, CA, October 7-10, 2007, pp. 113-120.   
+(~30% acceptance rate)  
 \[[pdf](files/ajrmmam_iccd07.pdf)\]
 
 **34\. \[IEEE.ISCAS’07\]** Ashkan Ashrafi, Aleksandar Milenković, Reza Adhami, "A 1GHz Direct Digital Frequency Synthesizer Based on the Quasi-Linear Interpolation Method," in the _Proceedings of the 2007 IEEE International Symposium on Circuits and Systems (ISCAS'07)_, New Orleans, LA, 27-20 May 2007, pp. 2766-2769.  
