@@ -79,7 +79,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **12\. \[IEEE.TE’05\]** Jovan Djordjevic, Bosko Nikolic, Aleksandar Milenkovic, "Flexible Web-based Educational System for Teaching Computer Architecture and Organization," _IEEE Transactions on Education_, Vol. 48, No. 2, 2005, pp 264-273. doi: [ 10.1109/TE.2004.842918](https://doi.org/10.1109/TE.2004.842918)   
 \[[pdf](files/am_te05.pdf)\]
 
-**11. \[ACM.CAN’05\]** Milena Milenkovic, Aleksandar Milenkovic, Emil Jovanov, "Using Instruction Block Signatures to Counter Code Injection Attacks," _Computer Architecture News_, Vol. 33, No. 1, March 2005, pp. 108-117.  
+**11. \[ACM.CAN’05\]** Milena Milenkovic, Aleksandar Milenkovic, Emil Jovanov, "Using Instruction Block Signatures to Counter Code Injection Attacks," _Computer Architecture News_, Vol. 33, No. 1, March 2005, pp. 108-117.
+doi: [10.1145/1055626.1055641](https://doi.org/10.1145/1055626.1055641).    
 \[[pdf](files/milenkovic_can05.pdf)\]
 
 **10\. \[BioMED.JNER’05\]** Emil Jovanov, Aleksandar Milenkovic, Chris Otto, Piet C. de Groen, "[A wireless body area network of intelligent motion sensors for computer assisted physical rehabilitation](http://www.jneuroengrehab.com/content/2/1/6)," _Journal of NeuroEngineering and Rehabilitation_, 2:6, March 1, 2005. doi: [10.1186/1743-0003-2-6](https://doi.org/10.1186/1743-0003-2-6).  
@@ -136,7 +137,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **69\. \[ACM.ICPE'19\]** Ranjan Hebbar Seethur Raviraj and Aleksandar Milenkovic, "[SPEC CPU2017: Performance, Event, and Energy Characterization on the Core i7-8700K](https://dl.acm.org/doi/10.1145/3297663.3310314?cid=81100564460)," in the _Proceedings of the 10-the ACM/SPEC International Conference on Performance Engineering (ICPE 2019)_, Mumbai, India, April 7-11, 2019, 8 pages. doi: [10.1145/3297663.3310314](http://dx.doi.org/10.1145/3297663.3310314).  
 \[[pdf](files/rram_icpe19.pdf)\]
 
-**68\. \[INSTICC.PECCS’18\]** Armen Dzhagaryan and Aleksandar Milenkovic, "On Effectiveness of Compressed File Transfers to/from the Cloud: An Experimental Evaluation, in the _Proceedings of the 8th International Joint Conference on Pervasive and Embedded Computing and Communication Systems (PECCS'18)_, Porto, Portugal, July 29-30, 2018, pp. 35-46.  doi: [10.5220/0006905801730184](https://doi.org/10.5220/0006905801730184).  
+**68\. \[INSTICC.PECCS’18\]** Armen Dzhagaryan and Aleksandar Milenkovic, "On Effectiveness of Compressed File Transfers to/from the Cloud: An Experimental Evaluation," in the _Proceedings of the 8th International Joint Conference on Pervasive and Embedded Computing and Communication Systems (PECCS'18)_, Porto, Portugal, July 29-30, 2018, pp. 35-46.  doi: [10.5220/0006905801730184](https://doi.org/10.5220/0006905801730184).  
 \[pdf\]
 
 **67\. \[IEEE.PIMRC’17\]** Armen Dzhagaryan and Aleksandar Milenkovic, "A Framework for Optimizing File Transfers Between Mobile Devices and the Cloud," in the _Proceedings of the IEEE International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC'17)_, Montreal, Canada, October, 2017, 7 pages. doi: [10.1109/PIMRC.2017.8292494](https://ieeexplore.ieee.org/document/8292494).  
@@ -220,93 +221,113 @@ doi: [10.1109/HealthCom.2015.7454588](https://doi.org/10.1109/HealthCom.2015.745
 (double blind review) (best paper award)  
 \[[pdf](files/vuam_cases10b.pdf)\]
 
-**43\. \[IEEE.CASES’10a\]** Vladimir Uzelac, Aleksandar Milenković, Milena Milenković, Martin Burtscher, "Real-time Unobtrusive Program ExecutionTrace Compression Using Branch Predictor Events," in the _Proceedings of the International Conference on Compilers, Architectures and Synthesis of Embedded Systems (CASES’10)_, October 24-29, Scottsdale, AZ, pp. 97-106.   
+**43\. \[IEEE.CASES’10a\]** Vladimir Uzelac, Aleksandar Milenković, Milena Milenković, Martin Burtscher, "Real-time Unobtrusive Program Execution Trace Compression Using Branch Predictor Events," in the _Proceedings of the International Conference on Compilers, Architectures and Synthesis of Embedded Systems (CASES’10)_, October 24-29, Scottsdale, AZ, pp. 97-106. doi: [10.1145/1878921.1878938](https://doi.org/10.1145/1878921.1878938)   
 (double blind review)  
 \[[pdf](files/vuam_cases10a.pdf)\]
   
-**42\. \[IEEE.ICCD’09\]** Vladimir Uzelac, Aleksandar Milenković, Milena Milenković, Martin Burtscher, "Real-time, Unobtrusive, and Efficient Program Execution Tracing with Stream Caches and Last Stream Predictors," in the _Proceedings of the 27th IEEE International Conference on Computer Design (ICCD’09)_, October 4-7, Lake Tahoe, CA, pp. 173-178.   
+**42\. \[IEEE.ICCD’09\]** Vladimir Uzelac, Aleksandar Milenković, Milena Milenković, Martin Burtscher, "Real-time, Unobtrusive, and Efficient Program Execution Tracing with Stream Caches and Last Stream Predictors," in the _Proceedings of the 27th IEEE International Conference on Computer Design (ICCD’09)_, October 4-7, Lake Tahoe, CA, pp. 173-178.
+doi: [10.1109/ICCD.2009.5413159](https://doi.org/10.1109/ICCD.2009.5413159)   
 (70 out of 200, ~35% acceptance rate, double blind review)  
 \[[pdf](files/am_iccd09.pdf)\]
 
-**41\. \[ACM.DAC’09\]** Vladimir Uzelac, Aleksandar Milenković, "A Real-Time Program Trace Compressor Utilizing Double Move-to-Front Method," in the _Proceedings of the 46th Design Automation Conference (DAC’09)_, July 26-31, San Francisco, CA, pp. 738 - 743. doi: [10.1145/1629911.1630102](https://doi.org/10.1145/1629911.1630102).   
+**41\. \[ACM.DAC’09\]** Vladimir Uzelac, Aleksandar Milenković, "A Real-Time Program Trace Compressor Utilizing Double Move-to-Front Method," in the _Proceedings of the 46th Design Automation Conference (DAC’09)_, July 26-31, San Francisco, CA, pp. 738-743. doi: [10.1145/1629911.1630102](https://doi.org/10.1145/1629911.1630102).   
 (148 out of 682, ~21% acceptance rate, double blind review)  
 \[[pdf](files/vuam_dac09.pdf)\]
 
 **40\. \[CSREA.ERSA’09\]** Austin Rogers, Aleksandar Milenković, "An Implementation of Security Extensions for Data Integrity and Confidentiality in Soft Core Processors," in the _Proceedings of the Engineering of Reconfigurable Systems and Algorithms - ERSA'09_, July 13-16, Las Vegas, NV.  
 \[[pdf](files/ajram_ersa09.pdf)\]
 
-**39\. \[IEEE.ISPASS’09\]** Vladimir Uzelac, Aleksandar Milenković, "Experiment Flows and Microbenchmarks for Reverse Engineering of Branch Predictor Structures," in the _Proceedings of the 2009 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS’09)_, April, 2009, Boston, MA, pp. 207-217.   
+**39\. \[IEEE.ISPASS’09\]** Vladimir Uzelac, Aleksandar Milenković, "Experiment Flows and Microbenchmarks for Reverse Engineering of Branch Predictor Structures," in the _Proceedings of the 2009 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS’09)_, April, 2009, Boston, MA, pp. 207-217.
+doi: [10.1109.ISPASS.2009.4919652](https://doi.org/10.1109/ISPASS.2009.4919652).   
 (~25% acceptance rate, double blind review)  
 \[[pdf](files/vuam_ispass09.pdf)\]
 
 **38\. \[IEEE.SSST’09\]** Dejan Raskovic, Venkatramana Revuri, David Giessel, Aleksandar Milenković, "Embedded Web Server for Wireless Sensor Networks," in the _Proceedings of the 41st IEEE Southeastern Symposium on System Theory (SSST'09)_, Tullahoma, TN, USA, March 15-17, 2009, pp. 154-158.
-\[[](files/jwam_ssst08b.pdf)pdf\]
-
-**37\. \[IEEE.SSST’08b\]** Joel L. Wilder, Vladimir Uzelac, Aleksandar Milenković, Emil Jovanov, "Runtime Hardware Reconfiguration in Wireless Sensor Networks," in the _Proceedings of the 40th IEEE Southeastern Symposium on System Theory (SSST'08)_, New Orleans, LA, March 2008, pp. 154-158.  
+doi: [10.1109/SSST.2009.4806814](https://doi.org/10.1109/SSST.2009.4806814).   
 \[[pdf](files/jwam_ssst08b.pdf)\]
 
-**36\. \[IEEE.SSST’08a\]** Joel L. Wilder, Aleksandar Milenković, Emil Jovanov, "Smart Wireless Vehicle Detection System," in the _Proceedings of the 40th IEEE Southeastern Symposium on System Theory (SSST'08)_, New Orleans, LA, March 2008, pp. 159-163.  
+**37\. \[IEEE.SSST’08b\]** Joel L. Wilder, Vladimir Uzelac, Aleksandar Milenković, Emil Jovanov, "Runtime Hardware Reconfiguration in Wireless Sensor Networks," in the _Proceedings of the 40th IEEE Southeastern Symposium on System Theory (SSST'08)_, New Orleans, LA, March 2008, pp. 154-158.
+doi: [10.1109/SSST.2008.4480210](https://doi.org/10.1109/SSST.2008.4480210).  
+\[[pdf](files/jwam_ssst08b.pdf)\]
+
+**36\. \[IEEE.SSST’08a\]** Joel L. Wilder, Aleksandar Milenković, Emil Jovanov, "Smart Wireless Vehicle Detection System," in the _Proceedings of the 40th IEEE Southeastern Symposium on System Theory (SSST'08)_, New Orleans, LA, March 2008, pp. 159-163.
+doi: [10.1109/SSST.2008.4480211](https://doi.org/10.1109/SSST.2008.4480211).  
 \[[pdf](files/jwam_ssst08a.pdf)\]
 
-**35\. \[IEEE.ICCD’07\]** Austin Rogers, Milena Milenković, Aleksandar Milenković, "A A Low Overhead Hardware Technique forSoftware Integrity and Confidentiality," in the _Proceedings of the 2007 IEEE International Conference on Computer Design (ICCD'07)_, Olympic Valley, CA, October 7-10, 2007, pp. 113-120.   
+**35\. \[IEEE.ICCD’07\]** Austin Rogers, Milena Milenković, Aleksandar Milenković, "A Low Overhead Hardware Technique forSoftware Integrity and Confidentiality," in the _Proceedings of the 2007 IEEE International Conference on Computer Design (ICCD'07)_, Olympic Valley, CA, October 7-10, 2007, pp. 113-120.
+doi: [10.1109/ICCD.2007.4601889](https://doi.org/10.1109/ICCD.2007.4601889).   
 (~30% acceptance rate)  
 \[[pdf](files/ajrmmam_iccd07.pdf)\]
 
-**34\. \[IEEE.ISCAS’07\]** Ashkan Ashrafi, Aleksandar Milenković, Reza Adhami, "A 1GHz Direct Digital Frequency Synthesizer Based on the Quasi-Linear Interpolation Method," in the _Proceedings of the 2007 IEEE International Symposium on Circuits and Systems (ISCAS'07)_, New Orleans, LA, 27-20 May 2007, pp. 2766-2769.  
+**34\. \[IEEE.ISCAS’07\]** Ashkan Ashrafi, Aleksandar Milenković, Reza Adhami, "A 1GHz Direct Digital Frequency Synthesizer Based on the Quasi-Linear Interpolation Method," in the _Proceedings of the 2007 IEEE International Symposium on Circuits and Systems (ISCAS'07)_, New Orleans, LA, 27-20 May 2007, pp. 2766-2769.
+doi: [10.1109/ISCAS.2007.378626](https://doi.org/10.1109/ISCAS.2007.378626).  
 \[[pdf](files/ashrafi_iscas07.pdf)\]
 
-**33\. \[IEEE.DCC’07\]** Milena Milenkovic, Aleksandar Milenković, Martin Burtscher, "Algorithms and Hardware Structures for Unobtrusive Real-Time Compression of Instruction and Data Address Traces," in the _Proceedings of the 2007 Data Compression Conference (DCC’07)_, Snowbird, UT, March 27–29, IEEE Computer Society, pp. 55-65.  
+**33\. \[IEEE.DCC’07\]** Milena Milenkovic, Aleksandar Milenković, Martin Burtscher, "Algorithms and Hardware Structures for Unobtrusive Real-Time Compression of Instruction and Data Address Traces," in the _Proceedings of the 2007 Data Compression Conference (DCC’07)_, Snowbird, UT, March 27–29, IEEE Computer Society, pp. 55-65.
+doi: [10.1109/DCC.2007.10](https://doi.org/10.1109/DCC.2007.10).  
 \[[pdf](files/milenkovic_dcc07.pdf)\] \[[ppt slides](files/milenkovic_dcc07.ppt)\]
 
-**32\. \[IEEE.ISSS-MDBS’06\]** Chris A. Otto, Emil Jovanov, Aleksandar Milenković, "A WBAN-based System for Health Monitoring at Home," in the _Proceedings of the 3rd IEEE-EMBS International Summer School and Symposium on Medical Devices and Biosensors (ISSS-MDBS 2006)_, September 2006.  
+**32\. \[IEEE.ISSS-MDBS’06\]** Chris A. Otto, Emil Jovanov, Aleksandar Milenković, "A WBAN-based System for Health Monitoring at Home," in the _Proceedings of the 3rd IEEE-EMBS International Summer School and Symposium on Medical Devices and Biosensors (ISSS-MDBS 2006)_, September 2006.
+doi: [10.1109/ISSMDBS.2006.360087](https://doi.org/10.1109/ISSMDBS.2006.360087).  
 \[[pdf](files/coejam_isss-mdbs06.pdf)\]
 
-**31\. \[ACM.CASES’05\]** Milena Milenkovic, Aleksandar Milenkovic, Emil Jovanov, "Hardware Support for Code Integrity in Embedded Processors," in the _Proceedings of the International Conference on Compilers, Architectures and Synthesis of Embedded Systems (CASES’05)_, San Francisco, CA, Sept. 24 – Sept. 27, 2005, pp. 55-65. (~30% acceptance rate)  
+**31\. \[ACM.CASES’05\]** Milena Milenkovic, Aleksandar Milenkovic, Emil Jovanov, "Hardware Support for Code Integrity in Embedded Processors," in the _Proceedings of the International Conference on Compilers, Architectures and Synthesis of Embedded Systems (CASES’05)_, San Francisco, CA, Sept. 24 – Sept. 27, 2005, pp. 55-65.
+doi: [10.1145/1086297.1086306](https://doi.org/10.1145/1086297.1086306).   
+(~30% acceptance rate)  
 \[[pdf](files/milenkovic_cases05.pdf)\]
 
-**30\. \[IEEE.EMBS’05b\]** Emil Jovanov, Aleksandar Milenkovic, Chris Otto, Piet de Groen, Bruce Johnson, Steve Warren, Gueseppe Taibi, "A WBAN System for Ambulatory Monitoring of Physical Activity and Health Status: Applications and Challenges," in the _Proceedings of the 27th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS)_, Shanghai, China, September 2005.  
-\[pdf\]
+**30\. \[IEEE.EMBS’05b\]** Emil Jovanov, Aleksandar Milenkovic, Chris Otto, Piet de Groen, Bruce Johnson, Steve Warren, Gueseppe Taibi, "A WBAN System for Ambulatory Monitoring of Physical Activity and Health Status: Applications and Challenges," in the _Proceedings of the 27th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS)_, Shanghai, China, September 2005.
+doi: [10.1109/IEMBS.2005.1615290](https://doi.org/10.1109/IEMBS.2005.1615290).   
 
-**29\. \[IEEE.EMBS’05a\]** Steve Warren, Jeffrey Lebak , Jianchu Yao , Jonathan Creekmore , Aleksandar Milenkovic , Emil Jovanov, "Interoperability and Security in Wireless Body Area Network Infrastructures," in the _Proceedings of the 27th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS)_, Shanghai, China, September 2005.  
-\[pdf\]
-
-**28\. \[IEEE.SSST’05b\]** Aleksandar Milenkovic, Milena Milenkovic, Emil Jovanov, Dennis Hite, Dejan Raskovic, "An Environment for Runtime Power Monitoring of Wireless Sensor Network Platforms," in the _Proceedings of the 37th IEEE Southeastern Symposium on System Theory (SSST'05)_, Tuskegee, AL, March 2005, pp. 406-410.  
+**29\. \[IEEE.EMBS’05a\]** Steve Warren, Jeffrey Lebak , Jianchu Yao , Jonathan Creekmore , Aleksandar Milenkovic , Emil Jovanov, "Interoperability and Security in Wireless Body Area Network Infrastructures," in the _Proceedings of the 27th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS)_, Shanghai, China, September 2005.
+doi: [10.1109/IEMBS.2005.1615297](https://doi.org/10.1109/IEMBS.2005.1615297).   
+  
+**28\. \[IEEE.SSST’05b\]** Aleksandar Milenkovic, Milena Milenkovic, Emil Jovanov, Dennis Hite, Dejan Raskovic, "An Environment for Runtime Power Monitoring of Wireless Sensor Network Platforms," in the _Proceedings of the 37th IEEE Southeastern Symposium on System Theory (SSST'05)_, Tuskegee, AL, March 2005, pp. 406-410.
+doi: [10.1109/SSST.2005.1460946](https://doi.org/10.1109/SSST.2005.1460946).    
 \[[pdf](files/milenkovic_ssst05rtp.pdf)\] \[[ppt slides](files/am_ssst05_rtp.ppt)\]
 
-**27\. \[IEEE.SSST’05a\]** Dennis Cox, Emil Jovanov, Aleksandar Milenkovic, "Time Synchronization for ZigBee Networks," in the _Proceedings of the 37th IEEE Southeastern Symposium on System Theory (SSST'05)_, Tuskegee, AL, March 2005, pp. 135-138.  
+**27\. \[IEEE.SSST’05a\]** Dennis Cox, Emil Jovanov, Aleksandar Milenkovic, "Time Synchronization for ZigBee Networks," in the _Proceedings of the 37th IEEE Southeastern Symposium on System Theory (SSST'05)_, Tuskegee, AL, March 2005, pp. 135-138.
+doi: [10.1109/SSST.2005.1460892](https://doi.org/10.1109/SSST.2005.1460892).  
 \[[pdf](files/dc_ssst05_synch.pdf)\] \[[ppt slides](files/am_ssst05_synch.ppt)\]
 
-**26\. \[ACM.SE’05\]** Chris Otto, John P. Gober, Reggie W. McMurtrey, Aleksandar Milenkovic, Emil Jovanov, "An Implementation of Hierarchical Signal Processing on a Wireless Sensor in TinyOS Environment," in the _Proceedings of the 43rd ACM Southeastern Conference_, Kennesaw, GA, March 2005, Vol. 2, pp. 49-53.  
-\[pdf\]
+**26\. \[ACM.SE’05\]** Chris Otto, John P. Gober, Reggie W. McMurtrey, Aleksandar Milenkovic, Emil Jovanov, "An Implementation of Hierarchical Signal Processing on a Wireless Sensor in TinyOS Environment," in the _Proceedings of the 43rd ACM Southeastern Conference_, Kennesaw, GA, March 2005, Vol. 2, pp. 49-53.
+doi: [10.1145/1167253.1167266](https://doi.org/10.1145/1167253.1167266).     
 
 **25\. \[ACM.WASSA’04\]** Milena Milenkovic, Aleksandar Milenkovic, Emil Jovanov, "Using Instruction Block Signatures to Counter Code Injection Attacks," in the _Proceedings of the Workshop on Architectural Support for Security and Anti-Virus (WASSA)_ (held in conjunction with 11th ASPLOS), Boston, Massachusetts, USA, October 9, 2004, pp. 104–113.  
 \[[pdf](files/milenkovic_wassa04.pdf)\]\[[ps.gz](files/milenkovic_wassa04.ps.gz)\] \[[ppt slides](files/milenkovic_wassa04.ppt)\]
 
-**24\. \[IEEE.EMBS’04\]** Emil Jovanov, Aleksandar Milenkovic, S. Basham, D. Clark, D. Kelley, "Reconfigurable Intelligent Sensors for Health Monitoring: A Case Study of Pulse Oximeter Sensor," in the _Proceedings of the 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society_, San Francisco, California, September 2004, pp. 4759–4762.  
+**24\. \[IEEE.EMBS’04\]** Emil Jovanov, Aleksandar Milenkovic, S. Basham, D. Clark, D. Kelley, "Reconfigurable Intelligent Sensors for Health Monitoring: A Case Study of Pulse Oximeter Sensor," in the _Proceedings of the 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society_, San Francisco, California, September 2004, pp. 4759–4762.
+doi: [10.1109/IEMBS.2004.1404317](https://doi.org/10.1109/IEMBS.2004.1404317).  
 \[[pdf](files/ejam_embs04.pdf)\]
 
-**23\. \[ACM.SE’04d\]** Swathi T. Gurumani, Aleksandar Milenkovic, "Execution Characteristics of SPEC CPU2000 Benchmarks: Intel C++ vs. Microsoft VC++", in the _Proceedings of the 42nd ACM Southeast Conference_, April 2-3, 2004, Huntsville, AL, pp. 261-266.  
+**23\. \[ACM.SE’04d\]** Swathi T. Gurumani, Aleksandar Milenkovic, "Execution Characteristics of SPEC CPU2000 Benchmarks: Intel C++ vs. Microsoft VC++", in the _Proceedings of the 42nd ACM Southeast Conference_, April 2-3, 2004, Huntsville, AL, pp. 261-266.
+doi: [10.1145/986537.986599](https://doi.org/10.1145/986537.986599).     
 \[[pdf](files/gurumani_acmse04.pdf)\]
 
-**22\. \[ACM.SE’04c\]** Milena Milenkovic, Aleksandar Milenkovic, Emil Jovanov, "A Framework For Trusted Instruction Execution Via Basic Block Signature Verification," in the _Proceedings of the 42nd ACM Southeast Conference_, April 2-3, 2004, Huntsville, AL, pp. 191-196.  
+**22\. \[ACM.SE’04c\]** Milena Milenkovic, Aleksandar Milenkovic, Emil Jovanov, "A Framework For Trusted Instruction Execution Via Basic Block Signature Verification," in the _Proceedings of the 42nd ACM Southeast Conference_, April 2-3, 2004, Huntsville, AL, pp. 191-196.
+doi: [10.1145/986537.986582](https://doi.org/10.1145/986537.986582).   
 \[[pdf](files/milenkovic_acmse04f.pdf)\]
 
-**21\. \[ACM.SE’04b\]** H. Al-Zoubi, Aleksandar Milenkovic, Milena Milenkovic, "Performance Evaluation of Cache Replacement Policies for the SPEC CPU2000 Benchmark Suite," in the _Proceedings of the 42nd ACM Southeast Conference_, April 2-3, 2004, Huntsville, AL, pp. 267-272.  
+**21\. \[ACM.SE’04b\]** H. Al-Zoubi, Aleksandar Milenkovic, Milena Milenkovic, "Performance Evaluation of Cache Replacement Policies for the SPEC CPU2000 Benchmark Suite," in the _Proceedings of the 42nd ACM Southeast Conference_, April 2-3, 2004, Huntsville, AL, pp. 267-272.
+doi: [10.1145/986537.986601](https://doi.org/10.1145/986537.986601).      
 \[[pdf](files/milenkovic_acmse04r.pdf)\]
 
-**20\. \[ACM.SE’04a\]** Zexin Pan, Wendy D. Pan, Aleksandar Milenkovic, "Complexity-Distortion Tradeoffs in Variable Complexity 2-D DCT," in the _Proceedings of the 42nd ACM Southeast Conference_, April 2-3, 2004, Huntsville, AL, pp. 460-465.  
-\[pdf\]
+**20\. \[ACM.SE’04a\]** Zexin Pan, Wendy D. Pan, Aleksandar Milenkovic, "Complexity-Distortion Tradeoffs in Variable Complexity 2-D DCT," in the _Proceedings of the 42nd ACM Southeast Conference_, April 2-3, 2004, Huntsville, AL, pp. 460-465.
+doi: [10.1145/986537.986652](https://doi.org/10.1145/986537.986652).   
 
-**19\. \[IEEE.WWC’03\]** Aleksandar Milenkovic, Milena Milenkovic, "Exploiting Streams in Instruction and Data Address Trace Compression," in the _Proceedings of the IEEE 6th Annual Workshop on Workload Characterization_, Austin, TX, USA, October 27, 2003, pp. 99-107.  
+**19\. \[IEEE.WWC’03\]** Aleksandar Milenkovic, Milena Milenkovic, "Exploiting Streams in Instruction and Data Address Trace Compression," in the _Proceedings of the IEEE 6th Annual Workshop on Workload Characterization_, Austin, TX, USA, October 27, 2003, pp. 99-107.
+doi: [10.1109/WWC.2003.1249061](https://doi.org/10.1109/WWC.2003.1249061).  
 \[[pdf](files/milenkovic_wwc03.pdf)\]\[[ps.gz](files/milenkovic_wwc03.ps.gz)\] \[[ppt slides](files/milenkovic_wwc03.ppt)\]
 
 **18\. \[ISCA.PDCS’03\]** Aleksandar Milenkovic, Milena Milenkovic, Jeffrey Kulick, "N-Tuple Compression: A Novel Method for Compression of Branch Instruction Traces," in the _Proceedings of the 16th International Conference on Parallel and Distributed Computing Systems (PDCS-2003)_, Reno, Nevada, USA, August 13-15, 2003, pp. 49-55.  
 \[[pdf](files/milenkovic_pdcs03.pdf)\]
 
-**17\. \[IEEE.MSE’03\]** Aleksandar Milenkovic, David Fatzer, "Teaching IP Core Development: An Example," in the _Proceedings of the 2003 International Conference on Microelectronic Systems Education_, Anaheim, California, USA, June 1-2, 2003, pp. 16-17.  
+**17\. \[IEEE.MSE’03\]** Aleksandar Milenkovic, David Fatzer, "Teaching IP Core Development: An Example," in the _Proceedings of the 2003 International Conference on Microelectronic Systems Education_, Anaheim, California, USA, June 1-2, 2003, pp. 16-17.
+doi: [10.1109/MSE.2003.1205234](https://doi.org/10.1109/MSE.2003.1205234).   
 \[[pdf](files/milenkovic_mse03.pdf)\]
 
-**16\. \[IEEE.SSST’03\]** Aleksandar Milenkovic, Milena Milenkovic, and Nelson Barnes, "A performance evaluation of memory hierarchy in embedded systems," in the _Proceedings of the 35th IEEE Southeastern Symposium on System Theory_, Morgantown, West Virginia, USA, 16-18 March 2003, pp. 427-431.  
+**16\. \[IEEE.SSST’03\]** Aleksandar Milenkovic, Milena Milenkovic, and Nelson Barnes, "A performance evaluation of memory hierarchy in embedded systems," in the _Proceedings of the 35th IEEE Southeastern Symposium on System Theory_, Morgantown, West Virginia, USA, 16-18 March 2003, pp. 427-431.
+doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).  
 \[[pdf](files/milenkovic_ssst03.pdf)\]\[[ps.gz](files/milenkovic_ssst03.ps.gz)\]
 
 **15\. \[Dod.HPC'02\]** Kenneth G. LeSueur, Emil Jovanov, and Aleksandar Milenkovic, "Lookup Table Based Real-Time Non-Uniformity Correction Of Infrared Scene Projectors," in the _Proceedings of the 12th Annual DoD High Performance Computing Modernization User Group Conference_, Austin, Texas, June 2002.  
@@ -315,8 +336,7 @@ doi: [10.1109/HealthCom.2015.7454588](https://doi.org/10.1109/HealthCom.2015.745
 **14\. \[WWD’02\]** Milena Milenkovic, Aleksandar Milenkovic, and Jeffrey Kulick, "Demystifying Intel Branch Predictors," in the _Proceedings of the Workshop on Duplicating, Deconstructing, and Debunking_ (held in conjunction with 29th ISCA), Anchorage, Alaska, May 2002.  
 \[[pdf](files/milenkovic_WDDD02.pdf)\]
 
-**13\. \[WCAE’02\]** Aleksandar Milenkovic, Bosko Nikolic, Jovan Djordjevic, "CASTLE: Computer Architecture Self-Testing and Learning System" in the _Proceedings of the Workshop on Computer Architecture Education_ (held in conjunction with 29th ISCA), Anchorage, Alaska, May 2002.  
-\[pdf\]
+**13\. \[WCAE’02\]** Aleksandar Milenkovic, Bosko Nikolic, Jovan Djordjevic, "CASTLE: Computer Architecture Self-Testing and Learning System" in the _Proceedings of the Workshop on Computer Architecture Education_ (held in conjunction with 29th ISCA), Anchorage, Alaska, May 2002.   
 
 **12\. \[IEEE.MASCOTS’00\]** Darko Marinov, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, Igor Tartalja, and V. M. Milutinovic, "SCOWL: A Tool for Characterization of Parallel Workload and its Use on Splash-2 Application Suite," in the _Proceedings of the 8th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)_, San Francisco, California, August/September 2000, pp. 207-213.  
 \[pdf\]
