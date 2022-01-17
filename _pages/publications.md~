@@ -33,12 +33,12 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **28\. \[IEEE.TC'19\]**  Prawar Poudel, Biswajit Ray, Aleksandar Milenković, "[Microcontroller TRNGs Using Perturbed States of NOR Flash Memory Cells](https://ieeexplore.ieee.org/document/8443106)," _IEEE Transactions on Computers_, Vol. 68, No. 2, Feb. 2019, pp. 307-313. doi: [10.1109/TC.2018.2866459](https://doi.org/10.1109/TC.2018.2866459).   
 \[[pdf](files/ppam_tc19.pdf)\]
 
-**27\. \[IEEE.TED'18\]**  Biswajit Ray, Aleksandar Milenković, "[True Random Number Generation Using Read Noise of Flash Memory Cells](http://ieeexplore.ieee.org/document/8283603/)," _IEEE Transactions on Electron Devices_, Vol. 65, Issue 3, March 2018,  pp. 963-969. doi: [10.1109/TED.2018.2792436](https://doi.org/10.1109/TED.2018.2792436).   
+**27\. \[IEEE.TED'18\]**  Biswajit Ray, Aleksandar Milenković, "[True Random Number Generation Using Read Noise of Flash Memory Cells](http://ieeexplore.ieee.org/document/8283603/)," _IEEE Transactions on Electron Devices_, Vol. 65, Issue 3, March 2018, pp. 963-969. doi: [10.1109/TED.2018.2792436](https://doi.org/10.1109/TED.2018.2792436).   
 \[[pdf](files/RayMilenkovic_TED18.pdf)\]
 
 **26\. \[Elsevier.Measurement'16\]**  Armen Dzhagaryan, Aleksandar Milenković, Emil Jovanov, Mladen Milosevic, "[An Environment for automated measurement of energy consumed by mobile and embedded computing devices](http://www.sciencedirect.com/science/article/pii/S0263224116304407)," _Measurement_, Vol. 94, December 2016,  pp. 103-118. doi: [10.1016/j.measurement.2016.07.073](https://doi.org/10.1016/j.measurement.2016.07.073).  
 
-**25\. \[MDPI.Information'16\]** Priyanka Madhushri, Armen Dzhagaryan, Emil Jovanov, Aleksandar Milenković, "[An mHealth Tool Suite for Mobility Assessment](http://www.mdpi.com/2078-2489/7/3/47/html)," _Information_, Vol. 7, No. 3, July 2016.  doi: [10.3390/info7030047](https://doi.org/10.3390/info7030047).   
+**25\. \[MDPI.Information'16\]** Priyanka Madhushri, Armen Dzhagaryan, Emil Jovanov, Aleksandar Milenković, "[An mHealth Tool Suite for Mobility Assessment](http://www.mdpi.com/2078-2489/7/3/47/html)," _Information_, Vol. 7, No. 3, July 2016. doi: [10.3390/info7030047](https://doi.org/10.3390/info7030047).   
 \[[pdf](files/information-07-00047.pdf)\]
 
 **24\. \[Elsevier.JSA'15\]** Amrish K. Tewar, Albert R. Myers, Aleksandar Milenković, "[mcfTRaptor: Toward unobtrusive on-the-fly control-flow tracing in multicores](http://www.sciencedirect.com/science/article/pii/S1383762115000752)," _Journal of Systems Architecture_, Vol. 61, No. 10, November 2015, pp. 601-614. doi: [10.1016/j.sysarc.2015.07.005](https://doi.org/10.1016/j.sysarc.2015.07.005).   
@@ -339,7 +339,7 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 
 **13\. \[WCAE’02\]** Aleksandar Milenkovic, Bosko Nikolic, Jovan Djordjevic, "CASTLE: Computer Architecture Self-Testing and Learning System" in the _Proceedings of the Workshop on Computer Architecture Education_ (held in conjunction with 29th ISCA), Anchorage, Alaska, May 2002.   
 
-**12\. \[IEEE.MASCOTS’00\]** Darko Marinov, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, Igor Tartalja, and V. M. Milutinovic, "SCOWL: A Tool for Characterization of Parallel Workload and its Use on Splash-2 Application Suite," in the _Proceedings of the 8th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)_, San Francisco, California, August/September 2000, pp. 207-213.  
+**12\. \[IEEE.MASCOTS’00\]** Darko Marinov, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, Igor Tartalja, and V. M. Milutinovic, "SCOWL: A Tool for Characterization of Parallel Workload and its Use on Splash-2 Application Suite," in the _Proceedings of the 8th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)_, San Francisco, California, August/September 2000, pp. 207-213. doi: [10.1109/MASCOT.2000.876446](https://doi.org/10.1109/MASCOT.2000.876446).  
 \[pdf\]
 
 **11\. \[Springer.EuroPar’00\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Cache Injection: A Novel Technique for Tolerating Memory Latency in Bus-Based SMPs," Lecture Notes in Computer Science, vol. 1900, in the _Proceedings of the 6th International Euro-Par Conference_, Munich, Germany, August/September 2000, pp. 558-566.  
@@ -351,7 +351,7 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 **9\. \[WCAE’99\]** Jovan Djordjevic, Aleksandar Milenkovic, Ivan Todorovic, and Darko Marinov, "CALKAS: A Computer Architecture Learning and Knowledge Assessment System," in the _Proceedings of the 4th Annual Workshop on Computer Architecture Education_, (held in conjunction with 5th HPCA), Orlando, Florida, USA, January 1999.  
 \[[pdf](files/wcaehpca99.pdf)\]
 
-**8\. \[IEEE.APADS’98\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Cache Injection on Bus-based Multiprocessors," in the _Proceedings of the Workshop on Advances in Parallel and Distributed Systems_, (held in conjunction with 17-th IEEE Symposium on Reliable Distributed Systems), West Lafayette, Indiana, October 1998.  
+**8\. \[IEEE.APADS’98\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Cache Injection on Bus-based Multiprocessors," in the _Proceedings of the Workshop on Advances in Parallel and Distributed Systems_, (held in conjunction with 17-th IEEE Symposium on Reliable Distributed Systems), West Lafayette, Indiana, October 1998. doi: [10.1109/RELDIS.1998.740520](https://doi.org/10.1109/RELDIS.1998.740520).  
 \[[pdf](files/apads98.pdf)\]
 
 **7\. \[ISCEE’98\]** Jovan Djordjevic, Miroslav Bojovic, and Aleksandar Milenkovic, "An Integrated Educational Environment for Computer Architecture and Organisation," in the _Proceedings of the International Symposium on Computer Employment and Education (ISCEE’98)_, Amiens, France, October 1998.  
@@ -363,15 +363,15 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 **5\. \[WCAE’98hpca\]** Jovan Djordjevic, Aleksandar Milenkovic, Nenad Grbanovic, and Miroslav Bojovic, "An Educational Environment for Teaching a Course in Computer Architecture and Organization," in the _Proceedings of the 4th Annual Workshop on Computer Architecture Education_, (held in conjunction with 4th HPCA), Las Vegas, Nevada, January 1998.  
 \[[pdf](files/wcaehpca98.pdf)\]
 
-**4\. \[IEEE.HICSS’98b\]** Darko Marinov, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, Igor Tartalja, and Veljko M. Milutinovic, "An Approach to Characterization of Parallel Applications for DSM Systems," in the _Proceedings of the 31st HICSS_, IEEE Computer Society Press, Vol. 7, January 1998, pp. 782-784.  
+**4\. \[IEEE.HICSS’98b\]** Darko Marinov, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, Igor Tartalja, and Veljko M. Milutinovic, "An Approach to Characterization of Parallel Applications for DSM Systems," in the _Proceedings of the 31st HICSS_, IEEE Computer Society Press, Vol. 7, January 1998, pp. 782-784. doi: [10.1109/HICSS.1998.649287](https://doi.org/10.1109/HICSS.1998.649287).  
 \[[pdf](files/hicss98scopa.pdf)\]
 
-**3\. \[IEEE.HICSS’98a\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Lazy Prefetching," in the _Proceedings of the 31st HICSS_, IEEE Computer Society Press, Vol. 7, January 1998, pp. 780-782.  
+**3\. \[IEEE.HICSS’98a\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Lazy Prefetching," in the _Proceedings of the 31st HICSS_, IEEE Computer Society Press, Vol. 7, January 1998, pp. 780-782. doi: [HICSS.1998.649286](https://doi.org/10.1109/HICSS.1998.649286).   
 \[[pdf](files/hicss98lp.pdf)\]
 
-**2\. \[IEEE.MIEL’97\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "A Quantitative Analysis of Wiring Lengths in 2D and 3D VLSI Implementations of 3D Systolic Arrays," in the _Proceedings of the MIEL'97_, Vol. 2, Nis, Yugoslavia, September 1997, pp. 833-837.
+**2\. \[IEEE.MIEL’97\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "A Quantitative Analysis of Wiring Lengths in 2D and 3D VLSI Implementations of 3D Systolic Arrays," in the _Proceedings of the MIEL'97_, Vol. 2, Nis, Yugoslavia, September 1997, pp. 833-837. doi: [10.1109/ICMEL.1997.632973](https://doi.org/10.1109/ICMEL.1997.632973).
 
-**1\. \[IEEE.MASCOTS’97\]** Veljko M. Milutinovic, Aleksandar Milenkovic, and Gad Sheaffer, "The Cache Injection Control Architecture: Initial Performance Analysis," in the _Proceedings of the 5th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)_, Haifa, Israel, January 1997.  
+**1\. \[IEEE.MASCOTS’97\]** Veljko M. Milutinovic, Aleksandar Milenkovic, and Gad Sheaffer, "The Cache Injection Control Architecture: Initial Performance Analysis," in the _Proceedings of the 5th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)_, Haifa, Israel, January 1997. doi: [10.1109/MASCOT.1997.567582](https://doi.ieeecomputersociety.org/10.1109/MASCOT.1997.567582).  
 \[[pdf](files/mascots97.pdf)\]
 
 ## Chapters
