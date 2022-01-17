@@ -339,7 +339,7 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 
 **13\. \[WCAE’02\]** Aleksandar Milenkovic, Bosko Nikolic, Jovan Djordjevic, "CASTLE: Computer Architecture Self-Testing and Learning System" in the _Proceedings of the Workshop on Computer Architecture Education_ (held in conjunction with 29th ISCA), Anchorage, Alaska, May 2002.   
 
-**12\. \[IEEE.MASCOTS’00\]** Darko Marinov, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, Igor Tartalja, and V. M. Milutinovic, "SCOWL: A Tool for Characterization of Parallel Workload and its Use on Splash-2 Application Suite," in the _Proceedings of the 8th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)_, San Francisco, California, August/September 2000, pp. 207-213.  
+**12\. \[IEEE.MASCOTS’00\]** Darko Marinov, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, Igor Tartalja, and V. M. Milutinovic, "SCOWL: A Tool for Characterization of Parallel Workload and its Use on Splash-2 Application Suite," in the _Proceedings of the 8th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)_, San Francisco, California, August/September 2000, pp. 207-213. doi: [10.1109/MASCOT.2000.876446](https://doi.org/10.1109/MASCOT.2000.876446).  
 \[pdf\]
 
 **11\. \[Springer.EuroPar’00\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Cache Injection: A Novel Technique for Tolerating Memory Latency in Bus-Based SMPs," Lecture Notes in Computer Science, vol. 1900, in the _Proceedings of the 6th International Euro-Par Conference_, Munich, Germany, August/September 2000, pp. 558-566.  
@@ -351,7 +351,7 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 **9\. \[WCAE’99\]** Jovan Djordjevic, Aleksandar Milenkovic, Ivan Todorovic, and Darko Marinov, "CALKAS: A Computer Architecture Learning and Knowledge Assessment System," in the _Proceedings of the 4th Annual Workshop on Computer Architecture Education_, (held in conjunction with 5th HPCA), Orlando, Florida, USA, January 1999.  
 \[[pdf](files/wcaehpca99.pdf)\]
 
-**8\. \[IEEE.APADS’98\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Cache Injection on Bus-based Multiprocessors," in the _Proceedings of the Workshop on Advances in Parallel and Distributed Systems_, (held in conjunction with 17-th IEEE Symposium on Reliable Distributed Systems), West Lafayette, Indiana, October 1998.  
+**8\. \[IEEE.APADS’98\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Cache Injection on Bus-based Multiprocessors," in the _Proceedings of the Workshop on Advances in Parallel and Distributed Systems_, (held in conjunction with 17-th IEEE Symposium on Reliable Distributed Systems), West Lafayette, Indiana, October 1998. doi: [10.1109/RELDIS.1998.740520](https://doi.org/10.1109/RELDIS.1998.740520).  
 \[[pdf](files/apads98.pdf)\]
 
 **7\. \[ISCEE’98\]** Jovan Djordjevic, Miroslav Bojovic, and Aleksandar Milenkovic, "An Integrated Educational Environment for Computer Architecture and Organisation," in the _Proceedings of the International Symposium on Computer Employment and Education (ISCEE’98)_, Amiens, France, October 1998.  
@@ -363,15 +363,15 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 **5\. \[WCAE’98hpca\]** Jovan Djordjevic, Aleksandar Milenkovic, Nenad Grbanovic, and Miroslav Bojovic, "An Educational Environment for Teaching a Course in Computer Architecture and Organization," in the _Proceedings of the 4th Annual Workshop on Computer Architecture Education_, (held in conjunction with 4th HPCA), Las Vegas, Nevada, January 1998.  
 \[[pdf](files/wcaehpca98.pdf)\]
 
-**4\. \[IEEE.HICSS’98b\]** Darko Marinov, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, Igor Tartalja, and Veljko M. Milutinovic, "An Approach to Characterization of Parallel Applications for DSM Systems," in the _Proceedings of the 31st HICSS_, IEEE Computer Society Press, Vol. 7, January 1998, pp. 782-784.  
+**4\. \[IEEE.HICSS’98b\]** Darko Marinov, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, Igor Tartalja, and Veljko M. Milutinovic, "An Approach to Characterization of Parallel Applications for DSM Systems," in the _Proceedings of the 31st HICSS_, IEEE Computer Society Press, Vol. 7, January 1998, pp. 782-784. doi: [10.1109/HICSS.1998.649287](https://doi.org/10.1109/HICSS.1998.649287).  
 \[[pdf](files/hicss98scopa.pdf)\]
 
-**3\. \[IEEE.HICSS’98a\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Lazy Prefetching," in the _Proceedings of the 31st HICSS_, IEEE Computer Society Press, Vol. 7, January 1998, pp. 780-782.  
+**3\. \[IEEE.HICSS’98a\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Lazy Prefetching," in the _Proceedings of the 31st HICSS_, IEEE Computer Society Press, Vol. 7, January 1998, pp. 780-782. doi: [HICSS.1998.649286](https://doi.org/10.1109/HICSS.1998.649286).   
 \[[pdf](files/hicss98lp.pdf)\]
 
-**2\. \[IEEE.MIEL’97\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "A Quantitative Analysis of Wiring Lengths in 2D and 3D VLSI Implementations of 3D Systolic Arrays," in the _Proceedings of the MIEL'97_, Vol. 2, Nis, Yugoslavia, September 1997, pp. 833-837.
+**2\. \[IEEE.MIEL’97\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "A Quantitative Analysis of Wiring Lengths in 2D and 3D VLSI Implementations of 3D Systolic Arrays," in the _Proceedings of the MIEL'97_, Vol. 2, Nis, Yugoslavia, September 1997, pp. 833-837. doi: [10.1109/ICMEL.1997.632973](https://doi.org/10.1109/ICMEL.1997.632973).
 
-**1\. \[IEEE.MASCOTS’97\]** Veljko M. Milutinovic, Aleksandar Milenkovic, and Gad Sheaffer, "The Cache Injection Control Architecture: Initial Performance Analysis," in the _Proceedings of the 5th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)_, Haifa, Israel, January 1997.  
+**1\. \[IEEE.MASCOTS’97\]** Veljko M. Milutinovic, Aleksandar Milenkovic, and Gad Sheaffer, "The Cache Injection Control Architecture: Initial Performance Analysis," in the _Proceedings of the 5th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)_, Haifa, Israel, January 1997. doi: [10.1109/MASCOT.1997.567582](https://doi.ieeecomputersociety.org/10.1109/MASCOT.1997.567582).  
 \[[pdf](files/mascots97.pdf)\]
 
 ## Chapters
