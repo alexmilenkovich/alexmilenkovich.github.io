@@ -28,7 +28,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **30\. \[IEEE.MVT'19\]**  David Coe, Jeff Kulick, Aleksandar Milenković, Letha Etzkorn, "[Virtualized In-Situ Software Update Verification: Verification of Over-the-Air Automotive Software Updates](https://ieeexplore.ieee.org/document/8941114)," _IEEE Vehicular Technology Magazine_, Vol. 15, Issue: 1, March 2020, pp. 84-90. doi: [10.1109/MVT.2019.2954302](https://ieeexplore.ieee.org/document/8941114).
 
-**29\. \[ACM.TECS'19\]**  Mounika Ponugoti, Aleksandar Milenković, "[Enabling On-the-Fly Hardware Tracing of Data Reads in Multicores](https://dl.acm.org/doi/10.1145/3322642?cid=81100564460)" _ACM Transactions on Embedded Computing Systems_, Vol. 18, Issue 4, No. 34, pp. 1-27, June 2019. doi: [10.1145/3322642](https://doi.org/10.1145/3322642).
+**29\. \[ACM.TECS'19\]**  Mounika Ponugoti, Aleksandar Milenković, "[Enabling On-the-Fly Hardware Tracing of Data Reads in Multicores](https://dl.acm.org/doi/10.1145/3322642?cid=81100564460)," _ACM Transactions on Embedded Computing Systems_, Vol. 18, Issue 4, No. 34, pp. 1-27, June 2019. doi: [10.1145/3322642](https://doi.org/10.1145/3322642).
 
 **28\. \[IEEE.TC'19\]**  Prawar Poudel, Biswajit Ray, Aleksandar Milenković, "[Microcontroller TRNGs Using Perturbed States of NOR Flash Memory Cells](https://ieeexplore.ieee.org/document/8443106)," _IEEE Transactions on Computers_, Vol. 68, No. 2, Feb. 2019, pp. 307-313. doi: [10.1109/TC.2018.2866459](https://doi.org/10.1109/TC.2018.2866459).   
 \[[pdf](files/ppam_tc19.pdf)\]
@@ -50,7 +50,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **22\. \[ACM.TECS'13\]** Vladimir Uzelac, Aleksandar Milenković, "[Hardware-Based Load Value Trace Filtering for On-the-Fly Debugging](https://doi.org/10.1145/2465787.2465799)," _ACM Transactions on Embedded Computing Systems_, Vol. 12, No: 2s, May 2013. doi: [10.1145/2465787.2465799](https://doi.org/10.1145/2465787.2465799).  
 \[[pdf](files/vuam_tecs11.pdf)\]
 
-**21\. \[Springer.JMS'11\]** Emil Jovanov, Aleksandar Milenković, "[Body Area Networks for Ubiquitous Healthcare Applications: Opportunities and Challenges](http://www.springerlink.com/content/7552m1663166j576/)," _Journal of Medical Systems_ , Vol. 5, No. 5, October 2011, pp. 1245-1254. doi: [10.1007/s10916-011-9661-x](https://doi.org/10.1007/s10916-011-9661-x).
+**21\. \[Springer.JMS'11\]** Emil Jovanov, Aleksandar Milenković, "[Body Area Networks for Ubiquitous Healthcare Applications: Opportunities and Challenges](http://www.springerlink.com/content/7552m1663166j576/)," _Journal of Medical Systems_, Vol. 5, No. 5, October 2011, pp. 1245-1254. doi: [10.1007/s10916-011-9661-x](https://doi.org/10.1007/s10916-011-9661-x).
 
 **20\. \[IEEE.TC'11\]** Aleksandar Milenković, Vladimir Uzelac, Milena Milenković, Martin Burtscher, "[Caches and Predictors for Real-time, Unobtrusive, and Cost-Effective Program Tracing in Embedded Systems](https://doi.org/10.1109/TC.2010.146)," _IEEE Transactions on Computers_, Vol. 60, No. 7, July 2011, pp. 992-1005. doi: [10.1109/TC.2010.146](https://doi.org/10.1109/TC.2010.146).      
 \[[pdf](files/milenkovic_TC10.pdf)\]
@@ -58,25 +58,25 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **19\. \[IEEE.TCAS-I'10\]** Ashkan Ashrafi, Reza Adhami, Aleksandar Milenković, "[A Direct Digital Frequency Synthesizer Based on the Quasi Linear Interpolation Method](https://doi.org/10.1109/TCSI.2009.2027645)," _IEEE Transactions on Circuits and Systems I_, Vol. 57, No. 4, April 2010, pp. 863-872. doi: [10.1109/TCSI.2009.2027645](https://doi.org/10.1109/TCSI.2009.2027645).  
 \[[pdf](files/ashrafi_TCAS-I10.pdf)\]
 
-**18\. \[Elsevier.MICPRO’09\]** Austin Rogers, Aleksandar Milenković, "[Security extensions for integrity and confidentiality in embedded processors](http://dx.doi.org/10.1016/j.micpro.2009.06.002)," _Microprocessors and Microsystems_, Vol. 33, Issues 5-6,  August 2009, pp. 398-414. doi: [10.1016/j.micpro.2009.06.002](https://www.sciencedirect.com/science/article/pii/S0141933109000623?via%3Dihub).   
+**18\. \[Elsevier.MICPRO’09\]** Austin Rogers, Aleksandar Milenković, "[Security extensions for integrity and confidentiality in embedded processors](http://dx.doi.org/10.1016/j.micpro.2009.06.002)," _Microprocessors and Microsystems_, Vol. 33, Issues 5-6,  August 2009, pp. 398-414. doi: [10.1016/j.micpro.2009.06.002](https://doi.org/10.1016/j.micpro.2009.06.002).   
 \[[pdf](files/ajram_micpro09.pdf)\]
 
 **17\. \[Wiley.CAEE’08\]** Jovan Djordjevic, Bosko Nikolic, Tanja Borozan, Aleksandar Milenković, "[CAL2: Computer Aided Learning in Computer Architecture Laboratory](http://dx.doi.org/10.1002/cae.20141)," _Computer Applications in Engineering Education_, Vol. 16, Issue 3, 2008, pp. 172-188. doi: [10.1002/cae.20141](https://doi.org/10.1002/cae.20141).  
 \[[pdf](files/milenkovic_caee08.pdf)\]
 
-**16\. \[ACM.TOMACS’07\]** Aleksandar Milenković, Milena Milenkovic, "[An Efficient Single-Pass Trace Compression Technique Utilizing Instruction Streams](https://doi.org/10.1145/1189756.1189758)," _ACM Transactions on Modeling and Computer Simulation_, Vol. 17, No. 1, 2007, pp. 1-27. doi: [10.1145/1189756.1189758](https://doi.org/10.1145/1189756.1189758)  
+**16\. \[ACM.TOMACS’07\]** Aleksandar Milenković, Milena Milenkovic, "[An Efficient Single-Pass Trace Compression Technique Utilizing Instruction Streams](https://doi.org/10.1145/1189756.1189758)," _ACM Transactions on Modeling and Computer Simulation_, Vol. 17, No. 1, 2007, pp. 1-27. doi: [10.1145/1189756.1189758](https://doi.org/10.1145/1189756.1189758).  
 \[[pdf](files/milenkovic_tomacs06.pdf)\]
 
 **15. \[Rinton.JMM’06\]** Chris Otto, Aleksandar Milenković, Corey Sanders, Emil Jovanov, "System Architecture of a Wireless Body Area Sensor Network for Ubiquitous Health Monitoring," _Journal of Mobile Multimedia_, Vol. 1, No. 4, 2006, pp. 307-326.  
 \[[pdf](files/coamej_jmm06.pdf)\]
 
-**14\. \[Elsevier.COMPCOMM’06\]** Aleksandar Milenkovic, Chris Otto, Emil Jovanov, "[Wireless Sensor Networks for Personal Health Monitoring: Issues and an Implementation](https://doi.org/10.1016/j.comcom.2006.02.011)," _Computer Communications_ (Special issue: Wireless Sensor Networks: Performance, Reliability, Security, and Beyond), Vol. 29, No. 13-14, Elsevier, 2006, pp. 2521-2533. doi: [10.1016/j.comcom.2006.02.011](https://doi.org/10.1016/j.comcom.2006.02.011)  
+**14\. \[Elsevier.COMPCOMM’06\]** Aleksandar Milenkovic, Chris Otto, Emil Jovanov, "[Wireless Sensor Networks for Personal Health Monitoring: Issues and an Implementation](https://doi.org/10.1016/j.comcom.2006.02.011)," _Computer Communications_ (Special issue: Wireless Sensor Networks: Performance, Reliability, Security, and Beyond), Vol. 29, No. 13-14, Elsevier, 2006, pp. 2521-2533. doi: [10.1016/j.comcom.2006.02.011](https://doi.org/10.1016/j.comcom.2006.02.011).  
 \[[pdf](files/milenkovic_compcomm06.pdf)\]
 
 **13\. \[IOS.JEC’06\]** Aleksandar Milenkovic, Milena Milenkovic, Emil Jovanov, "An Efficient Runtime Instruction Block Verification for Secure Embedded Systems," _Journal of Embedded Computing_, Vol. 2, No. 1, IOS Press, Amsterdam, The Netherlands, September 2006, pp. 57-76.  
 \[[pdf](files/milenkovic_jec06.pdf)\]
 
-**12\. \[IEEE.TE’05\]** Jovan Djordjevic, Bosko Nikolic, Aleksandar Milenkovic, "Flexible Web-based Educational System for Teaching Computer Architecture and Organization," _IEEE Transactions on Education_, Vol. 48, No. 2, 2005, pp 264-273. doi: [ 10.1109/TE.2004.842918](https://doi.org/10.1109/TE.2004.842918)   
+**12\. \[IEEE.TE’05\]** Jovan Djordjevic, Bosko Nikolic, Aleksandar Milenkovic, "Flexible Web-based Educational System for Teaching Computer Architecture and Organization," _IEEE Transactions on Education_, Vol. 48, No. 2, 2005, pp 264-273. doi: [ 10.1109/TE.2004.842918](https://doi.org/10.1109/TE.2004.842918).   
 \[[pdf](files/am_te05.pdf)\]
 
 **11. \[ACM.CAN’05\]** Milena Milenkovic, Aleksandar Milenkovic, Emil Jovanov, "Using Instruction Block Signatures to Counter Code Injection Attacks," _Computer Architecture News_, Vol. 33, No. 1, March 2005, pp. 108-117.
@@ -101,7 +101,8 @@ doi: [10.1145/1055626.1055641](https://doi.org/10.1145/1055626.1055641).
 **5\. \[IEEE.MICRO’00\]** Jovan Djordjevic, Aleksandar Milenkovic, and Nenad Grbanovic, "An Integrated Environment for Teaching Computer Architecture," _IEEE Micro_, Vol. 20, No. 3, 2000, pp. 66-74. doi: [10.1109/40.846311](https://doi.org/10.1109/40.846311).  
 \[[pdf](files/jdjam_micro00.pdf)\] \[[ps.gz](files/jdjam_micro00.ps.gz)\]
 
-**4\. \[Elsevier.MEJ’98\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "A quantitative analysis of wiring lengths in 2D and 3D VLSI," _Microelectronics Journal_, vol. 29, no. 6, 1998, pp. 313-322.  
+**4\. \[Elsevier.MEJ’98\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "A quantitative analysis of wiring lengths in 2D and 3D VLSI," _Microelectronics Journal_, vol. 29, no. 6, 1998, pp. 313-322.
+doi: [10.1016/S0026-2692(97)00043-8](https://doi.org/10.1016/S0026-2692(97)00043-8).  
 \[[pdf](files/am_microel98.pdf)\]
 
 **3\. \[IASTED.IJCA’97b\]** Salim Lakhani, Y. Wang, Aleksandar Milenkovic, and Veljko M. Milutinovic, "3D Convolution on a 3D Systolic Arrays: Another Point of View," _International Journal of Computers and Applications_, vol. 19, no. 3, 1997, pp. 130-134.
