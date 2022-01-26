@@ -24,7 +24,7 @@ embedded systems, wireless sensor networks, and hardware design.
 In particular my research focuses on non-volatile memories, hardware-oriented security, 
 architectures for ensuring code and data integrity and confidentiality (a.k.a., secure processors), 
 architectures for increased programmers' productivity and debuggability, and memory hierarchy optimizations. 
-I am also interested in developing new applications and systems for ubiquitous personal health monitoring (a.k.a. as mHealth systems). 
+I am also interested in developing new applications and systems for ubiquitous personal health monitoring (a.k.a., mHealth systems). 
 I lead [the LaCASA Laboratory](http://lacasa.uah.edu) and co-lead [the mHealth
 Laboratory](http://portal.mhealth.uah.edu).
 With my students and collaborators I have published over 140 peer-reviewed journal and conference articles and hold two U.S. patents.

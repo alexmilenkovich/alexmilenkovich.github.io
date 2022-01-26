@@ -15,7 +15,7 @@ In most cases, these works may not be reposted without the explicit permission o
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=JNrVfvgAAAAJ&hl=en)
 
-[Journals](#journals) | [Conferences](#conferences) | [Book Chapters](#chapters) | [Books](#books) | [Other](#other) | [Dissertation](#dissertation)
+[Journals](#journals) | [Conferences](#conferences) | [Book Chapters](#chapters) | [Books](#books) | [Other](#other) | [Patents](#patents) | [Dissertation](#dissertation)
 
 ## Journals
 **34\. \[IEEE.TED'21\]**  Sadman Sakib,  Aleksandar Milenković, Biswajit Ray, "[Flash-DNA: Identifying NAND Falsh Memory Origins Using Intrinsic Array Properties](https://ieeexplore.ieee.org/document/9459421)," _IEEE Transactions on Electron Devices_, Vol. 68, No: 8, August, 2021, pp. 1-7. doi: [10.1109/TED.2021.3087454](https://doi.org/10.1109/TED.2021.3087454). 
@@ -389,7 +389,7 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 
 **4\. \[Wiley’09\]** Aleksandar Milenković, "Addressing: Direct and Indirect," _Wiley’s Encyclopedia of Computer Science and Engineering_, Editor: Benjamin Wah, Wiley, 2009.
 
-**3\. \[Elsevier’08\]** Dejan Rašković, Aleksandar Milenković, Dr. Piet C. De Groen, Emil Jovanov, "From Telemedicine To Ubiquitous M-Health: The Evolution Of E Health Systems," in _Biomedical Information Technology_, Edited by David Dagan Feng, Elsevier, 2008.
+**3\. \[Elsevier’08\]** Dejan Rašković, Aleksandar Milenković, Dr. Piet C. De Groen, Emil Jovanov, "From Telemedicine To Ubiquitous M-Health: The Evolution Of E Health Systems," in _Biomedical Information Technology_, Edited by David Dagan Feng, Elsevier, 2008. doi: [10.1016/B978-012373583-6.50026-8](https://doi.org/10.1016/B978-012373583-6.50026-8).
 
 **2\. \[Wiley’00b\]** Igor Ikodinovic, Zoran Dimitrijevic, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, and V. M. Milutinovic, "Limes: A Multiprocessor Simulation Environment for PC Platforms, " in _Surviving the Design of Microprocessor and Multimicroprocessor Systems_ by V. M. Milutinovic, John Wiley & Sons, Inc., USA, 2000.
 
@@ -402,7 +402,7 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 ## Other 
 **11\. \[NCS’16\]** David Coe, Jeffrey Kulick, Aleksandar Milenkovic, Sun-Il Kim and Letha Etzkorn, "An Approach to Securing Cloud and Internet of Things Applications," _2016 National Cyber Summit_, Huntsville, AL. 
 
-**10\. \[ACM.XRDS’13\]** Mladen Milosevic, Aleksandar Milenkovic, Emil Jovanov, "mHealth @ UAH: computing infrastructure for mobile health and wellness monitoring," _XRDS: Crossroads, The ACM Magazine for Students_, Vol. 20, No. 2, December 2013, pp. 43-49. doi: 10.1145/2539269.
+**10\. \[ACM.XRDS’13\]** Mladen Milosevic, Aleksandar Milenkovic, Emil Jovanov, "mHealth @ UAH: computing infrastructure for mobile health and wellness monitoring," _XRDS: Crossroads, The ACM Magazine for Students_, Vol. 20, No. 2, December 2013, pp. 43-49. doi: [10.1145/2539269](https://doi.org/10.1145/2539269).  
 
 **9\. \[CSCN’12\]** Mladen Milosevic, Michael T. Shrove, Aleksandar Milenkovic, Emil Jovanov, "Smartphone Application Framework for Research in Wellness and Healthcare, " in the _Proceedings of the 2012 Southeastern Workshop on Cognitive Sensing, Computing & Networking and their Applications in Human-Cyber-Physical Systems_, Tuscaloosa, AL, August 2012, pp. 77.
 
@@ -422,6 +422,10 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 
 **1\. \[IEEE.TCCA’99a\]** Jovan Djordjevic, Aleksandar Milenkovic and Slobodan Prodanovic, "Hierarchical Memory System Environment," _IEEE TCCA Newsletter_, February 1999, pp. 60-62.  
 
+## Patents
+**2\. \[USPTO'17\]** Emil Jovanov, Aleksandar Milenkovic, Mladen Milosevic, "Systems and methods for automatically quantifying mobility," USPTO No. 9706949, July 18, 2017.  
+
+**1\. \[USPTO'09\]** Frank Eliot Levine, Aleksadnar Milenkovic, Milena Milenkovic, "Data and instruction address compression," USPTO No. 7496902, February 24, 2009.  
 
 ## Dissertation
 **2\.** Aleksandar Milenkovic, _Cache injection in bus-based shared memory multiprocessors_, PhD dissertation, School of Electrical Engineering, University of Belgrade, Serbia, 1999.  
