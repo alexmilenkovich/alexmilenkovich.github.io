@@ -18,6 +18,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 [Journals](#journals) | [Conferences](#conferences) | [Book Chapters](#chapters) | [Books](#books) | [Other](#other) | [Patents](#patents) | [Dissertation](#dissertation)
 
 ## Journals
+**35\. \[MDPI.Electronics'22\]**  Md Raquibuzzzaman,  Aleksandar Milenković, Biswajit Ray, "[EXPRESS: Exploiting Energy-Accuracy Tradeoffs in 3D NAND Flash Memory for Energy-Efficient Storage](https://www.mdpi.com/2079-9292/11/3/424)," _Electronics_, Vol. 11, No: 3, Article 424, January, 2022, pp. 1-19. doi: [10.3390/electronics11030424](https://doi.org/10.3390/electronics11030424).  
+
 **34\. \[IEEE.TED'21\]**  Sadman Sakib,  Aleksandar Milenković, Biswajit Ray, "[Flash-DNA: Identifying NAND Falsh Memory Origins Using Intrinsic Array Properties](https://ieeexplore.ieee.org/document/9459421)," _IEEE Transactions on Electron Devices_, Vol. 68, No: 8, August, 2021, pp. 1-7. doi: [10.1109/TED.2021.3087454](https://doi.org/10.1109/TED.2021.3087454). 
 
 **33\. \[ACM.TECS'21\]**  Prawar Poudel, Biswajit Ray, Aleksandar Milenković, "[Microcontroller Fingerprinting Using Partially Erased NOR Flash Memory Cells](https://dl.acm.org/doi/10.1145/3448271?cid=81100564460)," _ACM Transactions on Embedded Computing Systems_, Vol. 20, No: 3, Article 26, March 2021. doi: [10.1145/3448271](https://doi.org/10.1145/3448271).
