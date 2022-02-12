@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: /
 author_profile: true
 output: html_document
 ---
@@ -85,7 +85,7 @@ A number of U.S. patents references that paper as well ([Click here for a subset
 *   [Dr. Martin Burtscher](http://www.cs.txstate.edu/~mb92/), Texas State University
 *   [Dr. Emil Jovanov](http://ece.uah.edu/~jovanov), The University of Alabama in Huntsville
 *   Dr. Milena Milenkovic, Sonos
-*   [Dr. Dejan Raskovic](http://www.faculty.uaf.edu/ffdr/), University of Alaska, Fairbanks
+*   Dr. Dejan Raskovic, University of Alaska, Fairbanks
 
 ## Research projects 
 
