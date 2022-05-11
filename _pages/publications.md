@@ -117,7 +117,7 @@ doi: [10.1016/S0026-2692(97)00043-8](https://doi.org/10.1016/S0026-2692(97)00043
 
 ## Conferences
 
-**79\. \[ACM.SYSTOR'22\]** Ranjan Hebbar, Aleksandar Milenkovic, "[Instant Data Sanitization on Multi-Level-Cell NAND Flash Memory](https://doi.org/10.1145/3534056.3534941)," in the _Proceedings of the 15the ACM International Systems and Storage Conference (SYSTOR'22)_, June 12-15, 2022, Haifa, Israel, ACM New York, NY, 11 pages. doi: [10.1145/3534056.3534941](https://doi.org/10.1145/3534056.3534941).
+**79\. \[ACM.SYSTOR'22\]** Md Raquibuzzaman, Matchima Buddhanoy, Aleksandar Milenkovic, Biswajit Ray, "[Instant Data Sanitization on Multi-Level-Cell NAND Flash Memory](https://doi.org/10.1145/3534056.3534941)," in the _Proceedings of the 15the ACM International Systems and Storage Conference (SYSTOR'22)_, June 12-15, 2022, Haifa, Israel, ACM New York, NY, 11 pages. doi: [10.1145/3534056.3534941](https://doi.org/10.1145/3534056.3534941).
 
 **78\. \[IEEE.IRPS'22\]** Md Raquibuzzaman; Md Mehedi Hasan; Aleksandar Milenkovic; Biswajit Ray, "[Layer-to-Layer Endurance Variation of 3D NAND Flash Memory](https://doi.org/10.1109/IRPS48227.2022.9764441)," in the _Proceedings of the 2022 IEEE International Reliability Physics Symposium (IRPS)_, pp. 1-5, March 27-31, 2022, Dallas, TX. doi: [10.1109/IRPS48227.2022.9764441](https://doi.org/10.1109/IRPS48227.2022.9764441).
 
