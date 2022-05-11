@@ -117,6 +117,10 @@ doi: [10.1016/S0026-2692(97)00043-8](https://doi.org/10.1016/S0026-2692(97)00043
 
 ## Conferences
 
+**79\. \[ACM.SYSTOR'22\]** Ranjan Hebbar, Aleksandar Milenkovic, "[Instant Data Sanitization on Multi-Level-Cell NAND Flash Memory](https://doi.org/10.1145/3534056.3534941)," in the _Proceedings of the 15the ACM International Systems and Storage Conference (SYSTOR'22)_, June 12-15, 2022, Haifa, Israel, ACM New York, NY, 11 pages. doi: [10.1145/3534056.3534941](https://doi.org/10.1145/3534056.3534941).
+
+**78\. \[IEEE.IRPS'22\]** Md Raquibuzzaman; Md Mehedi Hasan; Aleksandar Milenkovic; Biswajit Ray, "[Layer-to-Layer Endurance Variation of 3D NAND Flash Memory](https://doi.org/10.1109/IRPS48227.2022.9764441)," in the _Proceedings of the 2022 IEEE International Reliability Physics Symposium (IRPS)_, pp. 1-5, March 27-31, 2022, Dallas, TX. doi: [10.1109/IRPS48227.2022.9764441](https://doi.org/10.1109/IRPS48227.2022.9764441).
+
 **77\. \[ACM.ICPE'21\]** Ranjan Hebbar, Aleksandar Milenkovic, "[An Experimental Evaluation of Workload Driven DVFS](https://dl.acm.org/doi/10.1145/3447545.3451192?cid=81100564460)," in the _Companion Proceedings of the ACM/SPEC International Conference on Performance Engineering (ICPE'21)_, Virtual Event, France, April 19-23, 2021, ACM New York, NY, 8 pages. doi: [10.1145/3447545.3451192](https://doi.org/10.1145/3447545.3451192).
 
 **76\. \[IEEE.SE'21\]** Ranjan Hebbar, Aleksandar Milenkovic, "[A Preliminary Scalability Analysis of SPEC CPU2017 Benchmarks](https://doi.org/10.1109/SoutheastCon45413.2021.9401917)," in the _Proceedings of the IEEE Southeast Con 2021_, Virtual Event, March 11-14, 2021, 8 pages. doi: [10.1109/SoutheastCon45413.2021.9401917](https://doi.org/10.1109/SoutheastCon45413.2021.9401917).

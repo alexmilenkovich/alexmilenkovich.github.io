@@ -4,15 +4,26 @@ permalink: /news/
 author_profile: true
 ---
 
-## 2021
+## 2022
+
+**2022-05-06.**  UAH Alumni Relations [news](https://www.uah.edu/alumni/news/17035-uah-alumnus-sunny-patel-emphasizes-giving-back-after-landing-coveted-position-at-google) featured our former group member Mr. Sunny Patel, now an engineering manager at Google in Atlanta, GA. 
+
+**2022-05-02.**  Svetlana Freeman joins our research group as an undergraduate researcher. Welcome Svetlana.
+
+**2022-05-02.**  I am excited to welcome back to campus Dr. Prawar Poudel and Dr. Ranjan Hebbar. They will be hooded during today's commencement ceremony.
+
+**2022-03-31.**  Raquib presented his paper "[Layer-to-Layer Endurance Variation of 3D NAND,"](https://doi.org/10.1109/IRPS48227.2022.9764441) at the 2022 IEEE International Reliability Physics Symposium (IRPS) held in Dallas, TX. Congratulations Raquib. In this work we find
+that pages within a block are stressed unevenly, so the current policies for marking flash blocks as bad are suboptimal.     
 
 **2022-01-30.**  Raquib's paper "[EXPRESS: Exploiting Energy–Accuracy Tradeoffs in 3D NAND Flash Memory for Energy-Efficient Storage](https://www.mdpi.com/2079-9292/11/3/424)" has been published in Electronics. Congratulations Raquib and Dr. Ray. 
 
-**2021-08-15.**  Mr. Girdharilal Pandey joins our research group. Welcome Giru.
+## 2021
 
 **2021-05-31.**  Sakib's paper titled "Flash-DNA: Identifying NAND Flash Memory Origins Using Intrinsic Array Properties" has been accepted for publication in the IEEE Transactions on Electron Devices. 
 
 **2021-05-15.**  Ethan O'Quin joins our research group. Welcome Ethan.
+
+**2021-05-06.**  Marek Majkowski of Cloudflare published a blog ["Branch Predictor: How many if's are too many? Inlcuding x96 and M1 Benchmarks!"](https://blog.cloudflare.com/branch-predictor/) Vladimir's pioneering work on reverse engineering of PentiumM's branch predictor is discussed in the article. 
 
 **2021-05-20.**  Ranjan successfully defended his dissertation titles "_PMU-EVents-Driven DVFS Techniques for Improving Energy Efficiency in modern Processors_." Ranjan will be joining VMware in Palo Alto, CA in June this year. Congratuations and Godspeed Ranjan in your future endeavors. 
  
