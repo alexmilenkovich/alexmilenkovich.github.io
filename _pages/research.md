@@ -15,7 +15,7 @@ Alabama)](http://lacasa.uah.edu). I also co-lead the [mHealth laboratory](http:/
 *   Physical Properties of Flash Memories for Security:   
     \[[IEEE.TED'21](https://doi.org/10.1109/TED.2021.3087454)] \[[ACM.TECS'21](https://dl.acm.org/doi/10.1145/3448271?cid=81100564460)\] \[[ACM/IEEE.DAC'20](../publications/files/ppbram_dac20.pdf)\] \[[IEEE.TED'20a](https://doi.org/10.1109/TED.2020.3015451)\] \[[IEEE.TED'20b](https://doi.org/10.1109/TED.2020.2968272)\] \[[IEEE.TC'19](https://ieeexplore.ieee.org/document/8443106)\] \[[IEEE.TED'18](https://ieeexplore.ieee.org/document/8283603)\]
 *   Energy-efficiency in modern processors:  
-    \[[ACM.ICPE'21](https://doi.org/10.1145/3447545.3451192)\] \[[ACM.ICPE'19](../publications/files/rram_icpe19.pdf)\] \[[ACM.SE'14](../publications/files/aadam_acmse14.pdf)\]
+    \[[ACM.TOMPECS'22](https://dl.acm.org/doi/abs/10.1145/3538645)\] \[[ACM.ICPE'21](https://doi.org/10.1145/3447545.3451192)\] \[[ACM.ICPE'19](../publications/files/rram_icpe19.pdf)\] \[[ACM.SE'14](../publications/files/aadam_acmse14.pdf)\]
 *   mTrace: Hardware Support for Tracing in Multicores:     
     \[[ACM.TECS'19](https://dl.acm.org/doi/10.1145/3322642)\] \[[IEEE.ICCD'16](../publications/files/mpam_iccd16.pdf)\] \[[ACM.CASES'16](../publications/files/05_3_Milenkovic_CASES16.pdf)\] \[[Elsevier.JSA'15](http://www.sciencedirect.com/science/article/pii/S1383762115000752)\]
 *   mHealth:  

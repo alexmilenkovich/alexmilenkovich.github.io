@@ -18,6 +18,13 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 [Journals](#journals) | [Conferences](#conferences) | [Book Chapters](#chapters) | [Books](#books) | [Other](#other) | [Patents](#patents) | [Dissertation](#dissertation)
 
 ## Journals
+
+
+**36\. \[ACM.TOMPECS'22\]**  Ranjan Hebbar,  Aleksandar Milenković, "[PMU-Events-Driven DVFS Techniques for Improving Energy Efficiency of Modern Processors](https://www.mdpi.com/2079-9292/11/3/424)," _ACM Transactions on Modeling and Performance Evaluation of Computing Systems_, Vol.
+TBD, No: TBD, Article TBD, May, 2022, pp. 1-34. doi:
+[10.1145/3538645](https://doi.org/10.1145/3538645).  
+
+
 **35\. \[MDPI.Electronics'22\]**  Md Raquibuzzzaman,  Aleksandar Milenković, Biswajit Ray, "[EXPRESS: Exploiting Energy-Accuracy Tradeoffs in 3D NAND Flash Memory for Energy-Efficient Storage](https://www.mdpi.com/2079-9292/11/3/424)," _Electronics_, Vol. 11, No: 3, Article 424, January, 2022, pp. 1-19. doi: [10.3390/electronics11030424](https://doi.org/10.3390/electronics11030424).  
 
 **34\. \[IEEE.TED'21\]**  Sadman Sakib,  Aleksandar Milenković, Biswajit Ray, "[Flash-DNA: Identifying NAND Flash Memory Origins Using Intrinsic Array Properties](https://ieeexplore.ieee.org/document/9459421)," _IEEE Transactions on Electron Devices_, Vol. 68, No: 8, August, 2021, pp. 1-7. doi: [10.1109/TED.2021.3087454](https://doi.org/10.1109/TED.2021.3087454). 

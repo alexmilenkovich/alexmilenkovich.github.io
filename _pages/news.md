@@ -6,6 +6,11 @@ author_profile: true
 
 ## 2022
 
+**2022-05-09.**  Ranjan's paper titled "PMU-Events-Driven DVFS Techniques for
+Improving Energy Efficiency of Modern Processors" has been accepted for publication in
+the [ACM Transactions on Modeling and Performance Evaluation of Computing
+Systems](https://dl.acm.org/doi/abs/10.1145/3538645). Congratulations Ranjan!
+
 
 **2022-05-06.**  UAH Alumni Relations [news](https://www.uah.edu/alumni/news/17035-uah-alumnus-sunny-patel-emphasizes-giving-back-after-landing-coveted-position-at-google) featured our former group member Mr. Sunny Patel, now an engineering manager at Google in Atlanta, GA.
 Proud of Sunny and his achievements. 
