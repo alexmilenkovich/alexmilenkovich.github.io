@@ -20,7 +20,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 ## Journals
 
 
-**36\. \[ACM.TOMPECS'22\]**  Ranjan Hebbar,  Aleksandar Milenković, "[PMU-Events-Driven DVFS Techniques for Improving Energy Efficiency of Modern Processors](https://www.mdpi.com/2079-9292/11/3/424)," _ACM Transactions on Modeling and Performance Evaluation of Computing Systems_, Vol.
+**36\. \[ACM.TOMPECS'22\]**  Ranjan Hebbar,  Aleksandar Milenković, "[PMU-Events-Driven DVFS Techniques for Improving Energy Efficiency of Modern
+Processors](https://doi.org/10.1145/3538645)," _ACM Transactions on Modeling and Performance Evaluation of Computing Systems_, Vol.
 TBD, No: TBD, Article TBD, May, 2022, pp. 1-34. doi:
 [10.1145/3538645](https://doi.org/10.1145/3538645).  
 
