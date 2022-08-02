@@ -20,10 +20,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 ## Journals
 
 
-**36\. \[ACM.TOMPECS'22\]**  Ranjan Hebbar,  Aleksandar Milenković, "[PMU-Events-Driven DVFS Techniques for Improving Energy Efficiency of Modern Processors](https://www.mdpi.com/2079-9292/11/3/424)," _ACM Transactions on Modeling and Performance Evaluation of Computing Systems_, Vol.
-TBD, No: TBD, Article TBD, May, 2022, pp. 1-34. doi:
-[10.1145/3538645](https://doi.org/10.1145/3538645).  
-
+**36\. \[ACM.TOMPECS'22\]**  Ranjan Hebbar,  Aleksandar Milenković, "[PMU-Events-Driven DVFS Techniques for Improving Energy Efficiency of Modern Processors](https://doi.org/10.1145/3538645)," _ACM Transactions on Modeling and Performance Evaluation of Computing Systems_, Vol. TBD, No: TBD, Article TBD, May, 2022, pp. 1-34. doi: [10.1145/3538645](https://doi.org/10.1145/3538645).  
 
 **35\. \[MDPI.Electronics'22\]**  Md Raquibuzzzaman,  Aleksandar Milenković, Biswajit Ray, "[EXPRESS: Exploiting Energy-Accuracy Tradeoffs in 3D NAND Flash Memory for Energy-Efficient Storage](https://www.mdpi.com/2079-9292/11/3/424)," _Electronics_, Vol. 11, No: 3, Article 424, January, 2022, pp. 1-19. doi: [10.3390/electronics11030424](https://doi.org/10.3390/electronics11030424).  
 
@@ -359,7 +356,7 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 **12\. \[IEEE.MASCOTS’00\]** Darko Marinov, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, Igor Tartalja, and V. M. Milutinovic, "SCOWL: A Tool for Characterization of Parallel Workload and its Use on Splash-2 Application Suite," in the _Proceedings of the 8th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)_, San Francisco, California, August/September 2000, pp. 207-213. doi: [10.1109/MASCOT.2000.876446](https://doi.org/10.1109/MASCOT.2000.876446).  
 \[pdf\]
 
-**11\. \[Springer.EuroPar’00\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Cache Injection: A Novel Technique for Tolerating Memory Latency in Bus-Based SMPs," Lecture Notes in Computer Science, vol. 1900, in the _Proceedings of the 6th International Euro-Par Conference_, Munich, Germany, August/September 2000, pp. 558-566.  
+**11\. \[Springer.EuroPar’00\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Cache Injection: A Novel Technique for Tolerating Memory Latency in Bus-Based SMPs," Lecture Notes in Computer Science, vol. 1900, in the _Proceedings of the 6th International Euro-Par Conference_, Munich, Germany, August/September 2000, pp. 558-566. doi: [10.1007/3-540-44520-X_76](https://doi.org/10.1007/3-540-44520-X_76) 
 \[[pdf](files/milenkovic_europar00.pdf)\]
 
 **10\. \[Springer.PPAM’99\]** Igor Ikodinovic, Aleksandar Milenkovic, Veljko M. Milutinovic, and Davor Magdic, "Limes: A Multiprocessor Simulation Environment for PC Platforms," in the _Proceedings of the 3rd International Conference on Parallel Processing and Applied Mathematics (PPAM’99)_, Kazimierz Dolny, Poland, September 14-17, 1999, pp. 398-412.  
