@@ -20,7 +20,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 ## Journals
 
 
-**37\. \[IEEE.TDMR'22\]** Matchima Buddhanoy, Sadman Sakib, Umeshwarnath Surendranathan, Maryla Wasiolek, Khalid Hattar, Aleksandar Milenkovic, Biswajit Ray "[New Total-Ionizing-Dose Resistant Data Storing Technique for NAND Flash Memory](https:doi.org/10.1109/TDMR.2022.3189673)," _IEEE Transactions on Device and Materials Reliability_, Vol. TBD, No: TBD, Article TBD, July, 2022, pp. 1-7. doi: [10.1109/TDMR.2022.3189673](https://doi.org/10.1109/TDMR.2022.3189673).  
+**37\. \[IEEE.TDMR'22\]** Matchima Buddhanoy, Sadman Sakib, Umeshwarnath Surendranathan, Maryla Wasiolek, Khalid Hattar, Aleksandar Milenkovic, Biswajit Ray "[New Total-Ionizing-Dose Resistant Data Storing Technique for NAND Flash Memory](https://doi.org/10.1109/TDMR.2022.3189673)," _IEEE Transactions on Device and Materials Reliability_, Vol. TBD, No: TBD, Article TBD, July, 2022, pp. 1-7. doi: [10.1109/TDMR.2022.3189673](https://doi.org/10.1109/TDMR.2022.3189673).  
 
 **36\. \[ACM.TOMPECS'22\]**  Ranjan Hebbar,  Aleksandar Milenković, "[PMU-Events-Driven DVFS Techniques for Improving Energy Efficiency of Modern Processors](https://doi.org/10.1145/3538645)," _ACM Transactions on Modeling and Performance Evaluation of Computing Systems_, Vol. TBD, No: TBD, Article TBD, May, 2022, pp. 1-34. doi: [10.1145/3538645](https://doi.org/10.1145/3538645).  
 
