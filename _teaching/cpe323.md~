@@ -204,7 +204,7 @@ how to utilize them in embedded programs for time keeping, time stamping, and ge
 - Learners will be able to configure and interact with timer peripherals (Watchdog Timer, TimerA, TimerB) 
 
 **Resources**
-- [Reader](./files/Module_09_Timers_Text.pdf)
+- [Reader: Clocks, Timer, and Timers](./files/Module_09_Timers_Text.pdf)
 - [Reader: UCS](./files/Mdoule_09_UCS_Text.pdf)
 - [Clean notes](./files/Module_09_Timers_Notes_Clean.pptx)
 - [Slides](./files/Module_09_MSP430Timers_Slides.pdf)
@@ -247,7 +247,8 @@ peripherals in your programs.
 **Resources**
 - [Reader: ADC](./files/Module_11_Analog2DigitalConversion_Text.pdf)
 - [Reader: DAC](./files/Module_11_Digital2AnalogConversion_Text.pdf)
-- [Clean notes: ADC](./files/Modules_11_ADC_Notes_Clean.pptx)
+- [Clean notes: ADC](./files/Module_11_ADC_Notes_Clean.pptx)
+- [Clean notes: ADC12](./files/Module_11_ADC12_Notes_Clean.pptx)
 - [Clean notes: DAC](./files/Module_11_DAC_Notes_Clean.pptx)
 - [Slides](./files/Module_11_ADCDAC_Slides.pdf)
 
@@ -280,10 +281,10 @@ In addition, you will learn how software vulnerabilities can lead to security ex
 - Learners will understand how software vulnerabilities can be exploited by malicious adversaries to divert system operation
 
 **Resources**
-- [Reader](./files/Module_13_SoftwareReverseEngineering_Text.pdf)
+- [Reader: SRE](./files/Module_13_SoftwareReverseEngineering_Text.pdf)
 - [Reader: Stack Smashing](./files/Module_13_StackSmashingForFunNoProfit_Text.pdf)
-- [Slides](./files/Module_13_SoftwareReverseEngineering_Slides.pdf)
-- [Slides](./files/Module_13_StackSmashingForFunNoProfit_Slides.pdf)
+- [Slides: SRE](./files/Module_13_SoftwareReverseEngineering_Slides.pdf)
+- [Slides: Stack Smashing](./files/Module_13_StackSmashingForFunNoProfit_Slides.pdf)
 
 
 ### Module 14 - Miscellaneous: Flash Controller, LCD Display Controller ###
@@ -298,8 +299,8 @@ MSP430 Flash Memory Controller and LCD Display Controller.
 - Learners will be able to utilize MSP430 LCD Display controoler
 
 **Resources** 
-- [Clean Notes](./files/Module_14_Flash_Notes_Clean.pptx)
-- [Slides](./files/Module_14_LCDAController_Slides.pdf)
+- [Clean Notes: Flash](./files/Module_14_Flash_Notes_Clean.pptx)
+- [Slides: LCD Display Controller](./files/Module_14_LCDAController_Slides.pdf)
 
 
 ### Module 15 - Power and Low-power Operation ###
@@ -320,7 +321,7 @@ of low-power operation in MSP430.
 
 ## Technical Documents (User Guides, Manuals)
 - [MSP430 Instruction Set Cheat Sheet](./files/MSP430InstructionSet_CheatSheet.pdf)
-- [MSP430xFF55x User's Guide](./files/MSP430xFF55x_UsersGuide.pdf)
+- [MSP430xFF55x User's Guide](./files/MSP430xF55x_UsersGuide.pdf)
 - [EXP-MSP430F5529lp User's Guide](https://www.ti.com/lit/ug/slau533d/slau533d.pdf)
 
 ## Useful Links
