@@ -19,10 +19,11 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Journals
 
+**38\. \[IEEE.TED'23\]** Md Raquibuzzaman, Aleksandar Milenkovic, Biswajit Ray, "[Intrablock Wear Leveling to Counter Layer-to-Layer Endurance Variation of 3-D NAND Flash Memory](https://doi.org/10.1109/TED.2022.3224420)," _IEEE Transactions on Electron Devices_, Vol. 70, No: 1, January, 2023, pp. 70-75. doi: [10.1109/TED.2022.3224420](https://doi.org/10.1109/TED.2022.3224420).  
 
-**37\. \[IEEE.TDMR'22\]** Matchima Buddhanoy, Sadman Sakib, Umeshwarnath Surendranathan, Maryla Wasiolek, Khalid Hattar, Aleksandar Milenkovic, Biswajit Ray "[New Total-Ionizing-Dose Resistant Data Storing Technique for NAND Flash Memory](https://doi.org/10.1109/TDMR.2022.3189673)," _IEEE Transactions on Device and Materials Reliability_, Vol. TBD, No: TBD, Article TBD, July, 2022, pp. 1-7. doi: [10.1109/TDMR.2022.3189673](https://doi.org/10.1109/TDMR.2022.3189673).  
+**37\. \[IEEE.TDMR'22\]** Matchima Buddhanoy, Sadman Sakib, Umeshwarnath Surendranathan, Maryla Wasiolek, Khalid Hattar, Aleksandar Milenkovic, Biswajit Ray "[New Total-Ionizing-Dose Resistant Data Storing Technique for NAND Flash Memory](https://doi.org/10.1109/TDMR.2022.3189673)," _IEEE Transactions on Device and Materials Reliability_, Vol. 22, No: 4, September, 2022, pp. 438-446. doi: [10.1109/TDMR.2022.3189673](https://doi.org/10.1109/TDMR.2022.3189673).  
 
-**36\. \[ACM.TOMPECS'22\]**  Ranjan Hebbar,  Aleksandar Milenković, "[PMU-Events-Driven DVFS Techniques for Improving Energy Efficiency of Modern Processors](https://doi.org/10.1145/3538645)," _ACM Transactions on Modeling and Performance Evaluation of Computing Systems_, Vol. TBD, No: TBD, Article TBD, May, 2022, pp. 1-34. doi: [10.1145/3538645](https://doi.org/10.1145/3538645).  
+**36\. \[ACM.TOMPECS'22\]**  Ranjan Hebbar,  Aleksandar Milenković, "[PMU-Events-Driven DVFS Techniques for Improving Energy Efficiency of Modern Processors](https://doi.org/10.1145/3538645)," _ACM Transactions on Modeling and Performance Evaluation of Computing Systems_, Vol. 7, No: 1, Article No: 3, May, 2022, pp. 1-31. doi: [10.1145/3538645](https://doi.org/10.1145/3538645).  
 
 **35\. \[MDPI.Electronics'22\]**  Md Raquibuzzzaman,  Aleksandar Milenković, Biswajit Ray, "[EXPRESS: Exploiting Energy-Accuracy Tradeoffs in 3D NAND Flash Memory for Energy-Efficient Storage](https://www.mdpi.com/2079-9292/11/3/424)," _Electronics_, Vol. 11, No: 3, Article 424, January, 2022, pp. 1-19. doi: [10.3390/electronics11030424](https://doi.org/10.3390/electronics11030424).  
 

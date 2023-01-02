@@ -1,0 +1,332 @@
+---
+title: "CPE 323 - Intro to Embedded Computer Systems"
+permalink: /teaching/cpe323
+collection: teaching
+author_profile: true
+layout: archive
+excerpt: "<img src='../images/launchpad.jpg' alt=''>"
+---
+<img src="./files/launchpad.jpg" width="278" height="304" />
+
+## Catalog Course Description
+
+CPE 323 - Intro to Embedded Computer Systems
+
+Hardware and software aspects in building embedded computer systems. 
+Includes methods to evaluate design trade-offs of different technology choices and technology capabilities and limitations 
+of system components necessary to design and implement an embedded system and interface it to the outside world. 
+Laboratory required. Prerequisite: CPE 221; Corequisite: CPE 325.
+
+## Extended Course Description
+
+The course examines both hardware and software aspects in building embedded computer systems, 
+as well as methods to evaluate design trade-offs between different technology choices. 
+The students develop an appreciation of technology capabilities and limitations and appreciation of all system components necessary 
+to design and implement a basic embedded computer systems and interface it to the outside world. 
+Experiments performed in the Embedded Systems Laboratory provide considerable experience, 
+allowing students to develop programs in assembly and C/C++ languages and program embedded systems to perform required functions. 
+
+
+## Modules
+
+### Module 01 - Course Welcome and Introduction ###
+
+**Overview** 
+This module discusses course policies and procedures. 
+The course builds upon  knowledge students gain in the C/C++ programming language courses (CPE 211, CPE 212, or equivalent) 
+and the computer organization course (CPE 221). 
+The students are required to brush up main topics covered in those courses.
+In addition, this module gives a gentle introduction to embedded computer systems, their past, present, and future prospects. 
+It reviews main components of a computer system (processor, memory, input/output peripherals, and interconnect) and principles of stored-program execution. 
+
+**Objectives**
+- Learners will be able to list course policies and procedures 
+- Learners will gain appreciation of the history of embedded computing 
+- Learners will be able to describe 4 main components of a computer system
+- Learners will be able to describe main steps of an instruction execution 
+
+**Resources**
+- [Reader](./files/Module_01_Intro_Text.pdf)
+- [Clean notes](./files/Module_01_Intro_Notes_Clean.pptx)
+- [Slides](./files/Module_01_Intro_Slides.pdf)
+
+
+### Module 02 - Data Types And Representations ###
+
+**Overview** 
+This module reviews data representations in digital computers.
+It starts with positional numeral systems - decimal, binary, octal, and hexadecimal, 
+then discusses storing and interpreting numbers in digital computers, 
+positive and negative integers and arithmetic operations on them. 
+It discuss representations of fractional numbers in digital computers (fixed-point and floating-point). 
+
+**Objectives**
+- Learners will be able to use different numeral systems for representing data: decimal, binary, octal, hexadecimal
+- Learners will be able to covert decimal numbers into their binary, octal, and hexadecimal representations
+- Learners will be able to perform arithmetic operations on different representations of integers and determine condition code flags (Carry, Overflow, Zero, and Negative)
+- Learners will be able to use fixed and floating-point representations of real numbers
+
+**Resources**
+- [Reader](./files/Module_02_DataTypesAndRepresentations_Text.pdf)
+- [Clean notes](./files/Module_02_DataTypesAndRepresentations_Notes_Clean.pptx)
+
+
+### Module 03 - MSP430 Instruction Set Architecture ###
+
+**Overview** 
+This module introduces the MSP430 Instruction Set Architecture (ISA). 
+MSP430 is a family of microcontrollers designed by Texas Instruments. 
+Its a system-on-a-chip encompassing a processor core, flash memory, RAM memory, and a number of IO peripheral devices including 
+parallel ports, timers, serial communication interfaces, analog-to-digital and digital-to-analog converters, LCD display controllers, and others. 
+To write programs in assembly or C/C++ programming languages, engineers need to have a good understanding of processor's ISA - 
+an interface between hardware and software. 
+An ISA  encompasses the following aspects of processor: registers, memory, data types, addressing modes, instruction set, instruction encoding, and exception mechanism.  
+
+**Objectives**
+- Learners will be able to specify ISA and its aspects (registers, memory, data types, addressing modes, instruction set, instruction encoding, and exception mechanism)
+- Learners will recognize logical and physical organization of memory in general and MSP430 in particular
+- Learners will demonstrate comprehension of MSP430 ISA 
+
+**Resources**
+- [Reader](./files/Module_03_MSP430_ISA_Text.pdf)
+- [Clean notes - Part 1](./files/Module_03_MSP430_ISA_P1_Notes_Clean.pptx)
+- [Clean notes - Part 2](./files/Module_03_MSP430_ISA_P2_Notes_Clean.pptx)
+- [Slides](./files/Module_03_MSP430_ISA_Slides.pdf)
+
+
+### Module 04 - MSP430 Assembly Language ###
+
+**Overview** 
+This module introduces the MSP430 assembly language. 
+The closest to the ISA a programmer can be is by writing assembly language programs. 
+In this module you will learn about software developer flows for embedded systems, 
+assembly language directives that help you allocate space in memory and initialize your constants, 
+assembly language programs, subroutines, allocating space on the stack, and passing parameters to subroutines. 
+
+**Objectives**
+- Learners will be able to apply a proper design flow for embedded software using assembly language programming
+- Learners will be able to read and comprehend functionality of programs written in MSP430 assembly language
+- Learners will be able to design and write programs in MSP430 assembly language to solve specific tasks
+
+**Resources**
+- [Reader](./files/Module_04_MSP430_Assembly_Text.pdf)
+- [Clean notes - Part 1](./files/Module_04_MSP430_Assembly_Notes_Clean.pptx)
+- [Clean notes - Part 2](./files/Module_04_MSP430_AssemblySubroutines_Notes_Clean.pptx)
+- [Slides](./files/Module_04_MSP430_Assembly_Slides.pdf)
+
+### Module 05 - C and MSP430 Assembly ###
+
+**Overview** 
+This module reviews C/C++ language for embedded systems and 
+its relationship to MSP430 assembly language. 
+Specifically, you will learn about the design flows for embedded software using C programming language, 
+data  types, storage classes, and storage modifiers, and how data is allocated and handled.
+
+**Objectives**
+- Learners will be able to apply a proper design flow for embedded software using C/C++ programming languages
+- Learners will be able to read and comprehend functionality of programs written in C/C++ for embedded systems
+- Learners will be able to design and write programs in C/C++ to solve specific tasks 
+
+**Resources**
+- [Reader](./files/Module_05_CtoMSP430Assembly_Text.pdf)
+- [Clean notes](./files/Module_05_CtoMSP430Assembly_Notes_Clean.pptx)
+- [Slides](./files/Module_05_CtoMSP430Assembly_Slides.pdf)
+
+### Module 06 - Interrupts ###
+
+**Overview** 
+This module discusses exceptions processing and interrupt mechanism using MSP430 as a teaching vehicle. 
+Understanding interrupts and their hardware and software aspects is critical for embedded firmware and software developers 
+as majority of activity is driven by interrupts. 
+You will learn about hardware aspects of interrupts 
+(what they are, how they arise, how do we keep track of them, what happens in exception processing at the end of each instruction execution) 
+as well as software aspects of interrupts 
+(how interrupts get serviced, how we write interrupt service routines, what is interrupt vector table, how we disable and enable interrupts, and others).
+
+**Objectives**
+- Learners will be able to identify and describe hardware and software aspects of interrupts in general and MSP430 in particular (exception mechanism, ISRs, IVTs)
+- Learners will be able to write software that utilizes interrupt service routines (ISRs)  
+
+**Resources**
+- [Reader](./files/Module_06_Interrupts_Text.pdf)
+- [Clean notes](./files/Module_06_Interrupts_Notes_Clean.pptx)
+- [Slides](./files/Module_06_Interrupts_Slides.pdf)
+
+### Module 07 - System View: MSP430 SoC ###
+
+**Overview** 
+This module discusses a system view of MSP430 - a system-on-a-chip that integrates 
+processor core, flash memory, RAM memory, hardware accelerators, and I/O peripherals through a shared system bus. 
+You will learn about individual components and how they interface external world
+via port pins tied to parallel ports.  
+
+**Objectives**
+- Learners will be able to describe various I/O interfaces and their purpose
+- Learners will interpret a generic view of an I/O peripheral device with control, status, and data registers
+- Learners will be able to apply principles of software I/O interfacing through polling and ISRs
+
+**Resources**
+- [Reader](./files/Module_07_MSP430SystemArchitecture_Text.pdf)
+- [Clean notes](./files/Module_07_SystemView_Notes_Clean.pptx)
+- [Slides](./files/Module_07_SystemView_Slides.pdf)
+
+### Module 08 - Parallel Ports ###
+
+**Overview** 
+This module discusses standard digital input/output through parallel ports. 
+MSP430 family of microcontrollers interfaces the outside world 
+through parallel ports that can serve as digital inputs or outputs or special-function pins 
+(e.g., analog signal input for ADC converter, analog output from DAC, a data receive line for serial communication). 
+You will learn organization of parallel ports and their software aspects - how to initialize and utilize them in embedded software.   
+
+**Objectives**
+- Learners will be able to describe hardware and software aspects of parallel ports for digital input/output
+- Learners will be able to configure and parallel ports (direction, special functions through I/O multiplexing)
+- Learners will be able to utilize parallel ports to interface common electronic components (LEDs, switches, buttons, and others)
+
+**Resources**
+- [Reader](./files/Module_08_ParallelPorts_Text.pdf)
+- [Clean notes](./files/Module_08_ParallelPorts_Notes_Clean.pptx)
+- [Slides](./files/Module_08_ParallelPorts_Slides.pdf)
+
+### Module 09 - Clock, Time, Watchdog Timer, TimerA, TimerB ###
+
+**Overview** 
+This module discusses clocks and time in embedded systems, 
+starting from clock sources and clock subsystem through specialized peripherals 
+such as watchdog timer, TimerA, and TimerB. 
+You will learn about hardware and software aspects of these components and 
+how to utilize them in embedded programs for time keeping, time stamping, and generating signals of desired shape.  
+
+**Objectives**
+- Learners will understand hardware and software aspects of clock sources and timer peripherals
+- Learners will be able to configure and interact with clock sources
+- Learners will be able to configure and interact with timer peripherals (Watchdog Timer, TimerA, TimerB) 
+
+**Resources**
+- [Reader](./files/Module_09_Timers_Text.pdf)
+- [Reader: UCS](./files/Mdoule_09_UCS_Text.pdf)
+- [Clean notes](./files/Module_09_Timers_Notes_Clean.pptx)
+- [Slides](./files/Module_09_MSP430Timers_Slides.pdf)
+
+### Module 10 - Serial Communication Interfaces ###
+
+**Overview** 
+This module introduces various aspects of communication in embedded systems. 
+You will learn about types of communication 
+(parallel vs. serial, asynchronous vs. synchronous, unidirectional vs. bidirectional) 
+and communication interfaces used in MSP430 family of microcontrollers. 
+A special emphasis is on serial communication protocols: UART, SPI, and I2C. 
+
+**Objectives**
+- Learners will be able to describe hardware and software aspects of serial communication
+- Learners will be able to configure and interact with serial communication interfaces 
+- Learners will be able to evaluate pros and cons of each serial communication protocol (speed complexity)
+
+**Resources**
+- [Reader: UART](./files/Module_10_UARTCommunication_Text.pdf)
+- [Reader: SPI](./files/Module_10_SPICommunication_Text.pdf)
+- [Clean notes: UART](./files/Module_10_UART_Notes_Clean.pptx)
+- [Clean notes: SPI](./files/Module_10_SPI_Notes_Clean.pptx)
+- [Clean notes: I2C](./files/Module_10_I2C_Notes_Clean.pptx)
+- [Slides](./files/Module_10_SerialCommunicationInterfaces_Slides.pdf)
+
+### Module 11 - Analog-to-Digital and Digital-to-Analog Conversion ###
+
+**Overview** 
+This module introduces main concepts of analog-to-digital (AD) and digital-to-analog (DA) conversion. 
+You will learn about hardware and software aspects of the analog-to-digital and digital-to-analog converters. 
+You will understand how to configure and utilize MSP430 ADC and DAC
+peripherals in your programs.
+
+**Objectives**
+- Learners will be able to describe  hardware and software aspects of analog-to-digital and digital-to-analog converters
+- Learners will understand how to configure and interact with MSP430 ADC peripheral 
+- Learners will understand how to configure and interact with MSP430 DAC peripheral 
+
+**Resources**
+- [Reader: ADC](./files/Module_11_Analog2DigitalConversion_Text.pdf)
+- [Reader: DAC](./files/Module_11_Digital2AnalogConversion_Text.pdf)
+- [Clean notes: ADC](./files/Modules_11_ADC_Notes_Clean.pptx)
+- [Clean notes: DAC](./files/Module_11_DAC_Notes_Clean.pptx)
+- [Slides](./files/Module_11_ADCDAC_Slides.pdf)
+
+### Module 12 - Direct Memory Access Controller (DMA) ###
+
+**Overview** 
+This module introduces direct memory access (DMA) transfers and DMA controllers. 
+You will learn about DMA transfers and how they compare to other software approaches to interfacing peripherals (polling and interrupt). 
+You will learn how to configure and utilize MSP430 DMA controller peripheral. 
+
+**Objectives**
+- Learners will be able to describe hardware and software aspects of direct memory access controllers
+- Learners will be able to configure and interact with MSP430 DMA peripheral 
+
+**Resources**
+- [Reader](./files/Module_12_DMA_Text.pdf)
+- [Clean notes](./files/Module_12_DMA_Notes_Clean.pptx)
+- [Slides](./files/Module_12_DMAController_Slides.pdf)
+
+
+### Module 13 - Software Reverse Engineering in Embedded Systems ###
+
+**Overview** 
+This module introduces software reverse engineering in embedded systems. 
+You will learn concepts, tools, and methods for software reverse engineering with a special emphasis on embedded computer systems. 
+In addition, you will learn how software vulnerabilities can lead to security exploits by malicious adversaries.
+
+**Objectives**
+- Learners will be able to use tools and techniques for reverse engineering of program executables
+- Learners will understand how software vulnerabilities can be exploited by malicious adversaries to divert system operation
+
+**Resources**
+- [Reader](./files/Module_13_SoftwareReverseEngineering_Text.pdf)
+- [Reader: Stack Smashing](./files/Module_13_StackSmashingForFunNoProfit_Text.pdf)
+- [Slides](./files/Module_13_SoftwareReverseEngineering_Slides.pdf)
+- [Slides](./files/Module_13_StackSmashingForFunNoProfit_Slides.pdf)
+
+
+### Module 14 - Miscellaneous: Flash Controller, LCD Display Controller ###
+
+**Overview** 
+This module discusses in-system flash memory operations (erase, program) and
+LCD displays. You will learn how to configure and carry out operations using
+MSP430 Flash Memory Controller and LCD Display Controller.
+
+**Objectives**
+- Learners will be able to utilize MSP430 flash memory controller for in-system flash operations
+- Learners will be able to utilize MSP430 LCD Display controoler
+
+**Resources** 
+- [Clean Notes](./files/Module_14_Flash_Notes_Clean.pptx)
+- [Slides](./files/Module_14_LCDAController_Slides.pdf)
+
+
+### Module 15 - Power and Low-power Operation ###
+
+**Overview** 
+This module discusses power consumption in embedded systems and principles
+of low-power operation in MSP430. 
+
+**Objectives**
+- Learners will be able to describe factors impacting energy and powerof a running program in a microcontroller
+- Learners will be able to utilize MSP430 low-power modes to extend operating time of battery-powered embedded systems
+- Learners will be able to utilize EnergyTrace Technology in Code Comoser Studio to perform power profiling of their programs
+
+**Resources**
+- [Reader](./files/Module_15_Power_Text.pdf)
+- [Slides](./files/Module_15_Power_Slides.pdf)
+
+
+## Technical Documents (User Guides, Manuals)
+- [MSP430 Instruction Set Cheat Sheet](./files/MSP430InstructionSet_CheatSheet.pdf)
+- [MSP430xFF55x User's Guide](./files/MSP430xFF55x_UsersGuide.pdf)
+- [EXP-MSP430F5529lp User's Guide](https://www.ti.com/lit/ug/slau533d/slau533d.pdf)
+
+## Useful Links
+- [Code Composer Studio](https://www.ti.com/tool/CCSTUDIO)  
+- [Texas Instruments MSP430 Web page](https://www.ti.com/microcontrollers-mcus-processors/microcontrollers/msp430-microcontrollers/overview.html)  
+- [MSP430FG4618/F2013 Experimenter Board](https://www.ti.com/tool/MSP-EXP430FG4618)  
+- [MSP-EXP430F5529LP](https://www.ti.com/tool/MSP-EXP430F5529LP)  
+- [Sparkfun Bluetooth Mate Silver](https://www.sparkfun.com/products/retired/12576)  
+

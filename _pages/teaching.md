@@ -11,11 +11,11 @@ output: html_document
 I have developed and taught the following graduate and undergraduate computer engineering
 courses. The courseware is available through the Canvas learning management
 system.  
+ 
+* [CPE 323 - Introduction to Embedded Computer Systems (Fall,
+  Spring)](./cpe323)    
 
-
-* CPE 323 - Introduction to Embedded Computer Systems (Fall, Spring)
-
-* CPE 423/523 - Hardware/Software Co-design (Fall, once every 2 years)
+* CPE 423/523 - Hardware/Software Co-design (Fall, once every 2 years)  
 
 * CPE 619 - Modeling and Analysis of Computer and Communication Systems (Fall, once every 2 years)
 

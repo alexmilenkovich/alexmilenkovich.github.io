@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Current Students
 
-**Kevin King**, Undergraduate researcher
+
 
 
 ## Graduated PhD and Masters Students
@@ -85,6 +85,8 @@ author_profile: true
 *   Dissertation: [Architectures for Run-time Verification of Code Integrity](../publications/files/mm_dissertation.pdf)
 
 ## Graduated Undergraduate Researchers
+
+**Kevin King** (Spring'23)
 
 **Ethan O'Quin** (Spring'21-Spring'22) 
 
