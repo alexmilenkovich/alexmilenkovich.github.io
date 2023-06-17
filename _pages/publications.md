@@ -21,7 +21,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **39\. \[IEEE.TNS'23\]** Umeshwarnath Surendanathan, Horace Wilson, Maryla
 Wasiolek, Khalid Hattar, Aleksandar Milenkovic, Biswajit Ray, "[Total
 Ionizing Dose Effects on the Power-up State of Static Random-Access Memory](https://doi.org/10.1109/TNS.2023.3236625)," _IEEE Transactions on
-Nuclear Science_, Vol. TBD, No: TBD, January, 2023, pp. TBD. doi: [doi.org/10.1109/TNS.2023.3236625](https://doi.org/10.1109/TNS.2023.3236625).  
+Nuclear Science_, Vol. 70, No: 4, January, 2023, pp. 641-647. doi: [doi.org/10.1109/TNS.2023.3236625](https://doi.org/10.1109/TNS.2023.3236625).  
 
 **38\. \[IEEE.TED'23\]** Md Raquibuzzaman, Aleksandar Milenkovic, Biswajit Ray, "[Intrablock Wear Leveling to Counter Layer-to-Layer Endurance Variation of 3-D NAND Flash Memory](https://doi.org/10.1109/TED.2022.3224420)," _IEEE Transactions on Electron Devices_, Vol. 70, No: 1, January, 2023, pp. 70-75. doi: [10.1109/TED.2022.3224420](https://doi.org/10.1109/TED.2022.3224420).  
 
@@ -127,6 +127,12 @@ doi: [10.1016/S0026-2692(97)00043-8](https://doi.org/10.1016/S0026-2692(97)00043
 
 
 ## Conferences
+**80\. \[ACM.HotStorage'23\]** Md Raquibuzzaman, Aleksandar Milenkovic, Biswajit Ray,
+"[Hide-and-Seek: Hiding Secrets in Threshold Voltage Distributions of NAND
+Flash Memory Cells](https://)," in the _Proceedings of the 15th ACM Workshop
+on Hot Topics in Storage and File SystemsInternational Systems
+(HotStorage'23)_, July 9, 2023, Boston, MA, ACM New York, NY, 6 pages. doi:
+[10.1145/3599691.3603415](https://doi.org/10.1145/3599691.3603415).
 
 **79\. \[ACM.SYSTOR'22\]** Md Raquibuzzaman, Matchima Buddhanoy, Aleksandar Milenkovic, Biswajit Ray, "[Instant Data Sanitization on Multi-Level-Cell NAND Flash Memory](https://doi.org/10.1145/3534056.3534941)," in the _Proceedings of the 15the ACM International Systems and Storage Conference (SYSTOR'22)_, June 12-15, 2022, Haifa, Israel, ACM New York, NY, 11 pages. doi: [10.1145/3534056.3534941](https://doi.org/10.1145/3534056.3534941).
 
@@ -440,6 +446,9 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 **1\. \[IEEE.TCCA’99a\]** Jovan Djordjevic, Aleksandar Milenkovic and Slobodan Prodanovic, "Hierarchical Memory System Environment," _IEEE TCCA Newsletter_, February 1999, pp. 60-62.  
 
 ## Patents
+
+**3\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Random number generation systems and methods," USPTO No. 11620108, April 4, 2023 (awarded).  
+
 **2\. \[USPTO'17\]** Emil Jovanov, Aleksandar Milenkovic, Mladen Milosevic, "Systems and methods for automatically quantifying mobility," USPTO No. 9706949, July 18, 2017.  
 
 **1\. \[USPTO'09\]** Frank Eliot Levine, Aleksadnar Milenkovic, Milena Milenkovic, "Data and instruction address compression," USPTO No. 7496902, February 24, 2009.  
