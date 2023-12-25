@@ -18,7 +18,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 [Journals](#journals) | [Conferences](#conferences) | [Book Chapters](#chapters) | [Books](#books) | [Other](#other) | [Patents](#patents) | [Dissertation](#dissertation)
 
 ## Journals
-**39\. \[IEEE.TNS'23\]** Umeshwarnath Surendanathan, Horace Wilson, Maryla Wasiolek, Khalid Hattar, Aleksandar Milenkovic, Biswajit Ray, "[Total  Ionizing Dose Effects on the Power-up State of Static Random-Access Memory](https://doi.org/10.1109/TNS.2023.3236625)," _IEEE Transactions on Nuclear Science_, Vol. 70, No: 4, January, 2023, pp. 641-647. doi: [doi.org/10.1109/TNS.2023.3236625](https://doi.org/10.1109/TNS.2023.3236625).  
+
+**40\. \[IEEE.TNS'24\]** Umeshwarnath Surendanathan, Horace Wilson, Lei R. Cao, Aleksandar Milenkovic, Biswajit Ray, "[Analysis of SRAM PUF Integrity Under Ionizing Radiation: Effects of Stored Data and Technology Node](https://doi.org/10.1109/TNS.2023.3340949)," _IEEE Transactions on Nuclear Science_, Vol. ??, No: ??, December, 2023, pp. 641-647. doi: [doi.org/10.1109/TNS.2023.3340949](https://doi.org/10.1109/TNS.2023.3340949).  
+
+**39\. \[IEEE.TNS'23\]** Umeshwarnath Surendanathan, Horace Wilson, Maryla Wasiolek, Khalid Hattar, Aleksandar Milenkovic, Biswajit Ray, "[Total Ionizing Dose Effects on the Power-up State of Static Random-Access Memory](https://doi.org/10.1109/TNS.2023.3236625)," _IEEE Transactions on Nuclear Science_, Vol. 70, No: 4, January, 2023, pp. 641-647. doi: [doi.org/10.1109/TNS.2023.3236625](https://doi.org/10.1109/TNS.2023.3236625).  
 
 **38\. \[IEEE.TED'23\]** Md Raquibuzzaman, Aleksandar Milenkovic, Biswajit Ray, "[Intrablock Wear Leveling to Counter Layer-to-Layer Endurance Variation of 3-D NAND Flash Memory](https://doi.org/10.1109/TED.2022.3224420)," _IEEE Transactions on Electron Devices_, Vol. 70, No: 1, January, 2023, pp. 70-75. doi: [10.1109/TED.2022.3224420](https://doi.org/10.1109/TED.2022.3224420).  
 
@@ -367,7 +370,7 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 **10\. \[Springer.PPAM’99\]** Igor Ikodinovic, Aleksandar Milenkovic, Veljko M. Milutinovic, and Davor Magdic, "Limes: A Multiprocessor Simulation Environment for PC Platforms," in the _Proceedings of the 3rd International Conference on Parallel Processing and Applied Mathematics (PPAM’99)_, Kazimierz Dolny, Poland, September 14-17, 1999, pp. 398-412.  
 \[[pdf](files/ppam99.pdf)\]
 
-**9\. \[WCAE’99\]** Jovan Djordjevic, Aleksandar Milenkovic, Ivan Todorovic, and Darko Marinov, "CALKAS: A Computer Architecture Learning and Knowledge Assessment System," in the _Proceedings of the 4th Annual Workshop on Computer Architecture Education_, (held in conjunction with 5th HPCA), Orlando, Florida, USA, January 1999.  
+**9\. \[WCAE’99\]** Jovan Djordjevic, Aleksandar Milenkovic, Ivan Todorovic, and Darko Marinov, "CALKAS: A Computer Architecture Learning and Knowledge Assessment System," in the _Proceedings of the 4th Annual Workshop on Computer Architecture Education_, (held in conjunction with 5th HPCA), Orlando, Florida, USA, January 1999. pp. 1-6. doi: [10.1145/1275215.1275219](https://doi.org/10.1145/1275215.1275219).   
 \[[pdf](files/wcaehpca99.pdf)\]
 
 **8\. \[IEEE.APADS’98\]** Aleksandar Milenkovic and Veljko M. Milutinovic, "Cache Injection on Bus-based Multiprocessors," in the _Proceedings of the Workshop on Advances in Parallel and Distributed Systems_, (held in conjunction with 17-th IEEE Symposium on Reliable Distributed Systems), West Lafayette, Indiana, October 1998. doi: [10.1109/RELDIS.1998.740520](https://doi.org/10.1109/RELDIS.1998.740520).  
@@ -376,10 +379,10 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 **7\. \[ISCEE’98\]** Jovan Djordjevic, Miroslav Bojovic, and Aleksandar Milenkovic, "An Integrated Educational Environment for Computer Architecture and Organisation," in the _Proceedings of the International Symposium on Computer Employment and Education (ISCEE’98)_, Amiens, France, October 1998.  
 \[[pdf](files/iscee98.pdf)\]
 
-**6\. \[WCAE’98isca\]** Jovan Djordjevic, Aleksandar Milenkovic, and Slobodan Prodanovic, "A Hierarchical Memory System Environment," in the _Proceedings of the Workshop on Computer Architecture Education_ (held in conjunction with 25th ISCA), Barcelona, Spain, June 1998.  
+**6\. \[WCAE’98isca\]** Jovan Djordjevic, Aleksandar Milenkovic, and Slobodan Prodanovic, "A Hierarchical Memory System Environment," in the _Proceedings of the Workshop on Computer Architecture Education_ (held in conjunction with 25th ISCA), Barcelona, Spain, June 1998. pp. 1-6. doi: [10.1145/1275182.1275205](https://doi.org/10.1145/1275182.1275205)  
 \[[pdf](files/wcaeisca98.pdf)\]
 
-**5\. \[WCAE’98hpca\]** Jovan Djordjevic, Aleksandar Milenkovic, Nenad Grbanovic, and Miroslav Bojovic, "An Educational Environment for Teaching a Course in Computer Architecture and Organization," in the _Proceedings of the 4th Annual Workshop on Computer Architecture Education_, (held in conjunction with 4th HPCA), Las Vegas, Nevada, January 1998.  
+**5\. \[WCAE’98hpca\]** Jovan Djordjevic, Aleksandar Milenkovic, Nenad Grbanovic, and Miroslav Bojovic, "An Educational Environment for Teaching a Course in Computer Architecture and Organization," in the _Proceedings of the 4th Annual Workshop on Computer Architecture Education_, (held in conjunction with 4th HPCA), Las Vegas, Nevada, January 1998. June 1, 1998, pp. 1-6. doi: [10.1145/1275176.1275180](https://doi.org/10.1145/1275176.1275180).   
 \[[pdf](files/wcaehpca98.pdf)\]
 
 **4\. \[IEEE.HICSS’98b\]** Darko Marinov, Davor Magdic, Aleksandar Milenkovic, Jelica Protic, Igor Tartalja, and Veljko M. Milutinovic, "An Approach to Characterization of Parallel Applications for DSM Systems," in the _Proceedings of the 31st HICSS_, IEEE Computer Society Press, Vol. 7, January 1998, pp. 782-784. doi: [10.1109/HICSS.1998.649287](https://doi.org/10.1109/HICSS.1998.649287).  
@@ -412,6 +415,8 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 
 
 ## Books
+**2\. \[AM.IntroCE\]** Jovan Djordjevic, Zaharije Radivojevic, Marija Punt, Jelica Protic, Dragan Milicev, Aleksandar Milenkovic, Bosko Nikolic,  _Fundamentals of Computer Engineering: Component Design - Problems and Solutions_ (in Serbian), Academic Mind, Belgrade, Serbia, 2017.  
+
 **1\. \[AM.IntroCE\]** Jelica Protic, Aleksandar Milenkovic, _Introduction to Computer Engineering: Problems and Solutions_ (in Serbian), Academic Mind, Belgrade, Serbia, 2000.  
 
 ## Other 
@@ -431,18 +436,18 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 
 **4\. \[UH.HCBER’07\]** Xiaofang Chen, Emil Jovanov, Aleksandar Milenkovic, "A Real-Time Step Detection Using A Single 3d Accelerometer On The Upper-Trunk," in the _Proceedings of the Mini-Symposium on Digital Healthcare at 24th Annual Houston Conference on Biomedical Engineering Research_, Houston, TX, February 2007, pp. 239, 2007.
 
-**3\. \[IEEE.TCCA’00\]** Jovan Djordjevic, Aleksandar Milenkovic, Ivan Todorovic, Darko Marinov, "CALKAS: A Computer Architecture Learning and Knowledge Assessment System," _IEEE TCCA Newsletter_, July 2000, pp. 26-29.  
+**3\. \[IEEE.TCCA’00\]** Jovan Djordjevic, Aleksandar Milenkovic, Ivan Todorovic, Darko Marinov, "CALKAS: A Computer Architecture Learning and Knowledge Assessment System," _IEEE TCCA Newsletter_, July 2020, pp 26-29.  
 
-**2\. \[IEEE.TCCA’99b\]** Jovan Djordjevic, Aleksandar Milenkovic, Nenad Grbanovic, and Miroslav Bojovic, "An Educational Environment for Teaching a Course in Computer Architecture and Organization," _IEEE TCCA Newsletter_, July 1999, pp. 5-7.  
+**2\. \[IEEE.TCCA’99b\]** Jovan Djordjevic, Aleksandar Milenkovic, Nenad Grbanovic, and Miroslav Bojovic, "An Educational Environment for Teaching a Course in Computer Architecture and Organization,"  _IEEE TCCA Newsletter_, July 1999, pp. 5-7.  
 
-**1\. \[IEEE.TCCA’99a\]** Jovan Djordjevic, Aleksandar Milenkovic and Slobodan Prodanovic, "Hierarchical Memory System Environment," _IEEE TCCA Newsletter_, February 1999, pp. 60-62.  
+**1\. \[IEEE.TCCA’99a\]** Jovan Djordjevic, Aleksandar Milenkovic and Slobodan Prodanovic, "Hierarchical Memory System Environment," in the _IEEE TCCA Newsletter_, February 1999, pp. 60-62. 
 
 ## Patents
-**5\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No. 11762563, September 19, 2023 (awarded).  
+**5\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No. 11762563, September 19, 2023.  
 
-**4\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of three-dimensional flash memory," USPTO No. 11728004, August 15, 2023 (awarded).  
+**4\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of three-dimensional flash memory," USPTO No. 11728004, August 15, 2023.  
 
-**3\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Random number generation systems and methods," USPTO No. 11620108, April 4, 2023 (awarded).  
+**3\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Random number generation systems and methods," USPTO No. 11620108, April 4, 2023.  
 
 **2\. \[USPTO'17\]** Emil Jovanov, Aleksandar Milenkovic, Mladen Milosevic, "Systems and methods for automatically quantifying mobility," USPTO No. 9706949, July 18, 2017.  
 
