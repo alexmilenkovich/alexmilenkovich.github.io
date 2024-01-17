@@ -16,18 +16,18 @@ Huntsville](https://www.uah.edu).
 I received my Ph.D., M.S., and Dipl. Ing. degrees from the University of Belgrade, Serbia in 1999, 1997, and 1994, respectively.
 I joined UAH in 2001. Before that, I held academic positions at [the Dublin
 City University](https://dcu.ie) in Dublin, Ireland (2000-2001) and at [the School of
-Electrical Engineering](https://www.etf.bg.ac.rs), The Univeristy of Belgrade (1994-2000). 
+Electrical Engineering](https://www.etf.bg.ac.rs), The University of Belgrade (1994-2000). 
 
 My research interests span the areas of computer architecture, energy-efficient computing, 
 embedded systems, wireless sensor networks, and hardware design. 
-In particular my research focuses on non-volatile memories, hardware-oriented security, 
+In particular, my research focuses on non-volatile memories, hardware-oriented security, 
 architectures for ensuring code and data integrity and confidentiality (a.k.a., secure processors), 
 architectures for increased programmers' productivity and debuggability, and memory hierarchy optimizations. 
 I am also interested in developing new applications and systems for ubiquitous personal health monitoring (a.k.a., mHealth systems). 
 I lead [the LaCASA Laboratory](http://lacasa.uah.edu) and co-lead [the mHealth
 Laboratory](http://portal.mhealth.uah.edu).
 With my students and collaborators I have published over 140 peer-reviewed journal and conference articles and hold two U.S. patents.
-My papers have been cited over 6,900 times (as of March 2023). 
+My papers have been cited over 7,000 times (as of June 2023). 
 
 ## Contact
 

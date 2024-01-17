@@ -26,7 +26,8 @@ architectures for increased programmers' productivity and debuggability, and mem
 I am also interested in developing new applications and systems for ubiquitous personal health monitoring (a.k.a., mHealth systems). 
 I lead [the LaCASA Laboratory](http://lacasa.uah.edu) and co-lead [the mHealth
 Laboratory](http://portal.mhealth.uah.edu).
-With my students and collaborators I have published over 140 peer-reviewed journal and conference articles and hold two U.S. patents.
+With my students and collaborators I have published over 140 peer-reviewed journal and conference articles and hold
+five U.S. patents.
 My papers have been cited over 7,000 times (as of June 2023). 
 
 ## Contact
