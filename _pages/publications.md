@@ -19,7 +19,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Journals
 
-**40\. \[IEEE.TNS'24\]** Umeshwarnath Surendanathan, Horace Wilson, Lei R. Cao, Aleksandar Milenkovic, Biswajit Ray, "[Analysis of SRAM PUF Integrity Under Ionizing Radiation: Effects of Stored Data and Technology Node](https://doi.org/10.1109/TNS.2023.3340949)," _IEEE Transactions on Nuclear Science_, Vol. ??, No: ??, December, 2023, pp. 641-647. doi: [doi.org/10.1109/TNS.2023.3340949](https://doi.org/10.1109/TNS.2023.3340949).  
+**40\. \[IEEE.TNS'24\]** Umeshwarnath Surendanathan, Horace Wilson, Lei R. Cao, Aleksandar Milenkovic, Biswajit Ray, "[Analysis of SRAM PUF Integrity Under Ionizing Radiation: Effects of Stored Data and Technology Node](https://doi.org/10.1109/TNS.2023.3340949)," _IEEE Transactions on Nuclear Science_, Vol. 71, No: 4, April 2024, pp.485-491. doi: [doi.org/10.1109/TNS.2023.3340949](https://doi.org/10.1109/TNS.2023.3340949).    
 
 **39\. \[IEEE.TNS'23\]** Umeshwarnath Surendanathan, Horace Wilson, Maryla Wasiolek, Khalid Hattar, Aleksandar Milenkovic, Biswajit Ray, "[Total Ionizing Dose Effects on the Power-up State of Static Random-Access Memory](https://doi.org/10.1109/TNS.2023.3236625)," _IEEE Transactions on Nuclear Science_, Vol. 70, No: 4, January, 2023, pp. 641-647. doi: [doi.org/10.1109/TNS.2023.3236625](https://doi.org/10.1109/TNS.2023.3236625).  
 
@@ -137,7 +137,7 @@ doi: [10.1016/S0026-2692(97)00043-8](https://doi.org/10.1016/S0026-2692(97)00043
 
 **76\. \[IEEE.SE'21\]** Ranjan Hebbar, Aleksandar Milenkovic, "[A Preliminary Scalability Analysis of SPEC CPU2017 Benchmarks](https://doi.org/10.1109/SoutheastCon45413.2021.9401917)," in the _Proceedings of the IEEE Southeast Con 2021_, Virtual Event, March 11-14, 2021, 8 pages. doi: [10.1109/SoutheastCon45413.2021.9401917](https://doi.org/10.1109/SoutheastCon45413.2021.9401917).
 
-**75\. \[IEEE/ACM.DAC'20\]** Prawar Poudel, Biswajit Ray, and Aleksandar Milenkovic, "Flashmark: Watermarking of NOR Flash Memories for Counterfeit Detection," to appear in the _Proceedings of the 58th Design Automation Conference (DAC 2020)_, San Francisco, CA, July 19-23, 2020, 6 pages. doi:  [10.1109/DAC18072.2020.9218521](https://doi.org/10.1109/DAC18072.2020.9218521).    (double blind review, acceptance rate: 23%)     
+**75\. \[IEEE/ACM.DAC'20\]** Prawar Poudel, Biswajit Ray, and Aleksandar Milenkovic, "Flashmark: Watermarking of NOR Flash Memories for Counterfeit Detection," in the _Proceedings of the 58th Design Automation Conference (DAC 2020)_, San Francisco, CA, July 19-23, 2020, 6 pages. doi:  [10.1109/DAC18072.2020.9218521](https://doi.org/10.1109/DAC18072.2020.9218521).    (double blind review, acceptance rate: 23%)     
 \[[pdf](files/ppbram_dac20.pdf)\]
 
 **74\. \[Springer.NCS'20\]** Jason Winningham, David Coe, Jeffrey Kulick, Aleksandar Milenkovic, and Leth Etzkorn "A Single-Board Computing Constellation Supporting Integration of Hands-on Cybersecurity Laboratories into Operating Systems Courses," in the _Proceedings of the National Cyber Summit (NCS) - Research Track 2020_, pp. 78-91, Springer Nature Switzerland. doi: [10.1007/978-3-030-58703-1\_5](https://link.springer.com/chapter/10.1007%2F978-3-030-58703-1_5).

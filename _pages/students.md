@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Current Students
 
-
+**Sayan Samanta** (PhD student)
 
 
 ## Graduated PhD and Masters Students
