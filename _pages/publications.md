@@ -127,7 +127,9 @@ doi: [10.1016/S0026-2692(97)00043-8](https://doi.org/10.1016/S0026-2692(97)00043
 
 
 ## Conferences
-**80\. \[ACM.HotStorage'23\]** Md Raquibuzzaman, Aleksandar Milenkovic, Biswajit Ray, "[Hide-and-Seek: Hiding Secrets in Threshold Voltage Distributions of NAND Flash Memory Cells](https://)," in the _Proceedings of the 15th ACM Workshop on Hot Topics in Storage and File SystemsInternational Systems (HotStorage'23)_, July 9, 2023, Boston, MA, ACM New York, NY, 6 pages. doi: [10.1145/3599691.3603415](https://doi.org/10.1145/3599691.3603415).
+**81\. \[ACM.GLVLSI'24\]** Matchima Buddhanoy, Kamil Khan, Aleksandar Milenkovic, Sudeep Pasricha, Biswajit Ray, "[Improving Block Management in 3D NAND Flash SSDs with Sub-Block First Write Sequencing](https://dl.acm.org/doi/abs/10.1145/3649476.3658803)," in the _Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI'24)_, June 24, 2024, Clearwater, FL, ACM New York, NY, 5 pages (296-300). doi: [10.1145/3649476.3658803](https://doi.org/10.1145/3649476.3658803).
+
+**80\. \[ACM.HotStorage'23\]** Md Raquibuzzaman, Aleksandar Milenkovic, Biswajit Ray, "[Hide-and-Seek: Hiding Secrets in Threshold Voltage Distributions of NAND Flash Memory Cells](https://dl.acm.org/doi/10.1145/3599691.3603415)," in the _Proceedings of the 15th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage'23)_, July 9, 2023, Boston, MA, ACM New York, NY, 6 pages. doi: [10.1145/3599691.3603415](https://doi.org/10.1145/3599691.3603415).
 
 **79\. \[ACM.SYSTOR'22\]** Md Raquibuzzaman, Matchima Buddhanoy, Aleksandar Milenkovic, Biswajit Ray, "[Instant Data Sanitization on Multi-Level-Cell NAND Flash Memory](https://doi.org/10.1145/3534056.3534941)," in the _Proceedings of the 15the ACM International Systems and Storage Conference (SYSTOR'22)_, June 12-15, 2022, Haifa, Israel, ACM New York, NY, 11 pages. doi: [10.1145/3534056.3534941](https://doi.org/10.1145/3534056.3534941).
 

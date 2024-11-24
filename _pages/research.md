@@ -79,7 +79,7 @@ A number of U.S. patents references that paper as well ([Click here for a subset
 
 ## Collaborators 
 
-*   [Dr. Biswajit Ray](https://sites.google.com/a/uah.edu/ray_biswajit/), The Univeristy of Alabama in Huntsville
+*   [Dr. Biswajit Ray](https://www.engr.colostate.edu/laboratories/ramlab/), Colorado State University
 *   [Dr. David Coe](https://www.uah.edu/eng/departments/ece/faculty-staff/david-coe), The Univeristy of Alabama in Huntsville
 *   [Dr. Jeff Kulick](https://www.uah.edu/eng/departments/ece/faculty-staff/jeffrey-kulick), The University of Alabama in Huntsville
 *   [Dr. Martin Burtscher](http://www.cs.txstate.edu/~mb92/), Texas State University
