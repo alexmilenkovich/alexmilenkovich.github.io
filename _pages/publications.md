@@ -17,9 +17,13 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 [Journals](#journals) | [Conferences](#conferences) | [Book Chapters](#chapters) | [Books](#books) | [Other](#other) | [Patents](#patents) | [Dissertation](#dissertation)
 
+
 ## Journals
 
-**40\. \[IEEE.TNS'24\]** Umeshwarnath Surendanathan, Horace Wilson, Lei R. Cao, Aleksandar Milenkovic, Biswajit Ray, "[Analysis of SRAM PUF Integrity Under Ionizing Radiation: Effects of Stored Data and Technology Node](https://doi.org/10.1109/TNS.2023.3340949)," _IEEE Transactions on Nuclear Science_, Vol. 71, No: 4, April 2024, pp.485-491. doi: [doi.org/10.1109/TNS.2023.3340949](https://doi.org/10.1109/TNS.2023.3340949).    
+
+**41. \[IEEE.TNS'25\]** Umeshwarnath Surendanathan, Abishek S. Vellankanni, Aleksandar Milenkovic, Ujjval Guin, Biswajit Ray, "[Ionizing Radiation-Induced Data Imprinting Effects in SRAM Arrays](https://doi.org/10.1109/TNS.2025.3543233)," _IEEE Transactions on Nuclear Science_, Vol. 72, No: 4, April 2025, pp. 1252-1258. doi: [doi.org/10.1109/TNS.2025.3543233](https://doi.org/10.1109/TNS.2025.3543233).    
+
+**40\. \[IEEE.TNS'24\]** Umeshwarnath Surendanathan, Horace Wilson, Lei R. Cao, Aleksandar Milenkovic, Biswajit Ray, "[Analysis of SRAM PUF Integrity Under Ionizing Radiation: Effects of Stored Data and Technology Node](https://doi.org/10.1109/TNS.2023.3340949)," _IEEE Transactions on Nuclear Science_, Vol. 71, No: 4, April 2024, pp. 485-491. doi: [doi.org/10.1109/TNS.2023.3340949](https://doi.org/10.1109/TNS.2023.3340949).    
 
 **39\. \[IEEE.TNS'23\]** Umeshwarnath Surendanathan, Horace Wilson, Maryla Wasiolek, Khalid Hattar, Aleksandar Milenkovic, Biswajit Ray, "[Total Ionizing Dose Effects on the Power-up State of Static Random-Access Memory](https://doi.org/10.1109/TNS.2023.3236625)," _IEEE Transactions on Nuclear Science_, Vol. 70, No: 4, January, 2023, pp. 641-647. doi: [doi.org/10.1109/TNS.2023.3236625](https://doi.org/10.1109/TNS.2023.3236625).  
 
@@ -126,7 +130,14 @@ doi: [10.1016/S0026-2692(97)00043-8](https://doi.org/10.1016/S0026-2692(97)00043
 \[[pdf](files/am_microel96.pdf)\]
 
 
+
 ## Conferences
+
+**83\. \[IEEE.PAINE'24\]** Farzana Hoque, Izak Halseide, Aleksandar Milenkovic, Biswajit Ray, "[Data Remanence Vulnerabilities in Commercial SRAM at Low Temperature](https://doi.org/10.1109/PAINE62042.2024.10792674)," in the _Proceedings of the 2024 IEEE Physical Assurance and Inspection of Electronics (PAINE'24)_, November 12-14, 2024, Huntsville AL, 7
+pages. doi: [10.1109/PAINE62042.2024.10792674](https://doi.org/10.1109/PAINE62042.2024.10792674).
+
+**82\. \[IEEE.DRC'24\]** Umeshwarnath Surendanathan, Farzana Hoque, Aleksandar Milenkovic, Biswajit Ray, "[Technology Scaling Effects on SRAM Data Remanence](https://doi.org/10.1109/DRC61706.2024.10605370)," in the _Proceedings of the 2024 Device Research Conference (DRC'24)_, June 24-26, 2024, College Park, MD, 2 pages. doi: [10.1109/DRC61706.2024.10605370](https://doi.org/10.1109/DRC61706.2024.10605370).
+
 **81\. \[ACM.GLVLSI'24\]** Matchima Buddhanoy, Kamil Khan, Aleksandar Milenkovic, Sudeep Pasricha, Biswajit Ray, "[Improving Block Management in 3D NAND Flash SSDs with Sub-Block First Write Sequencing](https://dl.acm.org/doi/abs/10.1145/3649476.3658803)," in the _Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI'24)_, June 24, 2024, Clearwater, FL, ACM New York, NY, 5 pages (296-300). doi: [10.1145/3649476.3658803](https://doi.org/10.1145/3649476.3658803).
 
 **80\. \[ACM.HotStorage'23\]** Md Raquibuzzaman, Aleksandar Milenkovic, Biswajit Ray, "[Hide-and-Seek: Hiding Secrets in Threshold Voltage Distributions of NAND Flash Memory Cells](https://dl.acm.org/doi/10.1145/3599691.3603415)," in the _Proceedings of the 15th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage'23)_, July 9, 2023, Boston, MA, ACM New York, NY, 6 pages. doi: [10.1145/3599691.3603415](https://doi.org/10.1145/3599691.3603415).
@@ -444,8 +455,18 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 
 **1\. \[IEEE.TCCA’99a\]** Jovan Djordjevic, Aleksandar Milenkovic and Slobodan Prodanovic, "Hierarchical Memory System Environment," in the _IEEE TCCA Newsletter_, February 1999, pp. 60-62. 
 
-## Patents
+
+
+# Patents
+
+**7\. \[USPTO'25]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No. 12237032 February 25, 2025.  
+
+
+**6\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for identifyng counterfeit memory," USPTO No. 12159053, December 03, 2024.  
+
+
 **5\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No. 11762563, September 19, 2023.  
+
 
 **4\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of three-dimensional flash memory," USPTO No. 11728004, August 15, 2023.  
 

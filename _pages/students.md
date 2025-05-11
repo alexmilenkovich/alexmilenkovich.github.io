@@ -7,6 +7,7 @@ author_profile: true
 
 **Sayan Samanta** (PhD student)
 
+**Vojin Dzeletovic** (PhD student)
 
 ## Graduated PhD and Masters Students
 
