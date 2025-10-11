@@ -9,6 +9,10 @@ author_profile: true
 
 **Vojin Dzeletovic** (PhD student)
 
+**Mark Scheidker** (MS student)
+
+**Jack Pyburn**  (Undergradaute researcher)
+
 ## Graduated PhD and Masters Students
 
 **Ranjan Hebbar** (PhD, Summer 2021; first job: VmWare, Palo Alto, CA)

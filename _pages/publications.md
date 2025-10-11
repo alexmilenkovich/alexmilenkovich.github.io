@@ -21,6 +21,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 ## Journals
 
 
+**42. \[ACM.TECS'25\]** Matchima Buddhanoy, Aleksandar Milenkovic, Sudeep Pasricha, and Biswajit Ray, "[Page-Overwrite Data Sanitization in 3D NAND Flash: Challenges, Feasibility, and the PULSE Solution](https://doi.org/10.1145/3761798)," _ACM Transactions on Embedded Computing Systems_, Vol. 24, No: 5, Article 99, September 2025, 26 pages, doi: [doi.org/10.1145/3761798](https://doi.org/10.1145/3761798).    
+
 **41. \[IEEE.TNS'25\]** Umeshwarnath Surendanathan, Abishek S. Vellankanni, Aleksandar Milenkovic, Ujjval Guin, Biswajit Ray, "[Ionizing Radiation-Induced Data Imprinting Effects in SRAM Arrays](https://doi.org/10.1109/TNS.2025.3543233)," _IEEE Transactions on Nuclear Science_, Vol. 72, No: 4, April 2025, pp. 1252-1258. doi: [doi.org/10.1109/TNS.2025.3543233](https://doi.org/10.1109/TNS.2025.3543233).    
 
 **40\. \[IEEE.TNS'24\]** Umeshwarnath Surendanathan, Horace Wilson, Lei R. Cao, Aleksandar Milenkovic, Biswajit Ray, "[Analysis of SRAM PUF Integrity Under Ionizing Radiation: Effects of Stored Data and Technology Node](https://doi.org/10.1109/TNS.2023.3340949)," _IEEE Transactions on Nuclear Science_, Vol. 71, No: 4, April 2024, pp. 485-491. doi: [doi.org/10.1109/TNS.2023.3340949](https://doi.org/10.1109/TNS.2023.3340949).    
@@ -458,6 +460,10 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 
 
 # Patents
+
+**8\. \[USPTO'25]** Biswajit Ray, Aleksandar Milenkovic, Md Raquibuzzaman, Matchima Buddhanoy "Systems and methods for sanitization of multi-level cell (MLC) memory," USPTO No.
+12307097, May 20, 2025.  
+
 
 **7\. \[USPTO'25]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No. 12237032 February 25, 2025.  
 
