@@ -11,7 +11,7 @@ author_profile: true
 
 **Mark Scheidker** (MS student)
 
-**Jack Pyburn**  (Undergradaute researcher)
+**Jack Pyburn**  (Undergraduate researcher)
 
 ## Graduated PhD and Masters Students
 
