@@ -135,6 +135,17 @@ doi: [10.1016/S0026-2692(97)00043-8](https://doi.org/10.1016/S0026-2692(97)00043
 
 ## Conferences
 
+**86\. \[IEEE.SoutheastCon26b]** Vojin Dzeletovic, Aleksandar Milenkovic, "[Selecting Emerging Non-Volatile Memories for Embedded and IoT Systems: A Practical Guide](https://doi.org/10.1109/SoutheastCon63549.2026.11476373)," in the _Proceedings of the 2026 IEEE SoutheastCon_, March 13-15, 2026, Huntsville AL, pp 1-6, doi: [10.1109/SoutheastCon63549.2026.11476373](https://doi.org/10.1109/SoutheastCon63549.2026.11476373).
+
+
+**85\. \[IEEE.SoutheastCon26a]** Mark Scheidker, Prawar Poudel, Aleksandar Milenkovic, "[NANDWorks: A Low-Cost Testbed for ONFI-Compatible NAND Flash Experiments](https://doi.org/10.1109/SoutheastCon63549.2026.11476063)," in the _Proceedings of the 2026 IEEE SoutheastCon_, March 13-15, 2026, Huntsville AL, pp. 1-7, doi: [10.1109/SoutheastCon63549.2026.11476063](https://doi.org/10.1109/SoutheastCon63549.2026.11476063).
+
+
+**84\. \[IEEE.PAINE'25\]** Sayan Samanta, Biswajit Ray, Aleksandar Milenkovic, "[Analysis of Temperature Effect on SRAM PUF for Low Cost Applications](https://doi.org/10.1109/PAINE66113.2025.11320191)," in the _Proceedings of the
+2025 IEEE Physical Assurance and Inspection of Electronics
+(PAINE'25)_, October 14-16 2025, Denver, CO, pp. 1-7, doi: [10.1109/PAINE66113.2025.11320191](https://doi.org/10.1109/PAINE66113.2025.11320191).
+
+
 **83\. \[IEEE.PAINE'24\]** Farzana Hoque, Izak Halseide, Aleksandar Milenkovic, Biswajit Ray, "[Data Remanence Vulnerabilities in Commercial SRAM at Low Temperature](https://doi.org/10.1109/PAINE62042.2024.10792674)," in the _Proceedings of the 2024 IEEE Physical Assurance and Inspection of Electronics (PAINE'24)_, November 12-14, 2024, Huntsville AL, 7
 pages. doi: [10.1109/PAINE62042.2024.10792674](https://doi.org/10.1109/PAINE62042.2024.10792674).
 
@@ -146,7 +157,7 @@ pages. doi: [10.1109/PAINE62042.2024.10792674](https://doi.org/10.1109/PAINE6204
 
 **79\. \[ACM.SYSTOR'22\]** Md Raquibuzzaman, Matchima Buddhanoy, Aleksandar Milenkovic, Biswajit Ray, "[Instant Data Sanitization on Multi-Level-Cell NAND Flash Memory](https://doi.org/10.1145/3534056.3534941)," in the _Proceedings of the 15the ACM International Systems and Storage Conference (SYSTOR'22)_, June 12-15, 2022, Haifa, Israel, ACM New York, NY, 11 pages. doi: [10.1145/3534056.3534941](https://doi.org/10.1145/3534056.3534941).
 
-**78\. \[IEEE.IRPS'22\]** Md Raquibuzzaman; Md Mehedi Hasan; Aleksandar Milenkovic; Biswajit Ray, "[Layer-to-Layer Endurance Variation of 3D NAND Flash Memory](https://doi.org/10.1109/IRPS48227.2022.9764441)," in the _Proceedings of the 2022 IEEE International Reliability Physics Symposium (IRPS)_, pp. 1-5, March 27-31, 2022, Dallas, TX. doi: [10.1109/IRPS48227.2022.9764441](https://doi.org/10.1109/IRPS48227.2022.9764441).
+**78\. \[IEEE.IRPS'22\]** Md Raquibuzzaman, Md Mehedi Hasan, Aleksandar Milenkovic, Biswajit Ray, "[Layer-to-Layer Endurance Variation of 3D NAND Flash Memory](https://doi.org/10.1109/IRPS48227.2022.9764441)," in the _Proceedings of the 2022 IEEE International Reliability Physics Symposium (IRPS)_, pp. 1-5, March 27-31, 2022, Dallas, TX. doi: [10.1109/IRPS48227.2022.9764441](https://doi.org/10.1109/IRPS48227.2022.9764441).
 
 **77\. \[ACM.ICPE'21\]** Ranjan Hebbar, Aleksandar Milenkovic, "[An Experimental Evaluation of Workload Driven DVFS](https://dl.acm.org/doi/10.1145/3447545.3451192?cid=81100564460)," in the _Companion Proceedings of the ACM/SPEC International Conference on Performance Engineering (ICPE'21)_, Virtual Event, France, April 19-23, 2021, ACM New York, NY, 8 pages. doi: [10.1145/3447545.3451192](https://doi.org/10.1145/3447545.3451192).
 
@@ -459,24 +470,30 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 
 
 
+
 # Patents
 
-**8\. \[USPTO'25]** Biswajit Ray, Aleksandar Milenkovic, Md Raquibuzzaman, Matchima Buddhanoy "Systems and methods for sanitization of multi-level cell (MLC) memory," USPTO No.
+
+**9\. \[USPTO'26\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of three-dimensional falsh memory," USPTO No.
+12592295, March 31, 2026.  
+
+
+**8\. \[USPTO'25b\]** Biswajit Ray, Aleksandar Milenkovic, Md Raquibuzzaman, Matchima Buddhanoy "Systems and methods for sanitization of multi-level cell (MLC) memory," USPTO No.
 12307097, May 20, 2025.  
 
 
-**7\. \[USPTO'25]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No. 12237032 February 25, 2025.  
+**7\. \[USPTO'25a\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No. 12237032, February 25, 2025.  
 
 
-**6\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for identifyng counterfeit memory," USPTO No. 12159053, December 03, 2024.  
+**6\. \[USPTO'24\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for identifyng counterfeit memory," USPTO No. 12159053, December 03, 2024.  
 
 
-**5\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No. 11762563, September 19, 2023.  
+**5\. \[USPTO'23c\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No. 11762563, September 19, 2023.  
 
 
-**4\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of three-dimensional flash memory," USPTO No. 11728004, August 15, 2023.  
+**4\. \[USPTO'23b\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of three-dimensional flash memory," USPTO No. 11728004, August 15, 2023.  
 
-**3\. \[USPTO'23\]** Biswajit Ray, Aleksandar Milenkovic, "Random number generation systems and methods," USPTO No. 11620108, April 4, 2023.  
+**3\. \[USPTO'23a\]** Biswajit Ray, Aleksandar Milenkovic, "Random number generation systems and methods," USPTO No. 11620108, April 4, 2023.  
 
 **2\. \[USPTO'17\]** Emil Jovanov, Aleksandar Milenkovic, Mladen Milosevic, "Systems and methods for automatically quantifying mobility," USPTO No. 9706949, July 18, 2017.  
 

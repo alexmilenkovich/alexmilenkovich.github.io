@@ -21,7 +21,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 ## Journals
 
 
-**42. \[ACM.TECS'25\]** Matchima Buddhanoy, Aleksandar Milenkovic, Sudeep Pasricha, and Biswajit Ray, "[Page-Overwrite Data Sanitization in 3D NAND Flash: Challenges, Feasibility, and the PULSE Solution](https://doi.org/10.1145/3761798)," _ACM Transactions on Embedded Computing Systems, Vol. 24, No: 5, Article 99, September 2025, 26 pages, doi: [doi.org/10.1145/3761798](https://doi.org/10.1145/3761798).    
+**42. \[ACM.TECS'25\]** Matchima Buddhanoy, Aleksandar Milenkovic, Sudeep Pasricha, and Biswajit Ray, "[Page-Overwrite Data Sanitization in 3D NAND Flash: Challenges, Feasibility, and the PULSE Solution](https://doi.org/10.1145/3761798)," _ACM Transactions on Embedded Computing Systems_, Vol. 24, No: 5, Article 99, September 2025, 26 pages, doi: [doi.org/10.1145/3761798](https://doi.org/10.1145/3761798).    
 
 **41. \[IEEE.TNS'25\]** Umeshwarnath Surendanathan, Abishek S. Vellankanni, Aleksandar Milenkovic, Ujjval Guin, Biswajit Ray, "[Ionizing Radiation-Induced Data Imprinting Effects in SRAM Arrays](https://doi.org/10.1109/TNS.2025.3543233)," _IEEE Transactions on Nuclear Science_, Vol. 72, No: 4, April 2025, pp. 1252-1258. doi: [doi.org/10.1109/TNS.2025.3543233](https://doi.org/10.1109/TNS.2025.3543233).    
 
@@ -135,6 +135,21 @@ doi: [10.1016/S0026-2692(97)00043-8](https://doi.org/10.1016/S0026-2692(97)00043
 
 ## Conferences
 
+**86\. \[IEEE.SoutheastCon26]** Vojin Dzeletovic, Aleksandar Milenkovic, "[Selecting Emerging Non-Volatile Memories for Embedded and IoT Systems: A Practical Guide](https://doi.org/10.1109/SoutheastCon63549.2026.11476373)," in the _Proceedings of the 2026 IEEE SoutheastCon, March 13-15, 2026, Huntsville AL, 7
+pages. doi: [10.1109/SoutheastCon63549.2026.11476373](https://doi.org/10.1109/SoutheastCon63549.2026.11476373).
+
+
+
+**85\. \[IEEE.SoutheastCon26]** Mark Scheidker, Prawar Poudel, Aleksandar Milenkovic, "[NANDWorks: A Low-Cost Testbed for ONFI-Compatible NAND Flash Experiments](https://doi.org/10.1109/SoutheastCon63549.2026.11476063)," in the _Proceedings of the 2026 IEEE SoutheastCon, March 13-15, 2026, Huntsville AL, 7
+pages. doi: [10.1109/SoutheastCon63549.2026.11476063](https://doi.org/10.1109/SoutheastCon63549.2026.11476063).
+
+
+**84\. \[IEEE.PAINE'25\]** Sayan Samanta, Biswajit Ray, Aleksandar Milenkovic, "[Analysis of Temperature Effect on SRAM PUF for Low Cost Applications](https://doi.org/10.1109/PAINE66113.2025.11320191)," in the _Proceedings of the
+2025 IEEE Physical Assurance and Inspection of Electronics
+(PAINE'25)_, October 14-16 2025, Denver, CO, pp. 1-7
+, doi: [10.1109/PAINE66113.2025.11320191](https://doi.org/10.1109/PAINE66113.2025.11320191).
+
+
 **83\. \[IEEE.PAINE'24\]** Farzana Hoque, Izak Halseide, Aleksandar Milenkovic, Biswajit Ray, "[Data Remanence Vulnerabilities in Commercial SRAM at Low Temperature](https://doi.org/10.1109/PAINE62042.2024.10792674)," in the _Proceedings of the 2024 IEEE Physical Assurance and Inspection of Electronics (PAINE'24)_, November 12-14, 2024, Huntsville AL, 7
 pages. doi: [10.1109/PAINE62042.2024.10792674](https://doi.org/10.1109/PAINE62042.2024.10792674).
 
@@ -146,7 +161,7 @@ pages. doi: [10.1109/PAINE62042.2024.10792674](https://doi.org/10.1109/PAINE6204
 
 **79\. \[ACM.SYSTOR'22\]** Md Raquibuzzaman, Matchima Buddhanoy, Aleksandar Milenkovic, Biswajit Ray, "[Instant Data Sanitization on Multi-Level-Cell NAND Flash Memory](https://doi.org/10.1145/3534056.3534941)," in the _Proceedings of the 15the ACM International Systems and Storage Conference (SYSTOR'22)_, June 12-15, 2022, Haifa, Israel, ACM New York, NY, 11 pages. doi: [10.1145/3534056.3534941](https://doi.org/10.1145/3534056.3534941).
 
-**78\. \[IEEE.IRPS'22\]** Md Raquibuzzaman; Md Mehedi Hasan; Aleksandar Milenkovic; Biswajit Ray, "[Layer-to-Layer Endurance Variation of 3D NAND Flash Memory](https://doi.org/10.1109/IRPS48227.2022.9764441)," in the _Proceedings of the 2022 IEEE International Reliability Physics Symposium (IRPS)_, pp. 1-5, March 27-31, 2022, Dallas, TX. doi: [10.1109/IRPS48227.2022.9764441](https://doi.org/10.1109/IRPS48227.2022.9764441).
+**78\. \[IEEE.IRPS'22\]** Md Raquibuzzaman, Md Mehedi Hasan, Aleksandar Milenkovic, Biswajit Ray, "[Layer-to-Layer Endurance Variation of 3D NAND Flash Memory](https://doi.org/10.1109/IRPS48227.2022.9764441)," in the _Proceedings of the 2022 IEEE International Reliability Physics Symposium (IRPS)_, pp. 1-5, March 27-31, 2022, Dallas, TX. doi: [10.1109/IRPS48227.2022.9764441](https://doi.org/10.1109/IRPS48227.2022.9764441).
 
 **77\. \[ACM.ICPE'21\]** Ranjan Hebbar, Aleksandar Milenkovic, "[An Experimental Evaluation of Workload Driven DVFS](https://dl.acm.org/doi/10.1145/3447545.3451192?cid=81100564460)," in the _Companion Proceedings of the ACM/SPEC International Conference on Performance Engineering (ICPE'21)_, Virtual Event, France, April 19-23, 2021, ACM New York, NY, 8 pages. doi: [10.1145/3447545.3451192](https://doi.org/10.1145/3447545.3451192).
 
