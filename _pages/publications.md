@@ -134,14 +134,16 @@ doi: [10.1016/S0026-2692(97)00043-8](https://doi.org/10.1016/S0026-2692(97)00043
 
 ## Conferences
 
-**89\. \[IEEE.HOST'26]** Anjali Murali, Matchima Buddhanoy, Mondol Anik Kumar, Aleksandar Milenkovic, Indrajit Ray, Sudeep Pasricha, Biswajit Ray, "[Erasing Is Not Enough: Data Leakage From Sanitized Charge-Trap NOR Flash Devices](https://doi.org/10.1109/HOST68814.2026.11604779)," in the _Proceedings of the 2026 IEEE
+**89\. \[ACM.GLSVLSI'26]** Sayan Samanta, Biswajit Ray, Aleksandar Milenkovic, "[SRAM DNA: Spatial Signatures in Power-Up States for Memory Family Identification](https://doi.org/10.1145/3787109.3815243)," in the _Proceedings of the
+Great Lake Symposium on VLSI 2026_, June 22-24, 2026, Canandaigua, NY, USA, pp
+701-708, doi: [10.1145/3787109.3815243](https://doi.org/10.1145/3787109.3815243).
+
+
+
+**88\. \[IEEE.HOST'26]** Anjali Murali, Matchima Buddhanoy, Mondol Anik Kumar, Aleksandar Milenkovic, Indrajit Ray, Sudeep Pasricha, Biswajit Ray, "[Erasing Is Not Enough: Data Leakage From Sanitized Charge-Trap NOR Flash Devices](https://doi.org/10.1109/HOST68814.2026.11604779)," in the _Proceedings of the 2026 IEEE
 International Symposium on Hardware Oriented Security and Trust (HOST)_, May 4-6, 2026, Washington DC, USA, pp
 1-11, doi: [10.1109/HOST68814.2026.11604779](https://doi.org/10.1109/HOST68814.2026.11604779).
 (best paper candidate)
-
-**88\. \[ACM.GLSVLSI'26]** Sayan Samanta, Biswajit Ray, Aleksandar Milenkovic, "[SRAM DNA: Spatial Signatures in Power-Up States for Memory Family Identification](https://doi.org/10.1145/3787109.3815243)," in the _Proceedings of the
-Great Lake Symposium on VLSI 2026_, June 22-24, 2026, Canandaigua, NY, USA, pp
-701-708, doi: [10.1145/3787109.3815243](https://doi.org/10.1145/3787109.3815243).
 
 
 
