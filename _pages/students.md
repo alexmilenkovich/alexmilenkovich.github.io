@@ -5,15 +5,19 @@ author_profile: true
 ---
 ## Current Students
 
-**Sayan Samanta** (PhD student)
+**Sayan Samanta** (PhD candidate)
 
 **Vojin Dzeletovic** (PhD student)
 
-**Mark Scheidker** (MS student)
+**Jackson Lawrence** (PhD student) 
 
 **Jack Pyburn**  (Undergraduate researcher)
 
 ## Graduated PhD and Masters Students
+
+**Mark Scheidker** (MS, Spring 2026, first job: NASA, Marshall Space Flight Center, AL)  
+*   Thesis: [NANDWorks: A Low-cost Testbed for Interfacing ONFI-compatible NAND Flash Memory Devices](../publications/files/mark.scheidker.thesis.pdf)
+
 
 **Ranjan Hebbar** (PhD, Summer 2021; first job: VmWare, Palo Alto, CA)
 

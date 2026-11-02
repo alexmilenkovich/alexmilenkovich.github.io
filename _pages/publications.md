@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "Publications"
+
 permalink: /publications/
 author_profile: true
 output: html_document
@@ -135,10 +134,27 @@ doi: [10.1016/S0026-2692(97)00043-8](https://doi.org/10.1016/S0026-2692(97)00043
 
 ## Conferences
 
-**86\. \[IEEE.SoutheastCon26b]** Vojin Dzeletovic, Aleksandar Milenkovic, "[Selecting Emerging Non-Volatile Memories for Embedded and IoT Systems: A Practical Guide](https://doi.org/10.1109/SoutheastCon63549.2026.11476373)," in the _Proceedings of the 2026 IEEE SoutheastCon_, March 13-15, 2026, Huntsville AL, pp 1-6, doi: [10.1109/SoutheastCon63549.2026.11476373](https://doi.org/10.1109/SoutheastCon63549.2026.11476373).
+**89\. \[IEEE.HOST'26]** Anjali Murali, Matchima Buddhanoy, Mondol Anik Kumar, Aleksandar Milenkovic, Indrajit Ray, Sudeep Pasricha, Biswajit Ray, "[Erasing Is Not Enough: Data Leakage From Sanitized Charge-Trap NOR Flash Devices](https://doi.org/10.1109/HOST68814.2026.11604779)," in the _Proceedings of the 2026 IEEE
+International Symposium on Hardware Oriented Security and Trust (HOST)_, May 4-6, 2026, Washington DC, USA, pp
+1-11, doi: [10.1109/HOST68814.2026.11604779](https://doi.org/10.1109/HOST68814.2026.11604779).
+(best paper candidate)
+
+**88\. \[ACM.GLSVLSI'26]** Sayan Samanta, Biswajit Ray, Aleksandar Milenkovic, "[SRAM DNA: Spatial Signatures in Power-Up States for Memory Family Identification](https://doi.org/10.1145/3787109.3815243)," in the _Proceedings of the
+Great Lake Symposium on VLSI 2026_, June 22-24, 2026, Canandaigua, NY, USA, pp
+701-708, doi: [10.1145/3787109.3815243](https://doi.org/10.1145/3787109.3815243).
 
 
-**85\. \[IEEE.SoutheastCon26a]** Mark Scheidker, Prawar Poudel, Aleksandar Milenkovic, "[NANDWorks: A Low-Cost Testbed for ONFI-Compatible NAND Flash Experiments](https://doi.org/10.1109/SoutheastCon63549.2026.11476063)," in the _Proceedings of the 2026 IEEE SoutheastCon_, March 13-15, 2026, Huntsville AL, pp. 1-7, doi: [10.1109/SoutheastCon63549.2026.11476063](https://doi.org/10.1109/SoutheastCon63549.2026.11476063).
+
+**87\. \[IEEE.ISQED'26]** Matchima Buddhanoy, Habib Ur Rahman, Aleksandar Milenkovic, Sudeep Pasricha, Biswajit Ray, "[Descrambling the Scrambler: Experimental Extraction of Data Scrambling Keys in COTS NAND Flash](https://doi.org/10.1109/ISQED69900.2026.11534737)," in the _Proceedings of the
+2026 27th International Symposium on Quality Electronic Design (ISQED)_,
+April  08-10, 2026, San Francisco, CA, USA, 2026, pp. 1-8, doi:
+[10.1109/ISQED69900.2026.11534737](https://doi.org/10.1109/ISQED69900.2026.11534737).
+
+
+**86\. \[IEEE.SoutheastCon'26b]** Vojin Dzeletovic, Aleksandar Milenkovic, "[Selecting Emerging Non-Volatile Memories for Embedded and IoT Systems: A Practical Guide](https://doi.org/10.1109/SoutheastCon63549.2026.11476373)," in the _Proceedings of the 2026 IEEE SoutheastCon_, March 13-15, 2026, Huntsville AL, pp 1-6, doi: [10.1109/SoutheastCon63549.2026.11476373](https://doi.org/10.1109/SoutheastCon63549.2026.11476373).
+
+
+**85\. \[IEEE.SoutheastCon'26a]** Mark Scheidker, Prawar Poudel, Aleksandar Milenkovic, "[NANDWorks: A Low-Cost Testbed for ONFI-Compatible NAND Flash Experiments](https://doi.org/10.1109/SoutheastCon63549.2026.11476063)," in the _Proceedings of the 2026 IEEE SoutheastCon_, March 13-15, 2026, Huntsville AL, pp. 1-7, doi: [10.1109/SoutheastCon63549.2026.11476063](https://doi.org/10.1109/SoutheastCon63549.2026.11476063).
 
 
 **84\. \[IEEE.PAINE'25\]** Sayan Samanta, Biswajit Ray, Aleksandar Milenkovic, "[Analysis of Temperature Effect on SRAM PUF for Low Cost Applications](https://doi.org/10.1109/PAINE66113.2025.11320191)," in the _Proceedings of the
@@ -474,30 +490,38 @@ doi: [10.1109/SSST.2003.1194606](https://doi.org/10.1109/SSST.2003.1194606).
 # Patents
 
 
-**9\. \[USPTO'26\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of three-dimensional falsh memory," USPTO No.
-12592295, March 31, 2026.  
+**9\. \[USPTO'26\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of three-dimensional
+flash memory," USPTO No.
+12,592,295, March 31, 2026.  
 
 
 **8\. \[USPTO'25b\]** Biswajit Ray, Aleksandar Milenkovic, Md Raquibuzzaman, Matchima Buddhanoy "Systems and methods for sanitization of multi-level cell (MLC) memory," USPTO No.
-12307097, May 20, 2025.  
+12,307,097, May 20, 2025.  
 
 
-**7\. \[USPTO'25a\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No. 12237032, February 25, 2025.  
+**7\. \[USPTO'25a\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No.
+12,237,032, February 25, 2025.  
 
 
-**6\. \[USPTO'24\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for identifyng counterfeit memory," USPTO No. 12159053, December 03, 2024.  
+**6\. \[USPTO'24\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for identifyng counterfeit memory," USPTO No.
+12,159,053, December 03, 2024.  
 
 
-**5\. \[USPTO'23c\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No. 11762563, September 19, 2023.  
+**5\. \[USPTO'23c\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of memory," USPTO No.
+11,762,563, September 19, 2023.  
 
 
-**4\. \[USPTO'23b\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of three-dimensional flash memory," USPTO No. 11728004, August 15, 2023.  
+**4\. \[USPTO'23b\]** Biswajit Ray, Aleksandar Milenkovic, "Systems and methods for improving radiation tolerance of three-dimensional flash memory," USPTO No.
+11,728,004, August 15, 2023.  
 
-**3\. \[USPTO'23a\]** Biswajit Ray, Aleksandar Milenkovic, "Random number generation systems and methods," USPTO No. 11620108, April 4, 2023.  
+**3\. \[USPTO'23a\]** Biswajit Ray, Aleksandar Milenkovic, "Random number generation systems and methods," USPTO No.
+11,620,108, April 4, 2023.  
 
-**2\. \[USPTO'17\]** Emil Jovanov, Aleksandar Milenkovic, Mladen Milosevic, "Systems and methods for automatically quantifying mobility," USPTO No. 9706949, July 18, 2017.  
+**2\. \[USPTO'17\]** Emil Jovanov, Aleksandar Milenkovic, Mladen Milosevic, "Systems and methods for automatically quantifying mobility," USPTO No.
+9,706,949, July 18, 2017.  
 
-**1\. \[USPTO'09\]** Frank Eliot Levine, Aleksadnar Milenkovic, Milena Milenkovic, "Data and instruction address compression," USPTO No. 7496902, February 24, 2009.  
+**1\. \[USPTO'09\]** Frank Eliot Levine, Aleksadnar Milenkovic, Milena Milenkovic, "Data and instruction address compression," USPTO No.
+7,496,902, February 24, 2009.  
 
 ## Dissertation
 **2\.** Aleksandar Milenkovic, _Cache injection in bus-based shared memory multiprocessors_, PhD dissertation, School of Electrical Engineering, University of Belgrade, Serbia, 1999.  
