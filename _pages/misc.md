@@ -26,7 +26,7 @@ It was a sunny day, with fall colors in full display and wind rustling through t
 Along the way, I kept noticing the unmistakable smell of cooked shrimp. 
 It seemed so out of place that I hesitated to acknowledge it until my wife
 confirmed that she smelled it too.
-We later learned about the shrip mushroom, _Russula xerampelina_, whose
+We later learned about the shrimp mushroom, _Russula xerampelina_, whose
 distinctive odor offered a possible explanation about the scent accompanying
 our hike.    
 
